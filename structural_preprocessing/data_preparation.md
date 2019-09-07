@@ -7,7 +7,9 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 <a name="issues"></a> 
 ## Issues linked to NHP imaging
 - non standard orientation: sphinx position, oblique orientation
-<img src="../images/misorientation.png" STYLE="position:relative; border:100px"  width="400" align="middle">
+<div style="position:relative; height:60px;">
+<img src="../images/misorientation.png" style="position:absolute; top:-10px; left:-30px; width:80px; height:80px; border:none;"  width="400" align="middle">
+</div>
 - strong intensity bias due to a huge variety of coils used
 <img src="../images/bias.png" width="300" align="middle">
 - large FOV / non brain tissue
