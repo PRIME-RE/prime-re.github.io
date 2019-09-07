@@ -8,13 +8,12 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 ![logo](images/social_preview_image.png)
 
 1. Structural preprocessing
-    * [Data preparation: reorientations, cropping etc](structural_preprocessing/data_preparation.md)
-    * [Registration to template](structural_preprocessing/data_preparation.md#pookie)
-    * Brain extraction / skull stripping
-    * Denoising
-    * Segmentation into tissue types
-    * Surface creatiom
-    * Morphometry 
+    * [Description](structural_preprocessing/data_preparation.md)
+    * [Issues linked to NHP imaging](structural_preprocessing/data_preparation.md#issues)
+    * [Steps](structural_preprocessing/data_preparation.md#steps)
+    * [Links to pipelines](structural_preprocessing/data_preparation.md#links)
+    * [Communication](structural_preprocessing/data_preparation.md#communication)
+   
 
 2. fMRI preprocessing
 
