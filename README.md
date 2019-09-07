@@ -18,6 +18,12 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
       - [Surface generation](structural_preprocessing/data_preparation.md#surf)
       - [Morphometry measures (thickness, curvature etc)](structural_preprocessing/data_preparation.md#measures)
   - [Links to pipelines](pipelines/pipelines_reviews.md#links)
+<description><summary>Check them out!</summary>
+  - Chris
+  - MeCa
+  
+ </description>
+ 
   - [Communication](structural_preprocessing/data_preparation.md#communication)
    
 
