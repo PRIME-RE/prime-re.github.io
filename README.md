@@ -7,7 +7,7 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 
 ![logo](images/social_preview_image.png)
 
-1. Structural preprocessing
+### 1. Structural preprocessing
   - [Description](structural_preprocessing/data_preparation.md)
   - [Issues linked to NHP imaging](structural_preprocessing/data_preparation.md#issues)
   - [Steps](structural_preprocessing/data_preparation.md#steps)
@@ -17,12 +17,12 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
       - [Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)](structural_preprocessing/data_preparation.md#segmentation)
       - [Surface generation](structural_preprocessing/data_preparation.md#surf)
       - [Morphometry measures (thickness, curvature etc)](structural_preprocessing/data_preparation.md#measures)
-  - [Links to pipelines](structural_preprocessing/data_preparation.md#links)
-  - [Chris' notebook html](Surfaces_and_Flatmaps.html) | [Download Chris' notebook](Surfaces_and_Flatmaps.html)
+  - [Links to pipelines](structural_preprocessing/data_preparation.md#links):
+      [Chris' notebook html](Surfaces_and_Flatmaps.html) | [Download Chris' notebook](Surfaces_and_Flatmaps.html)
   - [Communication](structural_preprocessing/data_preparation.md#communication)
    
 
-2. fMRI preprocessing
+### 2. fMRI preprocessing
 
 
 
