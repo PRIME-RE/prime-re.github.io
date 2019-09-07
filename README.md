@@ -1,7 +1,9 @@
 ## Welcome to PRIME-RE
 ### The PRIMatE Research Exchange
 
-[Chris notebook](Surfaces_and_Flatmaps.html)
+This webpage lists the main problems and solutions associated with nonhuman primate (NHP) magnetic resonance imaging (MRI).
+For each of the commonly performed processing steps commonly done with NHP MRI data, we aim to provide a description of the main difficulties and the existing solutions. We home that PRIME-RE will serve as resource for NHP MRI researchers.
+The webpages is maintained and curated by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). 
 
 ![logo](images/social_preview_image.png)
 
@@ -49,4 +51,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Testing ground
-Test link to a notebook: [Surfaces_and_Flatmaps.ipynb](Surfaces_and_Flatmaps.ipynb)
+[View Chris's notebook](Surfaces_and_Flatmaps.html)
+[Download Chris's notebook](Surfaces_and_Flatmaps.html)
