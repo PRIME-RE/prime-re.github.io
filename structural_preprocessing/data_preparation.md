@@ -7,7 +7,7 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 <a name="issues"></a> 
 ## Issues linked to NHP imaging
 - non-standard orientation: sphinx position, oblique orientation
-[[https://github.com/julfou81/repository/PRIME-RE/prime-re.github.io/master/images/misorientation.png|alt=octocat]]
+![Alt text](../images/misorientation.png?raw=true "Title")
 - strong intensity bias due to a huge variety of coils used.
 -  
 
