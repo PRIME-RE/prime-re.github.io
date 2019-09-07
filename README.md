@@ -21,7 +21,7 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
   - [Communication](structural_preprocessing/data_preparation.md#communication)
    
 
-### 2. [fMRI preprocessing](functional_preprocessing/)
+### [2. fMRI preprocessing](functional_preprocessing/)
 
 
 
