@@ -1,8 +1,8 @@
 
-# Brain Extraction pipelines
+# Structural preprocessing
 
 ## Description
-The goal is to get a clean extracted brain
+Several steps to get to a segmented brain
 
 ## Issues linked to NHP imaging
 -non-standard orientation: shinx position, oblique orientation
