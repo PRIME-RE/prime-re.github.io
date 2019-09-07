@@ -3,7 +3,7 @@
 
 [Chris notebook](Surfaces_and_Flatmaps.html)
 
-![logo](images/logo.png)
+![logo](images/social_preview_image.png)
 
 1. Structural preprocessing
     * Data preparation: reorientations, cropping etc
