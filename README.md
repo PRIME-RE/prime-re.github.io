@@ -1,9 +1,9 @@
 ## Welcome to PRIME-RE
 ### The PRIMatE Research Exchange
 
-This webpage lists the main problems and solutions associated with nonhuman primate (NHP) magnetic resonance imaging (MRI).
-For each of the commonly performed processing steps commonly done with NHP MRI data, we aim to provide a description of the main difficulties and the existing solutions. We home that PRIME-RE will serve as resource for NHP MRI researchers.
-The webpages is maintained and curated by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). 
+The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges.
+PRIME-RE aims to provide a description of the main difficulties and the existing solutions associated with each of the processing steps commonly performed on NHP MRI data.
+PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). 
 
 ![logo](images/social_preview_image.png)
 
