@@ -17,7 +17,7 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 
 - **What is is about?**
 
-- **Problems**
+- **Solutions**
  
 ### Registration to template
 
