@@ -9,9 +9,9 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 - non standard orientation: sphinx position, oblique orientation
 <div style="text-align:center"><img src="../images/misorientation.png" style="position:absolute; top:-10px; left:-30px; width:80px; height:80px; border:none;"  width="400" align="middle"></div>
 - strong intensity bias due to a huge variety of coils used
-<img src="../images/bias.png" width="300" align="middle">
+<div style="text-align:center"><img src="../images/bias.png" width="300" align="middle"></div>
 - large FOV / non brain tissue
-<img src="../images/non_brain.png" width="400" align="middle">
+<div style="text-align:center"><img src="../images/non_brain.png" width="400" align="middle"></div>
 
 <a name="steps"></a> 
 ## Steps
