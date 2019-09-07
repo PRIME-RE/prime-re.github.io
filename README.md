@@ -7,8 +7,8 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 
 ![logo](images/social_preview_image.png)
 
-### 1. Structural preprocessing
-  - [Description](structural_preprocessing/data_preparation.md)
+### 1. Structural preprocessing(structural_preprocessing/data_preparation.md)
+  - [Description](structural_preprocessing/data_preparation.md#description)
   - [Issues linked to NHP imaging](structural_preprocessing/data_preparation.md#issues)
   - [Steps](structural_preprocessing/data_preparation.md#steps)
       - [Preparation of data (Cropping, deoblique…)](structural_preprocessing/data_preparation.md#preparation)
