@@ -12,6 +12,7 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
     * [Issues linked to NHP imaging](structural_preprocessing/data_preparation.md#issues)
     * [Steps](structural_preprocessing/data_preparation.md#steps)
     <details><summary>Steps</summary>
+
       - [Preparation of data (Cropping, deoblique…)](structural_preprocessing/data_preparation.md#preparation)
       - [Registration to template](structural_preprocessing/data_preparation.md#registration)
       - [Brain extraction / skull stripping](structural_preprocessing/data_preparation.md#extraction)
@@ -19,6 +20,7 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
       - [Surface generation](structural_preprocessing/data_preparation.md#surf)
       - [Morphometry measures (thickness, curvature etc)](structural_preprocessing/data_preparation.md#measures)
 </details>
+
     * [Links to pipelines](structural_preprocessing/data_preparation.md#links)
       * [Chris' notebook html](Surfaces_and_Flatmaps.html) | [Download Chris' notebook](Surfaces_and_Flatmaps.html)
     * [Communication](structural_preprocessing/data_preparation.md#communication)
