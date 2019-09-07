@@ -1,18 +1,10 @@
-# Name of your awesome project
+# Pipeline sub-block template
 
-## Project Description
-Main idea and context
+## Sub-block Description
+Description of inputs and outputs, issues specific to NHP, way to takle them
 
 ## Skills required to participate
 What different types of people could contribute?
-
-## Integration
-How would your project integrate a neuroimager/clinician/psychologist/computational scientist/maker/artist as collaborator? You can check the Mozilla Open Leadership material on [personas](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) and [contribution guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).  
-Try to define intermediate goals (milestones).  
-
-## Preparation material
-Provide links to preparation material / online tutorials. You can, for example, have a look at our [list of online tutorials](Tutorial_Resources.md).
-
 
 ## Link to your GitHub repo
 [YourGitHubRepo](https://github.com/yourUserName/yourRepo)  

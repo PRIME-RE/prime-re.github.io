@@ -1,7 +1,9 @@
 ## Welcome to PRIME-RE
 ### The PRIMatE Research Exchange
 
-[Chris notebook](Surfaces_and_Flatmaps.md)
+[Chris notebook](Surfaces_and_Flatmaps.html)
+
+![logo](images/logo.png)
 
 You can use the [editor on GitHub](https://github.com/PRIME-RE/Resource-Hub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
