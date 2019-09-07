@@ -9,7 +9,7 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 - non-standard orientation: sphinx position, oblique orientation
 <img src="../images/misorientation.png" width="400">
 - strong intensity bias due to a huge variety of coils used
-<img src="../images/bias.png" heigth="400">
+<img src="../images/bias.png" width="300">
 -  
 
 <a name="steps"></a> 
