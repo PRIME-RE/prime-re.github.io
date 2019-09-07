@@ -3,7 +3,7 @@
 
 [Chris notebook](Surfaces_and_Flatmaps.html)
 
-![logo](images/logo.png)
+![logo](images/social_preview_image.png)
 
 You can use the [editor on GitHub](https://github.com/PRIME-RE/Resource-Hub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
