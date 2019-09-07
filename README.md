@@ -18,43 +18,14 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
       - [Surface generation](structural_preprocessing/data_preparation.md#surf)
       - [Morphometry measures (thickness, curvature etc)](structural_preprocessing/data_preparation.md#measures)
     * [Links to pipelines](structural_preprocessing/data_preparation.md#links)
+      [Chris' notebook html](Surfaces_and_Flatmaps.html)
+      [Download Chris' notebook](Surfaces_and_Flatmaps.html)
     * [Communication](structural_preprocessing/data_preparation.md#communication)
    
 
 2. fMRI preprocessing
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PRIME-RE/Resource-Hub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Testing ground
-[View Chris's notebook](Surfaces_and_Flatmaps.html)
-[Download Chris's notebook](Surfaces_and_Flatmaps.html)
+
