@@ -38,4 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Testing ground
-Test link to a notebook: [prime-re.github.io/Surfaces_and_Flatmaps.ipynb](../../)
+Test link to a notebook: [Surfaces_and_Flatmaps.ipynb](Surfaces_and_Flatmaps.ipynb)
