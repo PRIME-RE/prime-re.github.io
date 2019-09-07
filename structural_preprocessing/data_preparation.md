@@ -1,7 +1,7 @@
 <a name="structpreproc"></a> 
 # 1. Structural preprocessing
 <a name="description"></a> 
-## Description
+## What is it about?
 Several steps to obtain a segmented brain with possibility to create surfaces
 
 <a name="issues"></a> 
