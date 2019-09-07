@@ -1,26 +1,28 @@
 
 # Structural preprocessing
 
-## Description
+## 1. Description
 Several steps to obtain a segmented brain with possibility to create surfaces
 
-## a. Preparation of data (Cropping, deoblique…)
+## 2. Steps
 
-### What is is about?
-### Problems 
+### a. Preparation of data (Cropping, deoblique…)
+
+#### What is is about?
+#### Problems 
 <a name="pookie"></a> 
-## b.Registration to template
+### b. Registration to template
 
-## c. Brain extraction / skull stripping
+### c. Brain extraction / skull stripping
 
-## d. Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)
+### d. Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)
 
-## e. Surface generation
+### e. Surface generation
 
-## f. Morphometry mesures (thickness, curvature etc)
+### f. Morphometry mesures (thickness, curvature etc)
 
 
-## Issues linked to NHP imaging
+## 3. Issues linked to NHP imaging
 -non-standard orientation: shinx position, oblique orientation
 - strong intensity bias due to a huge variety of coils used.
 -  
