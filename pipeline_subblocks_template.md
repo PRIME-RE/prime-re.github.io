@@ -1,4 +1,4 @@
-# Pipeline sub-block
+# Pipeline sub-block template
 
 ## Sub-block Description
 Description of inputs and outputs, issues specific to NHP, way to takle them
