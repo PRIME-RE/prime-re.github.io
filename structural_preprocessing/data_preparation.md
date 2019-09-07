@@ -16,6 +16,7 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 ### Preparation of data (Cropping, deoblique…)
 
 **- What is is about?**
+
 **- Problems**
  
 ### Registration to template
