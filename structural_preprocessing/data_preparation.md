@@ -12,22 +12,22 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 
 <a name="steps"></a> 
 ## Steps
-
+<a name="steps"></a> 
 ### Preparation of data (Cropping, deoblique…)
 
 - **What is is about?**
 
 - **Solutions**
- 
+<a name="registration"></a>  
 ### Registration to template
-
+<a name="extraction"></a> 
 ### Brain extraction / skull stripping
-
+<a name="segmentation"></a> 
 ### Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)
-
+<a name="surf"></a> 
 ### Surface generation
-
-### Morphometry mesures (thickness, curvature etc)
+<a name="measures"></a> 
+### Morphometry measures (thickness, curvature etc)
 
 <a name="links"></a> 
 ## Links to pipelines
