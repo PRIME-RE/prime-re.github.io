@@ -4,16 +4,20 @@
 ## Description
 Several steps to obtain a segmented brain with possibility to create surfaces
 
-## Preparation of data (Cropping, deoblique…)
+## a. Preparation of data (Cropping, deoblique…)
 
 ### What is is about?
 ### Problems 
-## Registration to template
-## Brain extraction / skull stripping
-## Denoising
-## Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)
-## Surface generation?
-## Morphometry mesures (thickness, curvature etc)?
+
+## b.Registration to template
+
+## c. Brain extraction / skull stripping
+
+## d. Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)
+
+## e. Surface generation
+
+## f. Morphometry mesures (thickness, curvature etc)
 
 
 ## Issues linked to NHP imaging
