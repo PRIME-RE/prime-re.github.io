@@ -1,8 +1,17 @@
 
-# Brain Extraction pipelines
+# Structural preprocessing
 
 ## Description
-The goal is to get a clean extracted brain
+Several steps to obtain a segmented brain with possibility to create surfaces
+
+## Preparation of data (Cropping, deoblique…)
+## Registration to template
+## Brain extraction / skull stripping
+## Denoising
+## Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)
+## Surface generation?
+## Morphometry mesures (thickness, curvature etc)?
+
 
 ## Issues linked to NHP imaging
 -non-standard orientation: shinx position, oblique orientation
