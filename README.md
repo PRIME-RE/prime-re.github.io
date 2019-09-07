@@ -5,9 +5,16 @@
 
 ![logo](images/logo.png)
 
-You can use the [editor on GitHub](https://github.com/PRIME-RE/Resource-Hub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. Structural preprocessing
+    * Data preparation: reorientations, cropping etc
+    * Registration to template
+    * Brain extraction / skull stripping
+    * Denoising
+    * Segmentation into tissue types
+    * Surface creatiom
+    * Morphometry 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. fMRI preprocessing
 
 ### Markdown
 
