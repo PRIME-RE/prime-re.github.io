@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to PRIME-RE
+### The PRIMatE Research Exchange
 
 You can use the [editor on GitHub](https://github.com/PRIME-RE/Resource-Hub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
