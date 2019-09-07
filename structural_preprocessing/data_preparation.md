@@ -11,7 +11,7 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 - strong intensity bias due to a huge variety of coils used
 <p align="center"><img src="../images/bias.png" width="300" align="middle"></p>
 - large FOV / non brain tissue
-<p align="center"><img src="../images/non_brain.png" width="400" align="middle"></p>
+<p align="center"><img src="../images/non_brain.png" width="300" align="middle"></p>
 
 <a name="steps"></a> 
 ## Steps
