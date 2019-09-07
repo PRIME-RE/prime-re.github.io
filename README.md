@@ -8,7 +8,7 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 ![logo](images/social_preview_image.png)
 
 1. Structural preprocessing
-    * [Data preparation: reorientations, cropping etc)](structural_preprocessing/data_preparation.md)
+    * [Data preparation: reorientations, cropping etc](structural_preprocessing/data_preparation.md)
     * Registration to template
     * Brain extraction / skull stripping
     * Denoising
