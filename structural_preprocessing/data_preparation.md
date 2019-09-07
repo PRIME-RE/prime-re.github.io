@@ -1,36 +1,35 @@
 
-# Structural preprocessing
+# 1. Structural preprocessing
 
-## 1. Description
+## a. Description
 Several steps to obtain a segmented brain with possibility to create surfaces
 
-## 2. Steps
-
-### a. Preparation of data (Cropping, deoblique…)
-
-#### What is is about?
-#### Problems 
-<a name="pookie"></a> 
-### b. Registration to template
-
-### c. Brain extraction / skull stripping
-
-### d. Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)
-
-### e. Surface generation
-
-### f. Morphometry mesures (thickness, curvature etc)
-
-
-## 3. Issues linked to NHP imaging
+<a name="issues"></a> 
+## b. Issues linked to NHP imaging
 -non-standard orientation: shinx position, oblique orientation
 - strong intensity bias due to a huge variety of coils used.
 -  
 
-## Skills required to participate
-What different types of people could contribute?
+<a name="steps"></a> 
+## c. Steps
 
-## Link to your GitHub repo
+### Preparation of data (Cropping, deoblique…)
+
+#### What is is about?
+#### Problems 
+<a name="pookie"></a> 
+### Registration to template
+
+### Brain extraction / skull stripping
+
+### Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)
+
+### Surface generation
+
+### Morphometry mesures (thickness, curvature etc)
+
+<a name="links"></a> 
+## d. Links to pipelines
 [YourGitHubRepo](https://github.com/yourUserName/yourRepo)  
     with [ReadMe.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) containing  
         &nbsp;&nbsp;&nbsp;&nbsp;* Project idea and context  
