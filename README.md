@@ -30,7 +30,7 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 
 
 <a name="structpreproc"></a> 
-# 1. Structural preprocessing
+# Structural preprocessing
 <a name="description"></a> 
 ## What is it about?
 Several steps to obtain a segmented brain with possibility to create surfaces
