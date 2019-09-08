@@ -1,15 +1,15 @@
 ## Resource info table    
 
-|                     |                                                                                       |
-| :------------------ | :------------------------------------------------------------------------------------ |
-| **Name**            | >replace this with a name for your resource<                                          |    
-| **Authors**         | >replace this with author names<                                                      |
-| **Description**     | >replace this with a brief description of your resource<                              |
-| **Documentation**   | >[replace this with a link to more extensive documentation](http://link-to-docs.com)< |
-| **Link**            | >[replace this with a link to your resource](http://link-to-resource.com)<            |
-| **Language**        | >replace with language (python, shell, matlab, etc) your resource uses<               |
-| **Publication**     | >[replace this with a link to a related publication](http://link-to-publication.com)< |
-| **Communication**   | >replace this with a means for communication<                                         |
+|                     |                                                                                         |
+| :------------------ | :-------------------------------------------------------------------------------------- |
+| **Name**            | > replace this with a name for your resource <                                          |    
+| **Authors**         | > replace this with author names <                                                      |
+| **Description**     | > replace this with a brief description of your resource <                              |
+| **Documentation**   | > [replace this with a link to more extensive documentation](http://link-to-docs.com) < |
+| **Link**            | > [replace this with a link to your resource](http://link-to-resource.com) <            |
+| **Language**        | > replace with language (python, shell, matlab, etc) your resource uses <               |
+| **Publication**     | > [replace this with a link to a related publication](http://link-to-publication.com) < |
+| **Communication**   | > replace this with a means for communication <                                         |
 
 ## Instructions     
 Please fill out the table above as completely as possible, i.e. replace the complete str `> .... <` with your information. 
