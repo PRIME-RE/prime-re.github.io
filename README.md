@@ -17,12 +17,12 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
       - [Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)](structural_preprocessing/data_preparation.md#segmentation)
       - [Surface generation](structural_preprocessing/data_preparation.md#surf)
       - [Morphometry measures (thickness, curvature etc)](structural_preprocessing/data_preparation.md#measures)
-  - [Links to pipelines](pipelines/pipelines_reviews.md#links)<details><summary>Check them out!</summary>
+  - [Links to pipelines](pipelines/pipelines_reviews.md#links)<details><summary>Check them out!</summary><p>
   
            -  [Chris' notebook html](Surfaces_and_Flatmaps.html) | [Download Chris' notebook](Surfaces_and_Flatmaps.html)
            - MeCa
   
-  </details>
+  </details></p>
  
   - [Communication](structural_preprocessing/data_preparation.md#communication)
    
