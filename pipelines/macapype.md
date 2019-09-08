@@ -7,7 +7,7 @@ Segmentation Tools For Monkey Brains
 What different types of people could contribute?
 
 ## Link to your code
-[YourGitHubRepo](https://github.com/BastienCagna/macapype)  
+[YourGitHubRepo](https://github.com)  
 
 
 ## Communication
