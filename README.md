@@ -19,8 +19,8 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
       - [Morphometry measures (thickness, curvature etc)](structural_preprocessing/data_preparation.md#measures)
   - [Pipelines Reviews](pipelines/pipelines_reviews.md#links)<details><summary>Check them out!</summary>
   
-     -[Chris' notebook html](Surfaces_and_Flatmaps.html) | [Download Chris' notebook](Surfaces_and_Flatmaps.html)
-     -[macapype](https://github.com/BastienCagna/macapype)
+     - [Chris' notebook html](Surfaces_and_Flatmaps.html) | [Download Chris' notebook](Surfaces_and_Flatmaps.html)
+     - [macapype](https://github.com/BastienCagna/macapype)
   
   </details>
  
