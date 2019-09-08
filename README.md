@@ -21,7 +21,7 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
       
   - [Pipelines Reviews](pipelines/pipelines_reviews.md#links)  
     &rarr; Direct Access:
-     - [Chris' notebook html](Surfaces_and_Flatmaps.html) - [Download Chris' notebook](Surfaces_and_Flatmaps.html)
+     - [Chris' notebook html](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [Download Chris' notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
      - [macapype](https://github.com/BastienCagna/macapype)
   - [Communication](structural_preprocessing/data_preparation.md#communication)
    
