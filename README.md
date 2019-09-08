@@ -10,14 +10,14 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 ### [1. Structural preprocessing](structural_preprocessing/data_preparation.md)
   
   - [What is it about?](#description)
-  - [Issues linked to NHP imaging](structural_preprocessing/data_preparation.md#issues)
-  - [Steps](structural_preprocessing/data_preparation.md#steps)
-      - [Preparation of data (Cropping, deoblique…)](structural_preprocessing/data_preparation.md#preparation)
-      - [Registration to template](structural_preprocessing/data_preparation.md#registration)
-      - [Brain extraction / skull stripping](structural_preprocessing/data_preparation.md#extraction)
-      - [Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)](structural_preprocessing/data_preparation.md#segmentation)
-      - [Surface generation](structural_preprocessing/data_preparation.md#surf)
-      - [Morphometry measures (thickness, curvature etc)](structural_preprocessing/data_preparation.md#measures)
+  - [Issues linked to NHP imaging](#issues)
+  - [Steps](#steps)
+      - [Preparation of data (Cropping, deoblique…)](#preparation)
+      - [Registration to template](#registration)
+      - [Brain extraction / skull stripping](#extraction)
+      - [Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)](#segmentation)
+      - [Surface generation](#surf)
+      - [Morphometry measures (thickness, curvature etc)](#measures)
       
   - [Pipelines Reviews](pipelines/pipelines_reviews.md#links)  
     &rarr; Direct Access:
