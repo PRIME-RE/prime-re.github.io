@@ -8,7 +8,8 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 ![logo](images/social_preview_image.png)
 
 #### How to contribute ?
-Send new content by creating a new issue [here](https://github.com/PRIME-RE/prime-re.github.io/issues)!
+Send new content by creating a new issue [here](https://github.com/PRIME-RE/prime-re.github.io/issues)!  
+You can also join our communication channel around the Primate Data Exchange on the Brainhack community on [Mattermost](https://mattermost.brainhack.org/brainhack/channels/prime-de).
 
 ### [Atlases](#atlases)
 
