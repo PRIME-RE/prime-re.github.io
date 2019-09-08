@@ -8,7 +8,7 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 ![logo](images/social_preview_image.png)
 
 #### How to contribute ?
-Send new content by creating a new issue [here](http://)https://github.com/PRIME-RE/prime-re.github.io/issues)!
+Send new content by creating a new issue [here](https://github.com/PRIME-RE/prime-re.github.io/issues)!
 
 ### [Atlases](#atlases)
 
