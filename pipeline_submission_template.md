@@ -1,12 +1,12 @@
-# Pipeline sub-block template
+# Your pipeline submission
 
-## Sub-block Description
+## Pipeline Description
 Description of inputs and outputs, issues specific to NHP, way to takle them
 
-## Skills required to participate
+## Dependencies
 What different types of people could contribute?
 
-## Link to your GitHub repo
+## Link to your code
 [YourGitHubRepo](https://github.com/yourUserName/yourRepo)  
     with [ReadMe.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) containing  
         &nbsp;&nbsp;&nbsp;&nbsp;* Project idea and context  
