@@ -7,25 +7,28 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 
 ![logo](images/social_preview_image.png)
 
+#### How to contribute ?
+Send new content by creating a new issue [here](http://)https://github.com/PRIME-RE/prime-re.github.io/issues)!
+
 ### [Atlases](#atlases)
 
 ### [Structural preprocessing](#structpreproc)
   
-  - [What is it about?](#description)
-  - [Issues linked to NHP imaging](#issues)
-  - [Steps](#steps)
-      - [Preparation of data (Cropping, deoblique…)](#preparation)
-      - [Registration to template](#registration)
-      - [Brain extraction / skull stripping](#extraction)
-      - [Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)](#segmentation)
-      - [Surface generation](#surf)
-      - [Morphometry measures (thickness, curvature etc)](#measures)
+  - [What is it about?](#structdescription)
+  - [Issues linked to NHP imaging](#structissues)
+  - [Steps](#structsteps)
+      - [Preparation of data (Cropping, deoblique…)](#structpreparation)
+      - [Registration to template](#structregistration)
+      - [Brain extraction / skull stripping](#structextraction)
+      - [Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)](#structsegmentation)
+      - [Surface generation](#structsurf)
+      - [Morphometry measures (thickness, curvature etc)](#structmeasures)
       
   - [Pipelines Reviews](#structlinks)  
   - [Communication](structural_preprocessing/data_preparation.md#communication)
    
 
-### [fMRI preprocessing](#functionalpreproc)
+### [fMRI preprocessing](#funcpreproc)
 
 
 <a name="atlases"></a>
@@ -35,11 +38,11 @@ Comming soon...
 
 <a name="structpreproc"></a> 
 # Structural preprocessing
-<a name="description"></a> 
+<a name="structdescription"></a> 
 ## What is it about?
 Several steps to obtain a segmented brain with possibility to create surfaces
 
-<a name="issues"></a> 
+<a name="structissues"></a> 
 ## Issues specific to NHP imaging
 - non standard orientation: sphinx position, oblique orientation
 <p align="center"><img src="images/misorientation.png" width="400"></p>
@@ -48,9 +51,9 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 - large FOV / non brain tissue
 <p align="center"><img src="images/non_brain.png" width="250"></p>
 
-<a name="steps"></a> 
+<a name="structsteps"></a> 
 ## Steps
-<a name="steps"></a> 
+<a name="structpreparation"></a> 
 ### Preparation of data (Cropping, deoblique…)
 
 - **What is is about?**
@@ -58,24 +61,31 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 - **Solutions**
 
 
-<a name="registration"></a>  
+<a name="structregistration"></a>  
 ### Registration to template
-<a name="extraction"></a> 
+
+<a name="structextraction"></a> 
 ### Brain extraction / skull stripping
-<a name="segmentation"></a> 
+
+<a name="structsegmentation"></a> 
 ### Segmentation (GM, WM, CSF? Subcortical?bone, non brain soft tissue? air?)
-<a name="surf"></a> 
+
+<a name="structsurf"></a> 
 ### Surface generation
-<a name="measures"></a> 
+
+<a name="structmeasures"></a> 
 ### Morphometry measures (thickness, curvature etc)
 
 <a name="structlinks"></a> 
-## Links to pipelines
-    &rarr; Direct Access:
-     - [Chris' notebook html](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [Download Chris' notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
-     - [macapype](https://github.com/BastienCagna/macapype)
+## Pipelines Reviews
+### Chris' notebook
+(description should be here)
+[Chris' notebohtml](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html)  - [Download Chris' notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
+### Macapype
+Python package that provides pipelines for NHP anatomical preprocessing using Nipype.
+[github repository](https://github.com/BastienCagna/macapype)
 
-<a name="functionalpreproc">
+<a name="funcpreproc">
 # Functional Preprocessing
 
 
