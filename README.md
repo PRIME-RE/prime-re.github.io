@@ -89,7 +89,7 @@ Python package that provides pipelines for NHP anatomical preprocessing using Ni
 | Name | Short description | Links |
 | --- | --- | --- |
 | Surfaces and flatmaps | Jupyter notebook that ... | [view](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [download](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb) |
-| Macapype | Python package for anatomical preprosessing using Nipype. | [github](https://github.com/BastienCagna/macapype) - [details](surface_preprocessing/macapype.md) |
+| Macapype | Python package for anatomical preprosessing using Nipype. | [github](https://github.com/BastienCagna/macapype) - [details](https://github.com/PRIME-RE/prime-re.github.io/issues/7) |
 
 <a name="funcpreproc">
 # Functional Preprocessing
