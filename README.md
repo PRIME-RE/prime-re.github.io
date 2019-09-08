@@ -20,8 +20,8 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
   - [Pipelines Reviews](pipelines/pipelines_reviews.md#links)
 <details><summary>Check them out!</summary><p>
   
-    - [Chris' notebook html](Surfaces_and_Flatmaps.html) | [Download Chris' notebook](Surfaces_and_Flatmaps.html)
-    - [macapype](https://github.com/BastienCagna/macapype)
+   * [Chris' notebook html](Surfaces_and_Flatmaps.html) | [Download Chris' notebook](Surfaces_and_Flatmaps.html)
+   * [macapype](https://github.com/BastienCagna/macapype)
   
   </details></p>
  
