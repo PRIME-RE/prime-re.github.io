@@ -7,6 +7,8 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
 
 ![logo](images/social_preview_image.png)
 
+### [Atlases](#atlases)
+
 ### [Structural preprocessing](#structpreproc)
   
   - [What is it about?](#description)
@@ -19,14 +21,16 @@ PRIME-RE is maintained and curated by members of the [PRIME-DE consortium](http:
       - [Surface generation](#surf)
       - [Morphometry measures (thickness, curvature etc)](#measures)
       
-  - [Pipelines Reviews](pipelines/pipelines_reviews.md#links)  
-    &rarr; Direct Access:
-     - [Chris' notebook html](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [Download Chris' notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
-     - [macapype](https://github.com/BastienCagna/macapype)
+  - [Pipelines Reviews](#structlinks)  
   - [Communication](structural_preprocessing/data_preparation.md#communication)
    
 
-### [fMRI preprocessing](functional_preprocessing/)
+### [fMRI preprocessing](#functionalpreproc)
+
+
+<a name="atlases"></a>
+# Atlases
+Comming soon...
 
 
 <a name="structpreproc"></a> 
@@ -52,6 +56,8 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 - **What is is about?**
 
 - **Solutions**
+
+
 <a name="registration"></a>  
 ### Registration to template
 <a name="extraction"></a> 
@@ -63,14 +69,14 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 <a name="measures"></a> 
 ### Morphometry measures (thickness, curvature etc)
 
-<a name="links"></a> 
+<a name="structlinks"></a> 
 ## Links to pipelines
+    &rarr; Direct Access:
+     - [Chris' notebook html](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [Download Chris' notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
+     - [macapype](https://github.com/BastienCagna/macapype)
 
-<a name="communication"></a> 
-## Communication
-Link to the communication channel for your project. You can, for example, create a [slack channel](https://brainhack-slack-invite.herokuapp.com/) for your project inside the Brainhack slack community, and include a slack badge [![slack_brainhack_3](https://user-images.githubusercontent.com/6297454/47951457-5b37b780-df61-11e8-9d77-7b5a4c7af875.png)](https://brainhack-slack-invite.herokuapp.com/) to invite people to Brainhack slack, where they can then find and join your channel.  
-Or create a community on [gitter](https://gitter.im/) and link to the chat by including a Gitter badge linking to your community 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/yourRoom/Lobby#)
+<a name="functionalpreproc">
+# Functional Preprocessing
 
 
 
