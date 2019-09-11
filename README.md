@@ -13,6 +13,7 @@ Send new content by using [this template file](New_Resource_Template.md) to crea
 ### Wiki
 A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/Structural-preprocessing) have been set up to share knowledge about NHP MRI acquisition and image processing. Anyone can share knowledge and experience (problems with solutions, fixes, tricks...).
 
+<a name="summary"></a> 
 ### Resources
 #### [Atlases](#atlases)
 
@@ -29,6 +30,7 @@ Comming soon...
 # Pipelines
 <a name="structpreproc"></a> 
 ## Structural preprocessing
+[go up](#summary)
 ### Overview
 | Name | Short description | Links |
 | --- | --- | --- |
@@ -44,10 +46,9 @@ Python package that provides pipelines for NHP anatomical preprocessing using Ni
 [framagit repository](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype)
 
 
-
 <a name="funcpreproc"></a>
 ## Functional Preprocessing
-  
+[go up](#summary)
 ### Overview
 Nothing here. Need of contributions ! :)
 
