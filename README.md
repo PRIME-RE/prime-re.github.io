@@ -83,12 +83,12 @@ Several steps to obtain a segmented brain with possibility to create surfaces
 [Chris' notebook html](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html)  - [Download Chris' notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
 ### Macapype
 Python package that provides pipelines for NHP anatomical preprocessing using Nipype.
-[github repository](https://github.com/BastienCagna/macapype)
+[framagit repository](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype)
 
 | Name | Short description | Links |
 | --- | --- | --- |
 | Surfaces and flatmaps | Jupyter notebook that ... | [view](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [download](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb) |
-| Macapype | Python package for anatomical preprosessing using Nipype. | [github](https://github.com/BastienCagna/macapype) - [details](https://github.com/PRIME-RE/prime-re.github.io/issues/7) |
+| Macapype | Python package for anatomical preprosessing using Nipype. | [github](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype) - [details](https://github.com/PRIME-RE/prime-re.github.io/issues/7) |
 
 <a name="funcpreproc">
 # Functional Preprocessing
