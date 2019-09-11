@@ -29,30 +29,28 @@ Comming soon...
 # Pipelines
 <a name="structpreproc"></a> 
 ## Structural preprocessing
-### Chris' notebook
-(description should be here)
-[Chris' notebook html](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html)  - [Download Chris' notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
-### Macapype
-Python package that provides pipelines for NHP anatomical preprocessing using Nipype.
-[framagit repository](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype)
-
+### Overview
 | Name | Short description | Links |
 | --- | --- | --- |
 | Surfaces and flatmaps | Jupyter notebook that ... | [view](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [download](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb) |
 | Macapype | Python package for anatomical preprosessing using Nipype. | [github](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype) - [details](https://github.com/PRIME-RE/prime-re.github.io/issues/7) |
 
-<a name="funcpreproc">
+### Details
+#### Chris' notebook
+(description should be here)
+[Chris' notebook html](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html)  - [Download Chris' notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
+#### Macapype
+Python package that provides pipelines for NHP anatomical preprocessing using Nipype.
+[framagit repository](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype)
+
+
+
+<a name="funcpreproc"></a>
 ## Functional Preprocessing
- To be continued...
   
+### Overview
+Nothing here. Need of contributions ! :)
+
 | Name | Short description | Links |
 | --- | --- | --- |
-
-
-
-
-
-
-
-
 
