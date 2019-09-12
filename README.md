@@ -32,6 +32,7 @@ Comming soon...
 ## Structural preprocessing
 [go up](#summary)
 ### Overview
+
 | Name | Short description | Links |
 | --- | --- | --- |
 | Surfaces and flatmaps | Jupyter notebook that ... | [view](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [download](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb) |
