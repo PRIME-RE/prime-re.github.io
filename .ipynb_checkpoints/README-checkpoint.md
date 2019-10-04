@@ -39,7 +39,7 @@ When it comes to NHP neuroimaging though, there are two complications:
 Below, we provide a non-exhaustive list of existing templates and atlases.
 
 <a name="macaque_atlases"></a>
-## Macaque species
+## Macaque
 
 | Template | Species | Resolution (mm<sup>3</sup>) | With atlas | Volume format | Surface format | Links |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -53,10 +53,19 @@ Below, we provide a non-exhaustive list of existing templates and atlases.
 | UNC-Emory developmental atlas | _M. mulatta_ | 0.60 | multiple | NRRD | N/A | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5222830//) [download](https://www.nitrc.org/projects/macaque_atlas/) |
 
 <a name="marmoset_atlases"></a>
-## Marmoset species
+## Marmoset
+
+| Template | Species | Resolution (mm<sup>3</sup>) | With atlas | Volume format | Surface format | Links |
+| --- | --- | --- | --- | --- | --- | --- |
+| NIH | _C. jacchus_ | 0.15 | NIH (3 parcellations) | NIFTI | CARET | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856608/) [download1](https://www.nitrc.org/projects/nih_marmoset/) [download2](https://github.com/cirongliu/NIH_Marmoset_Atlas_V1) |
+| RIKEN | _C. jacchus_ | 0.2 | N/A | NIFTI | N/A | [reference](https://www.sciencedirect.com/science/article/abs/pii/S1053811910013546?via%3Dihub) [download](https://brainatlas.brain.riken.jp/marmoset/modules/xoonips/detail.php?id=004) |
 
 <a name="other_atlases"></a>
 ## Other species
+
+| Template | Species | Resolution (mm<sup>3</sup>) | With atlas | Volume format | Surface format | Links |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mouse Lemur atlas | _Microcebus murinus_ | 0.091 | YES | NIFTI | N/A | [reference](https://www.sciencedirect.com/science/article/abs/pii/S1053811918319694?via%3Dihub) [download](https://www.nitrc.org/projects/mouselemuratlas) |
 
 <a name="pipelines"></a> 
 # Pipelines
