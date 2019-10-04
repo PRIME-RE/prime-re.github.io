@@ -41,16 +41,16 @@ Below, we provide a non-exhaustive list of existing templates and atlases.
 <a name="macaque_atlases"></a>
 ## Macaque species
 
-| Template Name | Species | T1 Resolution | Number of monkeys | Accompanying Atlas | Volume format | Surface format | Links |
+| Template | Species | T1 Resolution | N monkeys | Atlas | Volume format | Surface format | Links |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| NMT | _Macaca mulatta_ | 0.25 mm<sup>3</sup> | 31 | Registered to D99-SL | NIFTI | GIFTI | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5660669/) [download](https://github.com/jms290/NMT) |
-| D99 | _Macaca mulatta_ | 0.25 mm<sup>3</sup> | 1 | Saleem Logothetis (D99-SL) | NIFTI | GIFTI | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075609/) [download](https://afni.nimh.nih.gov/Macaque) |
-| INIA19 | _Macaca mulatta_ | 0.50 mm<sup>3</sup> | 19 | Neuromaps | NIFTI | None | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3515865/) [download](https://www.nitrc.org/projects/inia19/https://www.nitrc.org/projects/inia19/) |
-| MNI macaque | _Macaca fascicularis_ and _mulatta_ | 0.25 mm<sup>3</sup> | 18 and 7 respectively | Paxinos | MINC and NIFTI | None | [reference](https://www.ncbi.nlm.nih.gov/pubmed/21256229) - [download](http://www.bic.mni.mcgill.ca/ServicesAtlases/Macaque) |
-| Yerkes19 | _Macaca mulatta_ | 0.50 mm<sup>3</sup> | 19 | registered to F99 | NIFTI and MGZ | GIFTI and MGZ | [reference 1](https://www.pnas.org/content/115/22/E5183) [reference 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500860/) [download 1](https://balsa.wustl.edu/reference/show/976nz) [download 2](https://github.com/Washington-University/NHPPipelines) |
-| Japanese macaque atlas| _Macaca fuscata_ | 0.50 mm<sup>3</sup> | 16 | None | ANALYZE | None | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3221050/) [download](https://brainatlas.brain.riken.jp/jm/modules/xoonips/listitem.php?index_id=9) |
-| 112RM-SL | _Macaca mulatta_ | 0.50 mm<sup>3</sup> | 112 | registered to D99-SL and F99 | NIFTI | None | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2659879/) [download](http://brainmap.wisc.edu/pages) currently unavailable |
-| UNC-Emory developmental atlas | _Macaca mulatta_ | 0.60 mm<sup>3</sup> | 40 | registered to multiple | NRRD | None | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5222830//) [download](https://www.nitrc.org/projects/macaque_atlas/) |
+| NMT | _M. mulatta_ | 0.25 mm<sup>3</sup> | 31 | Registered to D99-SL | NIFTI | GIFTI | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5660669/) [download](https://github.com/jms290/NMT) |
+| D99 | _M. mulatta_ | 0.25 mm<sup>3</sup> | 1 | Saleem Logothetis (D99-SL) | NIFTI | GIFTI | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075609/) [download](https://afni.nimh.nih.gov/Macaque) |
+| INIA19 | _M. mulatta_ | 0.50 mm<sup>3</sup> | 19 | Neuromaps | NIFTI | None | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3515865/) [download](https://www.nitrc.org/projects/inia19/https://www.nitrc.org/projects/inia19/) |
+| MNI macaque | _M. fascicularis_ and _M. mulatta_ | 0.25 mm<sup>3</sup> | 18 and 7 respectively | Paxinos | MINC and NIFTI | None | [reference](https://www.ncbi.nlm.nih.gov/pubmed/21256229) - [download](http://www.bic.mni.mcgill.ca/ServicesAtlases/Macaque) |
+| Yerkes19 | _M. mulatta_ | 0.50 mm<sup>3</sup> | 19 | registered to F99 | NIFTI and MGZ | GIFTI and MGZ | [reference 1](https://www.pnas.org/content/115/22/E5183) [reference 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3500860/) [download 1](https://balsa.wustl.edu/reference/show/976nz) [download 2](https://github.com/Washington-University/NHPPipelines) |
+| Japanese macaque atlas| _M. fuscata_ | 0.50 mm<sup>3</sup> | 16 | None | ANALYZE | None | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3221050/) [download](https://brainatlas.brain.riken.jp/jm/modules/xoonips/listitem.php?index_id=9) |
+| 112RM-SL | _M. mulatta_ | 0.50 mm<sup>3</sup> | 112 | registered to D99-SL and F99 | NIFTI | None | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2659879/) [download](http://brainmap.wisc.edu/pages) currently unavailable |
+| UNC-Emory developmental atlas | _M. mulatta_ | 0.60 mm<sup>3</sup> | 40 | registered to multiple | NRRD | None | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5222830//) [download](https://www.nitrc.org/projects/macaque_atlas/) |
 
 <a name="marmoset_atlases"></a>
 ## Marmoset species
