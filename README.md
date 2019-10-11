@@ -16,8 +16,8 @@ A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/Structural-preproce
 <a name="summary"></a> 
 ### Resources
 - [Templates and Atlases](#atlases)
-    - [Macaque species](#macaque_atlases)
-    - [Marmoset species](#marmoset_atlases)
+    - [Macaque](#macaque_atlases)
+    - [Marmoset](#marmoset_atlases)
     - [Other species](#other_atlases)
 
 - [Pipelines](#pipelines)
@@ -33,7 +33,7 @@ A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/Structural-preproce
 For human MRI, the [MNI template](http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009) serves as the community standard volumetric template. Its integration into most major software packages makes it easy for researchers to register their results to MNI space. This facilitates data-sharing, cross-study comparisons and metanalyses. Most human brain atlases are also provided in MNI space. For surface-based analysis the [FsAverage](https://surfer.nmr.mgh.harvard.edu/fswiki/FsAverage) (freesurfer average) template serves the same purpose.
 
 When it comes to NHP neuroimaging though, there are two complications:
-1. The usage of multple species creates the need for species-specific templates
+1. The usage of multiple species creates the need for species-specific templates
 2. Even for the most commonly imaged species (macaques and marmosets), multiple templates are available, with no single one of them adopted as the go-to community standard.
 
 Below, we provide a non-exhaustive list of existing templates and atlases.
@@ -51,6 +51,10 @@ Below, we provide a non-exhaustive list of existing templates and atlases.
 | Japanese macaque atlas| _M. fuscata_ | 0.50 | N/A | ANALYZE | N/A | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3221050/) [download](https://brainatlas.brain.riken.jp/jm/modules/xoonips/listitem.php?index_id=9) |
 | 112RM-SL | _M. mulatta_ | 0.50 | D99-SL & F99 | NIFTI | N/A | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2659879/) |
 | UNC-Emory developmental atlas | _M. mulatta_ | 0.60 | multiple | NRRD | N/A | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5222830//) [download](https://www.nitrc.org/projects/macaque_atlas/) |
+
+We used [ANTs](http://stnava.github.io/ANTs/) to compute transformation warps between the volumetric spaces of the first 5 macaque templates on the table above. [See how macaque template warps were computed](templates/macaque_template_warps_notebooks/macaque_template_warps.html)  - [Download jupyter notebook](templates/macaque_template_warps_notebooks/macaque_template_warps.ipynb)
+
+These warps can be used to transform images (parcellations, statistical maps etc.) between various template spaces. [See how to use macaque template warps](templates/macaque_template_warps_notebooks/macaque_template_warps.html)  - [Download jupyter notebook](templates/macaque_template_warps_notebooks/macaque_template_warps.ipynb)
 
 <a name="marmoset_atlases"></a>
 ## Marmoset
