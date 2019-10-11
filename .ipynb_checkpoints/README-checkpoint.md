@@ -17,6 +17,7 @@ A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/Structural-preproce
 ### Resources
 - [Templates and Atlases](#atlases)
     - [Macaque](#macaque_atlases)
+        - [Warps between macaque templates](#macaque_warps)
     - [Marmoset](#marmoset_atlases)
     - [Other species](#other_atlases)
 
@@ -52,9 +53,9 @@ Below, we provide a non-exhaustive list of existing templates and atlases.
 | 112RM-SL | _M. mulatta_ | 0.50 | D99-SL & F99 | NIFTI | N/A | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2659879/) |
 | UNC-Emory developmental atlas | _M. mulatta_ | 0.60 | multiple | NRRD | N/A | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5222830//) [download](https://www.nitrc.org/projects/macaque_atlas/) |
 
-We used [ANTs](http://stnava.github.io/ANTs/) to compute transformation warps between the volumetric spaces of the first 5 macaque templates on the table above. [See how macaque template warps were computed](templates/macaque_template_warps_notebooks/macaque_template_warps.html)  - [Download jupyter notebook](templates/macaque_template_warps_notebooks/macaque_template_warps.ipynb)
-
-These warps can be used to transform images (parcellations, statistical maps etc.) between various template spaces. [See how to use macaque template warps](templates/macaque_template_warps_notebooks/macaque_template_warps.html)  - [Download jupyter notebook](templates/macaque_template_warps_notebooks/macaque_template_warps.ipynb)
+<a name="macaque_warps"></a>
+### Warps between macaque templates
+We used [ANTs](http://stnava.github.io/ANTs/) to compute transformation warps between the volumetric spaces of the first 5 macaque templates on the table above. [See how macaque template warps were computed](templates/macaque_template_warps_notebooks/macaque_template_warps.html)  - [Download jupyter notebook](templates/macaque_template_warps_notebooks/macaque_template_warps.ipynb) These warps can be used to transform images (parcellations, statistical maps etc.) between various template spaces. [See how to use macaque template warps](templates/macaque_template_warps_notebooks/macaque_template_warps.html)  - [Download jupyter notebook](templates/macaque_template_warps_notebooks/macaque_template_warps.ipynb)
 
 <a name="marmoset_atlases"></a>
 ## Marmoset
