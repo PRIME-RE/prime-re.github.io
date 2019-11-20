@@ -22,8 +22,10 @@ A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/Structural-preproce
     - [Other species](#other_atlases)
 
 - [Pipelines](#pipelines)
-    - [Structural preprocessing](#structpreproc)
-    - [fMRI preprocessing](#funcpreproc)
+    - [Structural](#struct)
+    - [fMRI](#fmri)
+    - [Diffusion](#diff)
+
 
 <a name="atlases"></a>
 # Templates and atlases
@@ -74,31 +76,40 @@ We used [ANTs](http://stnava.github.io/ANTs/) to compute transformation warps be
 
 <a name="pipelines"></a> 
 # Pipelines
-<a name="structpreproc"></a> 
-## Structural preprocessing
+<a name="struct"></a> 
+## Structural MRI
 [go up](#summary)
 ### Overview
 
 | Name | Short description | Links |
 | --- | --- | --- |
-| Surfaces and flatmaps | Jupyter notebook that ... | [view](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [download](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb) |
+| Surfaces and flatmaps | Jupyter notebook that ... | [view](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [download](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb) |
 | Macapype | Python package for anatomical preprosessing using Nipype. | [github](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype) - [details](https://github.com/PRIME-RE/prime-re.github.io/issues/7) |
 
 ### Details
-#### Chris' notebook
+#### Surfaces and flatmaps
 (description should be here)
-[Chris' notebook html](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html)  - [Download Chris' notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
+[View html](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html)  - [Download notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
 #### Macapype
 Python package that provides pipelines for NHP anatomical preprocessing using Nipype.
 [framagit repository](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype)
 
+<a name="fMRI"></a>
+## fMRI
+Nothing here yet.
 
-<a name="funcpreproc"></a>
-## Functional Preprocessing
+<a name="diff"></a>
+## Diffusion
 [go up](#summary)
 ### Overview
-Nothing here. Need of contributions ! :)
 
 | Name | Short description | Links |
 | --- | --- | --- |
+| Basice preprocesing | Jupyter notebook: how to perform basic preprocessing steps | [view](diffusion/Rakshit_Dadarwal_notebooks/Pre-processing.html) - [download](diffusion/Rakshit_Dadarwal_notebooks/Pre-processing.ipynb) |
+| Fitting DTI | Jupyter notebook: how to fit a DTI model using DIPY | [view](diffusion/Rakshit_Dadarwal_notebooks/DTI.html) - [download](diffusion/Rakshit_Dadarwal_notebooks/DTI.ipynb) |
+| Fitting DKI | Jupyter notebook: how to fit a DKI model using DIPY | [view](diffusion/Rakshit_Dadarwal_notebooks/DKI.html) - [download](diffusion/Rakshit_Dadarwal_notebooks/DKI.ipynb) |
+| Fitting NODDI | Jupyter notebook: how to fit a NODDI model using DIPY and AMICO | [view](diffusion/Rakshit_Dadarwal_notebooks/NODDI.html) - [download](diffusion/Rakshit_Dadarwal_notebooks/NODDI.ipynb) |
 
+### Details
+#### Basic diffusion preprocessing, fitting DTI, DKI, and NODDI
+These jupyter notebooks, provided by [Rakshit Dadarwal](https://github.com/RDadarwal), showcase  an example of diffusion MRI preprocessing and analysis with python. They include steps for basic preprocessing (denoising, susceptibility-induced distortion correction, eddy current-induced distortion and motion correction), model fitting (DTI, DKI, NODDI) and calculation of parametric maps. These steps use functions from [DIPY](https://dipy.org/), [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/), and [AMICO](https://github.com/daducci/AMICO).
