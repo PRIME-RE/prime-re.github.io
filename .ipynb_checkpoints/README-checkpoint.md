@@ -89,7 +89,7 @@ We used [ANTs](http://stnava.github.io/ANTs/) to compute transformation warps be
 ### Details
 #### Surfaces and flatmaps
 (description should be here)
-[View html](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html)  - [Download notebook](structural_preprocessing/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
+[View html](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html)  - [Download notebook](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
 #### Macapype
 Python package that provides pipelines for NHP anatomical preprocessing using Nipype.
 [framagit repository](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype)
