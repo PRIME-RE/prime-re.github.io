@@ -10,6 +10,8 @@
 | **Language**        | > replace with language (python, shell, matlab, etc) your resource uses <               |
 | **Publication**     | > [replace this with a link to a related publication](http://link-to-publication.com) < |
 | **Communication**   | > replace this with a means for communication <                                         |
+| **Restrictions**    | > replace this with potential usage restrictions <                                         |
+
 
 ## Instructions     
 Please fill out the table above as completely as possible, i.e. replace the complete str `> .... <` with your information. 
@@ -46,3 +48,6 @@ If your resource is a published method, you can link to the paper here.
 How can potential user get in contact with the submitter/author of the resource? 
 Is there a Slack or Mattermost channel? Can issues be opened on a Github repo? Is there an email adress?
 If you want to submit your resource 'as-is' and not offer any means for communication you can also mention that.
+
+#### Restrictions
+Are there any limitations for how the analysis method can be used (e.g., citation or acknowledgement required, etc)?
