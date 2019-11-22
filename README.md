@@ -59,6 +59,9 @@ Below, we provide a non-exhaustive list of existing templates and atlases.
 ### Warps between macaque templates
 We used [ANTs](http://stnava.github.io/ANTs/) to compute transformation warps between the volumetric spaces of the first 5 macaque templates on the table above. [See how macaque template warps were computed](templates/macaque_template_warps.html)  - [Download jupyter notebook](templates/macaque_template_warps.ipynb) These warps can be used to transform images (parcellations, statistical maps etc.) between various template spaces. [See how to use macaque template warps](templates/how_to_apply_template_warps.html) - [Download jupyter notebook](templates/how_to_apply_template_warps.ipynb)
 
+NB! The set of between-template warps are currently being tested and will be released soon. Preliminary access to the untested warps is available through [this download](https://www.dropbox.com/sh/8u6dt0t02gor213/AAD17Nbvhi5_4gku9xsYQKFNa?dl=1). (courtesy of [Nikoloz Sirmpilatze](https://github.com/niksirbi))
+
+
 <a name="marmoset_atlases"></a>
 ## Marmoset
 
