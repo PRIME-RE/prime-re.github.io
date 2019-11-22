@@ -3,7 +3,7 @@
 
 ![logo](images/social_preview_image.png)
 
-The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE aims to provide an overview of the main difficulties and curate a collection of solutions that currently exist within the broader NHP-MRI communnity for specific processing steps that are commonly performed on NHP MRI data. Since this is a cimmunity effort, we strongly encourage you to contribute your workflows and pipelines. 
+The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE aims to provide an overview of the main difficulties and curate a collection of solutions that currently exist within the broader NHP-MRI community for specific processing steps that are commonly performed on NHP MRI data. Since this is a community effort, we strongly encourage you to contribute your workflows and pipelines. 
 
 PRIME-RE is maintained by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). 
 
@@ -57,7 +57,7 @@ Below, we provide a non-exhaustive list of existing templates and atlases.
 
 <a name="macaque_warps"></a>
 ### Warps between macaque templates
-Transforming data (e.g. parcellations, statistical maps) between the various template spaces requires the registration of those templates to one another. [Nikolos Sirmpilatze](https://github.com/niksirbi) has done that for the first 5 templates on the above table, using [ANTs](http://stnava.github.io/ANTs/). Find out more in this [github repository](https://github.com/niksirbi/Macaque_Template_Warps).
+Transforming data (e.g. parcellations, statistical maps) between the various template spaces requires the registration of those templates to one another. [Nikoloz Sirmpilatze](https://github.com/niksirbi) has done that for the first 5 templates on the above table, using [ANTs](http://stnava.github.io/ANTs/). Find out more in this [github repository](https://github.com/niksirbi/Macaque_Template_Warps).
 * [See how macaque template warps were computed](https://github.com/niksirbi/Macaque_Template_Warps/blob/master/macaque_template_warps.ipynb) 
 * [See how to use macaque template warps](https://github.com/niksirbi/Macaque_Template_Warps/blob/master/how_to_apply_template_warps.ipynb)
 
