@@ -109,11 +109,8 @@ Nothing here yet.
 
 | Name | Short description | Links |
 | --- | --- | --- |
-| Basice preprocesing | Jupyter notebook: how to perform basic preprocessing steps | [view](diffusion/Rakshit_Dadarwal_notebooks/Pre-processing.html) - [download](diffusion/Rakshit_Dadarwal_notebooks/Pre-processing.ipynb) |
-| Fitting DTI | Jupyter notebook: how to fit a DTI model using DIPY | [view](diffusion/Rakshit_Dadarwal_notebooks/DTI.html) - [download](diffusion/Rakshit_Dadarwal_notebooks/DTI.ipynb) |
-| Fitting DKI | Jupyter notebook: how to fit a DKI model using DIPY | [view](diffusion/Rakshit_Dadarwal_notebooks/DKI.html) - [download](diffusion/Rakshit_Dadarwal_notebooks/DKI.ipynb) |
-| Fitting NODDI | Jupyter notebook: how to fit a NODDI model using DIPY and AMICO | [view](diffusion/Rakshit_Dadarwal_notebooks/NODDI.html) - [download](diffusion/Rakshit_Dadarwal_notebooks/NODDI.ipynb) |
+| Diffusion-MRI by Rakshit| Jupyter notebooks on preprocessing, DTI, DKI, NODDI | [github](https://github.com/RDadarwal/Diffusion-MRI)
 
 ### Details
-#### Basic diffusion preprocessing, fitting DTI, DKI, and NODDI
-These jupyter notebooks, provided by [Rakshit Dadarwal](https://github.com/RDadarwal), showcase  an example of diffusion MRI preprocessing and analysis with python. They include steps for basic preprocessing (denoising, susceptibility-induced distortion correction, eddy current-induced distortion and motion correction), model fitting (DTI, DKI, NODDI) and calculation of parametric maps. These steps use functions from [DIPY](https://dipy.org/), [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/), and [AMICO](https://github.com/daducci/AMICO).
+#### Diffusion-MRI by Rakshit
+These [jupyter notebooks](https://github.com/RDadarwal/Diffusion-MRI), provided by [Rakshit Dadarwal](https://github.com/RDadarwal), showcase  an example of diffusion MRI preprocessing and analysis with python. They include steps for basic preprocessing (denoising, susceptibility-induced distortion correction, eddy current-induced distortion and motion correction), model fitting (DTI, DKI, NODDI) and calculation of parametric maps. These steps use functions from [DIPY](https://dipy.org/), [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/), and [AMICO](https://github.com/daducci/AMICO).
