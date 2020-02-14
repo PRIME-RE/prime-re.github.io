@@ -11,6 +11,9 @@
 | **Publication**     | > [replace this with a link to a related publication](http://link-to-publication.com) < |
 | **Communication**   | > replace this with a means for communication <                                         |
 | **Restrictions**    | > replace this with potential usage restrictions <                                         |
+    
+    
+- [ ] **Do NOT include this resource in periodic mailings about new resources on PRIME-RE** 
 
 
 ## Instructions     
