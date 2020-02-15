@@ -1,4 +1,4 @@
-# PRIME-RE (PRIMatE Resource Exchange)
+# PRIME-RE
 
 ![logo](images/social_preview_image.png)
 
