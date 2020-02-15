@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+<!-- 
+If this looks a little weird toggle between the 'write' and 'preview' tabs for markdown rendering.    
+See instructions/explanation below the Resource info table
+-->
+
+
 ## Resource info table    
 
 |                     |                                                                                         |
@@ -25,10 +31,12 @@ assignees: ''
 - [ ] **Do NOT include this resource in periodic mailings about new resources on PRIME-RE** 
 
 
+---
+
+
 ## Instructions     
 Please fill out the table above as completely as possible, i.e. replace the complete str `> .... <` with your information. 
-Then submit it as a new issue and tag the issue with all applicable (yellow) categorical tags to specify what type of resource you are contributing.
-We will use this table and these tags to add your resource to the main list.    
+Then submit it as a new issue and tag the issue with all applicable (yellow) categorical tags to specify what type of resource you are contributing. We will use this table and these tags to add your resource to the main list.    
 
 #### Name
 Provide a name for your resource. Try to make it a bit descriptive, but as long as it as not incredibly offensive, we will allow it.    
