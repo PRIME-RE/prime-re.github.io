@@ -1,5 +1,4 @@
-# Welcome to PRIME-RE
-## The PRIMatE Resource Exchange
+# Welcome to PRIME-RE (PRIMatE Resource Exchange)
 
 ![logo](images/social_preview_image.png)
 
