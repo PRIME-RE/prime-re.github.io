@@ -1,5 +1,5 @@
 # fMRI
-[go up](#summary)
+
 ### Overview
 
 | Name | Short description | Links |
