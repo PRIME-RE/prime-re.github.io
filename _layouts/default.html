@@ -26,10 +26,19 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
+      <nav class="main-nav">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/resources.md">Resources</a></li>
+        </ul>
+      </nav>
+      
+      <!--
       <a href="{{ index/ }}" class="btn" role="button">Home</a> 
       <a href="{{ resources/ }}" class="btn" role="button">Resources</a>
       <a href="{{ contribute/ }}" class="btn" role="button">Contribute</a> 
       <a href="{{ https://github.com/PRIME-RE/prime-re.github.io/wiki/ }}" class="btn" role="button">Wiki</a>
+      -->
       
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
