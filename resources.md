@@ -1,11 +1,13 @@
 # Resources
-- [Templates and Atlases](#atlases)
-    - [Macaque](#macaque_atlases)
-        - [Warps between macaque templates](#macaque_warps)
-    - [Marmoset](#marmoset_atlases)
-    - [Other species](#other_atlases)
+- [Templates and Atlases](templates_and_atlases.md)
+    - [Macaque](templates_and_atlases.md#macaque_atlases)
+        - [Warps between macaque templates](templates_and_atlases.md#macaque_warps)
+    - [Marmoset](templates_and_atlases.md#marmoset_atlases)
+    - [Other species](templates_and_atlases.md#other_atlases)
 
-- [Pipelines](#pipelines)
-    - [Structural](#struct)
-    - [fMRI](#fmri)
-    - [Diffusion](#diff)
+- Pipelines
+    - [Structural](pipelines_structural.md)
+    - [fMRI](pipelines_fmri.md)
+    - [Diffusion](pipelines_diffusion.md)
+
+- [Software packages](software_packages.md)
