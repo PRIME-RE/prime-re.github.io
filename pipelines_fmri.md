@@ -1,4 +1,4 @@
-## fMRI
+# fMRI
 [go up](#summary)
 ### Overview
 
