@@ -1,4 +1,9 @@
-<button name="Structural" onclick="pipeline_structural.md">Structural</button>
+
+---
+
+### [Template & Atlas](templates_and_atlases.md) &nbsp;  - &nbsp;  [Structural](pipeline_structural.md) &nbsp;  - &nbsp;  [fMRI](pipeline_fmri.md) &nbsp;  - &nbsp;  [DTI](pipeline_dti.md) &nbsp;  - &nbsp;  [Software packages](software_packages.md)   
+
+---    
 
 # Templates and atlases
 **Template:** A standard brain, typically used for registering multiple individuals into a common coordinate space. This space can be either volumetric (3D coordinates system), surface-based (mesh), or a combination of both.
