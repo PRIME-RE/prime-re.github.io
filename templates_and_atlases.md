@@ -1,3 +1,5 @@
+<button name="Structural" onclick="pipeline_structural.md">Structural</button>
+
 # Templates and atlases
 **Template:** A standard brain, typically used for registering multiple individuals into a common coordinate space. This space can be either volumetric (3D coordinates system), surface-based (mesh), or a combination of both.
 
