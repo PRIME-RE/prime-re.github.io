@@ -1,7 +1,7 @@
 
 ---
 
-### [Template & Atlas](templates_and_atlases) &nbsp;  - &nbsp;  [Structural](pipeline_structural) &nbsp;  - &nbsp;  [fMRI](pipeline_fmri) &nbsp;  - &nbsp;  [DTI](pipeline_dti) &nbsp;  - &nbsp;  [Software packages](software_packages)   
+### [Template & Atlas](templates_and_atlases.md) &nbsp;  - &nbsp;  [Structural](pipelines_structural.md) &nbsp;  - &nbsp;  [fMRI](pipelines_fmri.md) &nbsp;  - &nbsp;  [Diffusion](pipelines_dti.md) &nbsp;  - &nbsp;  [Software packages](software_packages.md)   
 
 ---    
 
