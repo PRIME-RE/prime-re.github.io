@@ -1,5 +1,4 @@
-<a name="summary"></a> 
-### Resources
+# Resources
 - [Templates and Atlases](#atlases)
     - [Macaque](#macaque_atlases)
         - [Warps between macaque templates](#macaque_warps)
@@ -12,7 +11,6 @@
     - [Diffusion](#diff)
 
 
-<a name="atlases"></a>
 # Templates and atlases
 **Template:** A standard brain, typically used for registering multiple individuals into a common coordinate space. This space can be either volumetric (3D coordinates system), surface-based (mesh), or a combination of both.
 
