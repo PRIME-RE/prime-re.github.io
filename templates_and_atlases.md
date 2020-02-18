@@ -34,11 +34,11 @@ Below, we provide a non-exhaustive list of existing templates and atlases.
 
 <a name="macaque_warps"></a>
 ### Warps between macaque templates
-Transforming data (e.g. parcellations, statistical maps) between the various template spaces requires the registration of those templates to one another. [Nikoloz Sirmpilatze](https://github.com/niksirbi) has done that for the first 5 templates on the above table, using [ANTs](http://stnava.github.io/ANTs/). Find out more in this [github repository](https://github.com/niksirbi/Macaque_Template_Warps).
-* [See how macaque template warps were computed](https://github.com/niksirbi/Macaque_Template_Warps/blob/master/macaque_template_warps.ipynb) 
-* [See how to use macaque template warps](https://github.com/niksirbi/Macaque_Template_Warps/blob/master/how_to_apply_template_warps.ipynb)
+Transforming data (e.g. parcellations, statistical maps) between the various template spaces requires the registration of those templates to one another. The [RheMAP](templates_and_atlases/rhemap.md) package provides pre-calculated warps between a set of common rhesus macaque brain templates. These warps can be directly downloaded from [Zenodo](https://doi.org/10.5281/zenodo.3668510
+). Corresponding code is available on [GitHub](https://github.com/PRIME-RE/RheMAP).     
 
-The set of between-template warps are currently being tested and will be released soon. Preliminary access to the untested warps is available through [this download](https://www.dropbox.com/sh/8u6dt0t02gor213/AAD17Nbvhi5_4gku9xsYQKFNa?dl=1).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3668510.svg)](https://doi.org/10.5281/zenodo.3668510)
+
 
 <a name="marmoset_atlases"></a>
 ## Marmoset
