@@ -1,7 +1,6 @@
 ## RheMAP    
-Non-linear warps between common rhesus macaque brain templates
 
-![RheMAP logo](templates_and_atlases/RheMAP_logo.png)
+![RheMAP logo](RheMAP_logo.png)    
 
 |                     |                                                                                         |
 | :------------------ | :-------------------------------------------------------------------------------------- |
@@ -16,4 +15,4 @@ Non-linear warps between common rhesus macaque brain templates
 | **Restrictions**    | Please cite the Zenodo dataset when you use this in your work                           |
     
 
-![RheMAP graphic](templates_and_atlases/RheMAP_graphic.png)
+![RheMAP graphic](RheMAP_graphic.png)
