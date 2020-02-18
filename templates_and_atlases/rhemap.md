@@ -14,5 +14,6 @@
 | **Communication**   | <p.c.klink@gmail.com>                                                                   |
 | **Restrictions**    | Please cite the Zenodo dataset when you use this in your work                           |
     
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3668510.svg)](https://doi.org/10.5281/zenodo.3668510)
 
 ![RheMAP graphic](RheMAP_graphic.png)
