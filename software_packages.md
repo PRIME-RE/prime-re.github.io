@@ -7,7 +7,7 @@
 
 # Software packages
 
-This is a (non-exhaustive) list of software packages commonly used in (NHP) neuroimaging analysis. These were not submitted to PRIME-RE but are rather common in the field. Documentation will not be provided on this site, but can usually be found at the websites for the individual packages. For a similar (much better curated) list, see [NITRC](https://www.nitrc.org/). 
+This is a (non-exhaustive) list of software packages commonly used in (NHP) neuroimaging analysis. These were not submitted to PRIME-RE but are rather common in the field. Documentation will not be provided on this site, but can usually be found at the websites for the individual packages. For a similar (much better curated) list, see <a href="https://www.nitrc.org/" target="_blank">NITRC</a>.
 
 [<img src="https://www.nitrc.org/themes/nitrc3.0/images/nitrc-logo.png" height="40">](https://www.nitrc.org/)      
 
