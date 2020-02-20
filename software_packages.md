@@ -1,8 +1,11 @@
 
----
-
-### [Template & Atlas](templates_and_atlases.md) &nbsp;  - &nbsp;  [Structural](pipelines_structural.md) &nbsp;  - &nbsp;  [fMRI](pipelines_fmri.md) &nbsp;  - &nbsp;  [Diffusion](pipelines_diffusion.md) &nbsp;  - &nbsp;  [Software packages](software_packages.md)   
-
+<p align=center><b><h3>
+  <a href=templates_and_atlases.md>Template & Atlas</a> &nbsp;  - &nbsp;  
+  <a href=pipelines_structural.md>Structural</a> &nbsp;  - &nbsp;  
+  <a href=(pipelines_fmri.md>fMRI</a> &nbsp;  - &nbsp;  
+  <a href=(pipelines_diffusion.md>Diffusion</a> &nbsp;  - &nbsp; 
+  <a href=(software_packages.md>Software packages</a>
+</h3></b></p>
 ---    
 
 # Software packages
