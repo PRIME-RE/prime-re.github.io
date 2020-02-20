@@ -8,14 +8,28 @@
 # fMRI
 
 ### Overview
+- [Pypreclin](pipelines_structural.md#Pypreclin) 
 
-| Name | Short description | Links |
-| --- | --- | --- |
-| Pypreclin | Automatic Python preclinical pipeline for monkey fMRI preprocessing | [github](https://github.com/neurospin/pypreclin) - [PyPI](https://pypi.org/project/pypreclin/) - [publication](https://www.sciencedirect.com/science/article/pii/S1053811919309449?via%3Dihub)
+---
 
-### Details
-#### Pypreclin
-Pypreclin is a flexible and automatic tool for preprocessing of macaque fMRI data available for the growing community of primate fMRI. The Python project can be found on [GitHub](https://github.com/neurospin/pypreclin), on the Python Package Index [PyPI](https://pypi.org/project/pypreclin/) for easy installation and upgrading, and also as a [Singularity container](biodev.cea.fr/pypreclin/pypreclin-ubuntu.simg). <br>
-**Authors:** Jordy TASSERIE, Antoine GRIGIS, Lynn Uhrig, Morgan Dupont, Alexis Amadon and Béchir JARRAYA. <br>
-**How to acknowledge:** Please cite the related publication [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31743789) - [Journal website](https://www.sciencedirect.com/science/article/pii/S1053811919309449?via%3Dihub) <br>
-*Tasserie J, Grigis A, Uhrig L, Dupont M, Amadon A, Jarraya B.Neuroimage. 2019 Nov 16:116353. doi: 10.1016/j.neuroimage.2019.116353. PMID:31743789*
+## Details
+
+### Pypreclin
+**Authors**         : Jordy Tasserie, Antoine Grigis, Lynn Uhrig, Morgan Dupont, Alexis Amadon and Béchir Jarraya.                 
+**Description**     : Pypreclin is a flexible and automatic tool for preprocessing of macaque fMRI data available for the growing community of primate fMRI.                                   
+**Documentation**   : [GitHub](https://github.com/neurospin/pypreclin)      
+**Link**            : The Python project can be found on [GitHub](https://github.com/neurospin/pypreclin), on the Python Package Index [PyPI](https://pypi.org/project/pypreclin/) for easy installation and upgrading, and also as a [Singularity container](biodev.cea.fr/pypreclin/pypreclin-ubuntu.simg).   <br> 
+**Language**        : Python           
+**Publication**     : Tasserie J, Grigis A, Uhrig L, Dupont M, Amadon A, Jarraya B. Neuroimage. 2019 Nov 16:116353. doi: 10.1016/j.neuroimage.2019.116353. [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31743789) - [Journal website](https://www.sciencedirect.com/science/article/pii/S1053811919309449?via%3Dihub)  <br>
+**Communication**   : [GitHub profile](https://github.com/AGrigis)         
+**Restrictions**    : Please cite the related publication      
+
+### NHP-BIDS     
+**Authors**         : Chris Klink                                                                             
+**Description**     : This pipeline uses NiPype to organize and (pre)process NHP-MRI data in accordance with BIDS. It covers the entire pipeline from exporting the data from the scanner, via motion correction and warping, to running a GLM.              
+**Documentation**   : [GitHub WIKI](https://github.com/VisionandCognition/NHP-BIDS/wiki)                                                 
+**Link**            : [GitHub link](https://github.com/VisionandCognition/NHP-BIDS/tree/public)         
+**Language**        : Python, Shell                                                       
+**Publication**     : -                                                                                       
+**Communication**   : [GitHub profile](https://github.com/pcklink)                                            
+**Restrictions**    : None                                                                                      
