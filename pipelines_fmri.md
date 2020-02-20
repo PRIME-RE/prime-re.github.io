@@ -7,9 +7,9 @@
 
 # fMRI
 
-### Overview
-- [NHP-BIDS](pipelines_structural.md#NHP-BIDS) 
-- [Pypreclin](pipelines_structural.md#Pypreclin) 
+## Overview
+- [NHP-BIDS](pipelines_fmri.md#NHP-BIDS) 
+- [Pypreclin](pipelines_fmri.md#Pypreclin) 
 
 ---
 
