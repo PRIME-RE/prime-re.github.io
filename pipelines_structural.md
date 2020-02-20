@@ -7,13 +7,13 @@
 
 # Structural MRI
 
-### Index     
+## Index     
 - [Macapype](pipelines_structural.md#Macapype)
 - [NHP-Freesurfer](pipelines_structural.md#NHP-Freesurfer)
 
 ---
 
-### Macapype  
+## Macapype  
 
 | **Macapype**  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &nbsp; | 
 | :------------------ | :-------------------------------------------------------------------------------------- |
@@ -24,11 +24,11 @@
 | **Language**        | Python                                                                                  |
 | **Publication**     | -                                                                                       |
 | **Communication**   | [GitHub profile](https://github.com/BastienCagna)                                       |
-| **Restrictions**    | -                                                                                       |
+| **Restrictions**    | -                                                                                       |      
 
+---
 
-
-### NHP-Freesurfer  
+## NHP-Freesurfer  
 
 | **NHP-Freesurfer**  &ensp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &nbsp;|   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;              | 
 | :------------------ | :-------------------------------------------------------------------------------------- |
