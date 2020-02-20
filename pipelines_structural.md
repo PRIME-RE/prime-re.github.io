@@ -7,17 +7,36 @@
 
 # Structural MRI
 
-### Overview
+### Index     
+- [Macapype](pipelines_structural.md#Macapype)
+- [NHP-Freesurfer](pipelines_structural.md#NHP-Freesurfer)
 
-| Name | Short description | Links |
-| --- | --- | --- |
-| Surfaces and flatmaps | Jupyter notebook that ... | [view](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html) - [download](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb) |
-| Macapype | Python package for anatomical preprosessing using Nipype. | [github](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype) - [details](https://github.com/PRIME-RE/prime-re.github.io/issues/7) |
+---
 
-### Details
-#### Surfaces and flatmaps
-(description should be here)
-[View html](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.html)  - [Download notebook](structural/surfaces_and_flatmaps_notebook/Surfaces_and_Flatmaps.ipynb)
-#### Macapype
-Python package that provides pipelines for NHP anatomical preprocessing using Nipype.
-[framagit repository](https://framagit.org/mars-hackat2019/anat-mri-pipeline/macapype)
+### Macapype  
+
+| **Macapype**  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &nbsp; | 
+| :------------------ | :-------------------------------------------------------------------------------------- |
+| **Authors**         | Kep kee Loh<br> David Meunier<br> Bastien Cagna<br> Julien Sein<br> Régis Trapeau       |
+| **Description**     | Python package for anatomical preprosessing using Nipype.                               |
+| **Documentation**   | [Google doc](https://docs.google.com/document/d/11zeyjY46AsLZcf-Y5Q_LjIoE_aYkN8DaLwZIElF2ctE) |
+| **Link**            | [https://github.com/BastienCagna/macapype](https://github.com/BastienCagna/macapype)    |
+| **Language**        | Python                                                                                  |
+| **Publication**     | -                                                                                       |
+| **Communication**   | [GitHub profile](https://github.com/BastienCagna)                                       |
+| **Restrictions**    | -                                                                                       |
+
+
+
+### NHP-Freesurfer  
+
+| **NHP-Freesurfer**  &ensp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &nbsp;|   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;              | 
+| :------------------ | :-------------------------------------------------------------------------------------- |
+| **Authors**         | Chris Klink                                                                             |
+| **Description**     | Segmentation and surface generation of monkey brains using Freesurfer,<br> the NMT template, and other tools. Jupyter Notebooks with documentation on how to generate surfaces and project results to it.              |
+| **Documentation**   | Available in Jupyter notebook on GitHub                                                 |
+| **Link**            | [GitHub link](https://github.com/VisionandCognition/NHP-Freesurfer/tree/public)         |
+| **Language**        | Jupyter notebooks with Shell code                                                       |
+| **Publication**     | -                                                                                       |
+| **Communication**   | [GitHub profile](https://github.com/pcklink)                                            |
+| **Restrictions**    | -                                                                                       |
