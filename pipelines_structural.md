@@ -33,7 +33,7 @@
 | **NHP-Freesurfer**  &ensp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &nbsp;|   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;              | 
 | :------------------ | :-------------------------------------------------------------------------------------- |
 | **Authors**         | Chris Klink                                                                             |
-| **Description**     | Segmentation and surface generation of monkey brains using Freesurfer,<br> the NMT template, and other tools. Jupyter Notebooks with documentation on how to generate surfaces and project results to it.              |
+| **Description**     | Segmentation and surface generation of monkey brains using Freesurfer, the NMT template, and other tools. Jupyter Notebooks with documentation on how to generate surfaces and project results to it.              |
 | **Documentation**   | Available in Jupyter notebook on GitHub                                                 |
 | **Link**            | [GitHub link](https://github.com/VisionandCognition/NHP-Freesurfer/tree/public)         |
 | **Language**        | Jupyter notebooks with Shell code                                                       |
