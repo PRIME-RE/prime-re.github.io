@@ -15,7 +15,7 @@ If you would like to have something added to this list, please [let us know](htt
 
 | **Package** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | **Usage** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  |  
 | :-- | :-- | :-: |       
-| [AFNI](https://afni.nimh.nih.gov/) | Universal (f)MRI | [<img src="https://afni.nimh.nih.gov/sites/default/files/default_images/afnilogo.png" height="30" target="_blank"/>](https://afni.nimh.nih.gov/) |         
+| [AFNI](https://afni.nimh.nih.gov/) | Universal (f)MRI | [<img src="https://afni.nimh.nih.gov/sites/default/files/default_images/afnilogo.png" height="30" target="_blank" />](https://afni.nimh.nih.gov/) |         
 | [ANTs](http://stnava.github.io/ANTs/) | Registration | [<img src="https://camo.githubusercontent.com/d89ec9e8fec46adc32f363c57ff5708939da8d8d/687474703a2f2f692e696d6775722e636f6d2f6d4c5a373141692e706e67" height="30" />](http://stnava.github.io/ANTs/) |        
 | [BrainVISA](http://brainvisa.info/web/index.html) | Anatomy | <img src="http://brainvisa.info/web/_static/images/brainvisa.png" height="30" /> |           
 | [Brainvoyager](https://www.brainvoyager.com/) | Universal (f)MRI | <img src="https://www.brainvoyager.com/resources/Home/BrainVoyager-v21_Snapshot1_lores.png" height="30" /> |     
