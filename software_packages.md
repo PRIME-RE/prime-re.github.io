@@ -7,11 +7,11 @@
 
 # Software packages
 
-This is a (non-exhaustive) list of software packages commonly used in (NHP) neuroimaging analysis. These were not submitted to PRIME-RE but are rather common in the field. Documentation will not be provided on this site, but can usually be found at the websites for the individual packages. For a similar (much better curated) list, see [NIRC](https://www.nitrc.org/). 
+This is a (non-exhaustive) list of software packages commonly used in (NHP) neuroimaging analysis. These were not submitted to PRIME-RE but are rather common in the field. Documentation will not be provided on this site, but can usually be found at the websites for the individual packages. For a similar (much better curated) list, see [NITRC](https://www.nitrc.org/). 
 
 [<img src="https://www.nitrc.org/themes/nitrc3.0/images/nitrc-logo.png" height="40">](https://www.nitrc.org/)      
 
-If you would like to have something added to this list, please [let us know](https://github.com/PRIME-RE/prime-re.github.io/issues/new) or fill out a [new resource form](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=new-resource&template=new-resource.md&title=%3CResource+Name%3E).   
+If you would like to have something added to this list, please [let us know](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:&nbsp;%3Ctopic%3E) or fill out a [new resource form](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=new-resource&template=new-resource.md&title=%3CResource+Name%3E).   
 
 | **Package** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | **Usage** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  |  
 | :-- | :-- | :-: |       
