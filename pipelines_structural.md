@@ -11,7 +11,7 @@
 - [Macapype](pipelines_structural.md#Macapype)
 - [NHP-Freesurfer](pipelines_structural.md#NHP-Freesurfer)
 
----
+<br>     
 
 ## Details
 
