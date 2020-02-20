@@ -7,17 +7,19 @@
 
 # Diffusion
 
-### Overview
+## Overview
+- [Diffusion-MRI by Rakshit](pipelines_diffusion.md#Diffusion-MRI-by-Rakshit) 
 
-| Name | Short description | Links |
-| --- | --- | --- |
-| Diffusion-MRI by Rakshit| Jupyter notebooks on preprocessing, DTI, DKI, NODDI | [github](https://github.com/RDadarwal/Diffusion-MRI)
+---
 
-### Details
-#### Diffusion-MRI by Rakshit
-These [jupyter notebooks](https://github.com/RDadarwal/Diffusion-MRI), provided by [Rakshit Dadarwal](https://github.com/RDadarwal), showcase  an example of diffusion MRI preprocessing and analysis with python. They include steps for basic preprocessing (denoising, susceptibility-induced distortion correction, eddy current-induced distortion and motion correction), model fitting (DTI, DKI, NODDI) and calculation of parametric maps. These steps use functions from [DIPY](https://dipy.org/), [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/), and [AMICO](https://github.com/daducci/AMICO).
+## Details
 
-
-
-
-
+### Diffusion-MRI by Rakshit
+**Authors**         : Rakshit Dadarwal                                                                             
+**Description**     : These Jupyter notebooks showcase  an example of diffusion MRI preprocessing and analysis with python. They include steps for basic preprocessing (denoising, susceptibility-induced distortion correction, eddy current-induced distortion and motion correction), model fitting (DTI, DKI, NODDI) and calculation of parametric maps. These steps use functions from [DIPY](https://dipy.org/), [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/), and [AMICO](https://github.com/daducci/AMICO).                  
+**Documentation**   : [Jupyter notebooks on GitHub](https://github.com/RDadarwal/Diffusion-MRI)                                     
+**Link**            : [GitHub link](https://github.com/RDadarwal/Diffusion-MRI)         
+**Language**        : Python                                                  
+**Publication**     : -                                                                                       
+**Communication**   : [GitHub profile](https://github.com/RDadarwal)                                            
+**Restrictions**    : None                                                                                      
