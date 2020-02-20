@@ -7,4 +7,43 @@
 
 # Software packages
 
-A list of known software packages (e.g., FSL/AFNI/ANTs/SPM/Brainvoyager/NiPype) with links to their original pages.
+This is a (non-exhaustive) list of software packages commonly used in (NHP) neuroimaging analysis that were not officially submitted to PRIME-RE. Documentation will not be provided here, but can usually be found at the individual websites. For a similar (better curated) list, see [NIRC](https://www.nitrc.org/).    
+
+[![NITRC](https://www.nitrc.org/themes/nitrc3.0/images/nitrc-logo.png](https://www.nitrc.org/)
+
+
+|        |        |        |
+| ------ | ------ | ------ | 
+| <img src="https://afni.nimh.nih.gov/sites/default/files/default_images/afnilogo.png" height="30" /> | [AFNI](https://afni.nimh.nih.gov/) | Universal (f)MRI |         
+| <img src="https://camo.githubusercontent.com/d89ec9e8fec46adc32f363c57ff5708939da8d8d/687474703a2f2f692e696d6775722e636f6d2f6d4c5a373141692e706e67" height="30" /> | [ANTs](http://stnava.github.io/ANTs/) | Registration |       
+| <img src="http://brainvisa.info/web/_static/images/brainvisa.png" height="30" /> | [BrainVISA](http://brainvisa.info/web/index.html) | Anatomy |           
+| <img src="https://www.brainvoyager.com/resources/Home/BrainVoyager-v21_Snapshot1_lores.png" height="30" /> | [Brainvoyager](https://www.brainvoyager.com/) | Universal (f)MRI |     
+| <img src="https://mcin.ca/wp-content/uploads/2017/06/gray-left-overlay-medial-clear.png" height="30" /> | [CIVET](http://www.bic.mni.mcgill.ca/ServicesSoftware/CIVET) | Cortical surface analysis |         
+| <img src="https://www.humanconnectome.org/themes/uar_washu/assets/images/logos/ccf-logo-mobile.png" height="30" /> | [Connectome Workbench](https://www.humanconnectome.org/software/connectome-workbench) | Universal MRI  |         
+| <img src="https://www.nitrc.org/themes/nitrc3.0/images/nitrc-logo.png" height="30" /> | [dcm2niix](https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage) | Convert dcm to nifti |         
+| <img src="http://dsi-studio.labsolver.org/_/rsrc/1468760876817/config/customLogo.gif?revision=17" height="30" /> | [DSI Studio](http://dsi-studio.labsolver.org/) | Tractography |         
+| <img src="https://surfer.nmr.mgh.harvard.edu/fscortex.png" height="30" /> | [Freesurfer](https://surfer.nmr.mgh.harvard.edu/) | Universal MRI. Surface generation. Segmentation. |         
+| <img src="https://fsl.fmrib.ox.ac.uk/fsl/wiki_static/fsl/img/fsl-logo-x2.png" height="30" /> | [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) | Universal (f)MRI |   
+| <img src="https://horosproject.org/wp-content/uploads/2018/01/horos-logo-e1537491428373.png" height="30" /> | [Horos](https://horosproject.org/) | Dicom viewer. Open source OsiriX alternative |         
+| <img src="https://d2.alternativeto.net/dist/icons/invesalius-3_88840.png?width=200&height=200&mode=crop&upscale=false" height="30" /> | [InVesalius](https://invesalius.github.io/) | 3D reconstruction |               
+| <img src="http://www.itksnap.org/Artwork/snaplogo3.png" height="30" /> | [ITK-SNAP](http://www.itksnap.org/pmwiki/pmwiki.php) | Segmentation and 3D |         
+| <img src="http://www.nmr.mgh.harvard.edu/~jbm/jip/_Media/align_med.jpeg" height="30" /> | [JIP](http://www.nmr.mgh.harvard.edu/~jbm/jip/jip-align/) | Registration |         
+| <img src="https://www.lead-dbs.org/wp-content/uploads/logo_icon.png" height="30" /> | [Lead-DBS](https://www.lead-dbs.org/) | Connectome |         
+| <img src="https://med.inria.fr/" height="30" /> | [MedInria](https://med.inria.fr/) | Image processing and viewing |         
+| <img src="https://mipav.cit.nih.gov/about.asp_files/splash.gif" height="30" /> | [MIPAV](https://mipav.cit.nih.gov/) | Image processing and viewing |         
+| <img src="https://www.mccauslandcenter.sc.edu/mricrogl/sites/sc.edu.mricrogl/files/mni320_0.png" height="30" /> | [MRIcro(GL)](https://www.mccauslandcenter.sc.edu/crnl/mricro) | Image viewing 3D |                 
+| <img src="https://web.stanford.edu/group/vista/wikiupload/d/dd/MeshVisualize.jpg" height="30" /> | [mrVista](https://web.stanford.edu/group/vista/cgi-bin/wiki/index.php/MrVista) | Universal (f)MRI |         
+| <img src="https://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/img/osirix_logo.svg" height="30" /> | [OsiriX](https://www.osirix-viewer.com/) | DICOM viewer |         
+| <img src="https://www.slicer.org/img/3DSlicerLogo-H-Color-218x144.png" height="30" /> | [Slicer 3D](https://www.slicer.org/) | Versatile image processing 3D |         
+| <img src="https://www.fil.ion.ucl.ac.uk/spm/images/spm.svg" height="30" /> | [SPM](https://www.fil.ion.ucl.ac.uk/spm/) | Universal fMRI |         
+| <img src="http://trackvis.org/images/trackvis_prospective.png" height="30" /> | [trackVis](http://trackvis.org/) | Tractography |         
+
+
+### Python based solutions
+
+|        |        |        |
+| ------ | ------ | ------ | 
+| <img src="https://gallantlab.github.io/pycortex/_images/3dhead.png" height="30" /> | [Pycortex](https://github.com/gallantlab/pycortex) | Volumes and surfaces |         
+| <img src="https://nipype.readthedocs.io/en/latest/_static/nipype-banner-bg.png" height="30" /> | [NiPype](https://nipype.readthedocs.io/en/latest/) | Pipelines |         
+| <img src="https://nipy.org/img/nipy.svg" height="30" /> | [NiPy](https://nipy.org/) | A collection of more Python resources |         
+|  | ... |  |         
