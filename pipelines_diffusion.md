@@ -9,8 +9,8 @@
 
 ## Overview
 - [Diffusion-MRI by Rakshit](pipelines_diffusion.md#Diffusion-MRI-by-Rakshit) 
-
----
+    
+<br>    
 
 ## Details
 
