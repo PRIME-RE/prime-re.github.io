@@ -11,7 +11,7 @@
 - [NHP-BIDS](pipelines_fmri.md#NHP-BIDS) 
 - [Pypreclin](pipelines_fmri.md#Pypreclin) 
 
----
+<br>
 
 ## Details   
 
