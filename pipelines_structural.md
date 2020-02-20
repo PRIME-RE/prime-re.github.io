@@ -31,6 +31,6 @@
 **Documentation**   : Available in Jupyter notebook on GitHub                                                 
 **Link**            : [GitHub link](https://github.com/VisionandCognition/NHP-Freesurfer/tree/public)         
 **Language**        : Jupyter notebooks with Shell code                                                       
-**Publication**     : -                                                                                       |
-**Communication**   : [GitHub profile](https://github.com/pcklink)                                            |
-**Restrictions**    : None                                                                                      |
+**Publication**     : -                                                                                       
+**Communication**   : [GitHub profile](https://github.com/pcklink)                                            
+**Restrictions**    : None                                                                                      
