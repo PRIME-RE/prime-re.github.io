@@ -8,21 +8,12 @@
 # fMRI
 
 ### Overview
+- [NHP-BIDS](pipelines_structural.md#NHP-BIDS) 
 - [Pypreclin](pipelines_structural.md#Pypreclin) 
 
 ---
 
-## Details
-
-### Pypreclin
-**Authors**         : Jordy Tasserie, Antoine Grigis, Lynn Uhrig, Morgan Dupont, Alexis Amadon and Béchir Jarraya.                 
-**Description**     : Pypreclin is a flexible and automatic tool for preprocessing of macaque fMRI data available for the growing community of primate fMRI.                                   
-**Documentation**   : [GitHub](https://github.com/neurospin/pypreclin)      
-**Link**            : The Python project can be found on [GitHub](https://github.com/neurospin/pypreclin), on the Python Package Index [PyPI](https://pypi.org/project/pypreclin/) for easy installation and upgrading, and also as a [Singularity container](biodev.cea.fr/pypreclin/pypreclin-ubuntu.simg).   <br> 
-**Language**        : Python           
-**Publication**     : Tasserie J, Grigis A, Uhrig L, Dupont M, Amadon A, Jarraya B. Neuroimage. 2019 Nov 16:116353. doi: 10.1016/j.neuroimage.2019.116353. [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31743789) - [Journal website](https://www.sciencedirect.com/science/article/pii/S1053811919309449?via%3Dihub)  <br>
-**Communication**   : [GitHub profile](https://github.com/AGrigis)         
-**Restrictions**    : Please cite the related publication      
+## Details   
 
 ### NHP-BIDS     
 **Authors**         : Chris Klink                                                                             
@@ -33,3 +24,13 @@
 **Publication**     : -                                                                                       
 **Communication**   : [GitHub profile](https://github.com/pcklink)                                            
 **Restrictions**    : None                                                                                      
+
+### Pypreclin
+**Authors**         : Jordy Tasserie, Antoine Grigis, Lynn Uhrig, Morgan Dupont, Alexis Amadon and Béchir Jarraya.                 
+**Description**     : Pypreclin is a flexible and automatic tool for preprocessing of macaque fMRI data available for the growing community of primate fMRI.                                   
+**Documentation**   : [GitHub](https://github.com/neurospin/pypreclin)      
+**Link**            : The Python project can be found on [GitHub](https://github.com/neurospin/pypreclin), on the Python Package Index [PyPI](https://pypi.org/project/pypreclin/) for easy installation and upgrading, and also as a [Singularity container](biodev.cea.fr/pypreclin/pypreclin-ubuntu.simg).   <br> 
+**Language**        : Python           
+**Publication**     : Tasserie J, Grigis A, Uhrig L, Dupont M, Amadon A, Jarraya B. Neuroimage. 2019 Nov 16:116353. doi: 10.1016/j.neuroimage.2019.116353. [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31743789) - [Journal website](https://www.sciencedirect.com/science/article/pii/S1053811919309449?via%3Dihub)  <br>
+**Communication**   : [GitHub profile](https://github.com/AGrigis)         
+**Restrictions**    : Please cite the related publication   
