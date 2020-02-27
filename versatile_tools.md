@@ -1,14 +1,14 @@
 
 ---
 
-#### [Template/Atlas](versatile_tools.md#templates_and_atlases.md) &nbsp;  - &nbsp;  [Versatile](versatile_tools.md) &nbsp;  - &nbsp;  [Structural](pipelines_structural.md) &nbsp;  - &nbsp;  [fMRI](pipelines_fmri.md) &nbsp;  - &nbsp;  [Diffusion](pipelines_diffusion.md) &nbsp;  - &nbsp;  [Software packages](software_packages.md)     
+#### [Template/Atlas](templates_and_atlases.md) &nbsp;  - &nbsp;  [Versatile](versatile_tools.md) &nbsp;  - &nbsp;  [Structural](pipelines_structural.md) &nbsp;  - &nbsp;  [fMRI](pipelines_fmri.md) &nbsp;  - &nbsp;  [Diffusion](pipelines_diffusion.md) &nbsp;  - &nbsp;  [Software packages](software_packages.md)     
 
 ---    
 
 # Versatile tools
 
 ## Overview
-- [NeuroElf](NeuroElf) 
+- [NeuroElf](versatile_tools.md#NeuroElf) 
     
 <br>    
 
