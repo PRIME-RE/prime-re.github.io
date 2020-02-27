@@ -13,11 +13,13 @@
     - [Marmoset](templates_and_atlases.md#marmoset_atlases)
     - [Other species](templates_and_atlases.md#other_atlases)
 - [Versatile tools](versatile_tools.md)
+    - [NeuroElf](versatile_tools.md#NeuroElf)     
 - Pipelines
     - [Structural](pipelines_structural.md)
         - [Macapype](pipelines_structural.md#macapype)    
         - [NHP-Freesurfer](pipelines_structural.md#NHP-Freesurfer)     
     - [fMRI](pipelines_fmri.md)
+        - [NeuroElf](versatile_tools.md#NeuroElf)     
         - [NHP-BIDS](pipelines_fmri.md#NHP-BIDS)
         - [Pypreclin](pipelines_fmri.md#pypreclin)     
     - [Diffusion](pipelines_diffusion.md)
