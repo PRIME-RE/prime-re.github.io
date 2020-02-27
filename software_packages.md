@@ -38,7 +38,7 @@ If you would like to have something added to this list, please [let us know](htt
 | [Slicer 3D](https://www.slicer.org/) | Versatile image processing 3D | [<img src="https://www.slicer.org/img/3DSlicerLogo-H-Color-218x144.png" height="30" />](https://www.slicer.org/) |         
 | [SPM](https://www.fil.ion.ucl.ac.uk/spm/) | Universal fMRI | [<img src="https://www.fil.ion.ucl.ac.uk/spm/images/spm.svg" height="30" />](https://www.fil.ion.ucl.ac.uk/spm/) |         
 | [TrackVis](http://trackvis.org/) | Tractography | [<img src="http://trackvis.org/images/trackvis_prospective.png" height="30" />](http://trackvis.org/) |       
-
+| [MRtrix3](https://mrtrix.org/) | Tractography | [<img src="https://mrtrix.org/images/frontpage/tractography.jpg" height="30" />](https://mrtrix.org/) |       
 
 ### Python based solutions
 
@@ -47,3 +47,4 @@ If you would like to have something added to this list, please [let us know](htt
 | [Pycortex](https://github.com/gallantlab/pycortex) | Volumes and surfaces | [<img src="https://gallantlab.github.io/pycortex/_images/3dhead.png" height="30" />](https://github.com/gallantlab/pycortex) |         
 | [NiPype](https://nipype.readthedocs.io/en/latest/) | Pipelines | [<img src="https://nipype.readthedocs.io/en/latest/_static/nipype-banner-bg.png" height="30" />](https://nipype.readthedocs.io/en/latest/) |         
 | [NiPy](https://nipy.org/) | A collection of more Python resources | [<img src="https://nipy.org/img/nipy.svg" height="30" />](https://nipy.org/) |         
+| [Nilearn](https://nilearn.github.io/) | Statistical learning and plotting | [<img src="https://nilearn.github.io/_static/nilearn-logo.png" height="30" />](https://nilearn.github.io/) | 
