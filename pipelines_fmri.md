@@ -8,12 +8,24 @@
 # fMRI
 
 ## Overview
+- [NeuroElf](versatile_tools.md#NeuroElf) 
 - [NHP-BIDS](pipelines_fmri.md#NHP-BIDS) 
 - [Pypreclin](pipelines_fmri.md#Pypreclin) 
 
 <br>
 
-## Details   
+## Details
+
+### NeuroElf
+**Authors**         : Jochen Weber                                                                             
+**Description**     : NeuroElf is a powerful Matlab-based toolbox for working with neuroimaging data.                  
+**Documentation**   : [NeuroElf website](http://neuroelf.net/)                                     
+**Link**            : [http://neuroelf.net/](http://neuroelf.net/)         
+**Language**        : Matlab                                                  
+**Publication**     : [http://neuroelf.net/](http://neuroelf.net/)                                                                                        
+**Communication**   : [GitHub](https://github.com/neuroelf/neuroelf-matlab)                                            
+**Restrictions**    : See [license](http://neuroelf.net/wiki/doku.php?id=neuroelf_license)    
+
 
 ### NHP-BIDS     
 **Authors**         : Chris Klink                                                                             
