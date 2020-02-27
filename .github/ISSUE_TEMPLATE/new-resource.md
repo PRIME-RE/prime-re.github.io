@@ -25,18 +25,17 @@ See instructions/explanation below the Resource info table
 | **Language**        | > replace with language (python, shell, matlab, etc) your resource uses <               |
 | **Publication**     | > [replace this with a link to a related publication](http://link-to-publication.com) < |
 | **Communication**   | > replace this with a means for communication <                                         |
-| **Restrictions**    | > replace this with potential usage restrictions <                                         |
-    
+| **Restrictions**    | > replace this with potential usage restrictions <                                      |
+| **Category**        | > template/atlas/versatile/structural/fMRI/diffusion <                                  |
+  
     
 - [ ] **Do NOT include this resource in periodic mailings about new resources on PRIME-RE** 
 
 
----
-
-
 ## Instructions     
 Please fill out the table above as completely as possible, i.e. replace the complete str `> .... <` with your information. 
-Then submit it as a new issue and tag the issue with all applicable (yellow) categorical tags to specify what type of resource you are contributing. We will use this table and these tags to add your resource to the main list.    
+Then submit it as a new issue and tag the issue with all applicable (yellow) categorical tags to specify what type of resource you are contributing.
+We will use this table and these tags to add your resource to the main list.    
 
 #### Name
 Provide a name for your resource. Try to make it a bit descriptive, but as long as it as not incredibly offensive, we will allow it.    
@@ -71,3 +70,6 @@ If you want to submit your resource 'as-is' and not offer any means for communic
 
 #### Restrictions
 Are there any limitations for how the analysis method can be used (e.g., citation or acknowledgement required, etc)?
+
+#### Category
+What is the most suitable category to list your resource under?
