@@ -10,8 +10,9 @@
 | **Language**        | > replace with language (python, shell, matlab, etc) your resource uses <               |
 | **Publication**     | > [replace this with a link to a related publication](http://link-to-publication.com) < |
 | **Communication**   | > replace this with a means for communication <                                         |
-| **Restrictions**    | > replace this with potential usage restrictions <                                         |
-    
+| **Restrictions**    | > replace this with potential usage restrictions <                                      |
+| **Category**        | > template/atlas/versatile/structural/fMRI/diffusion <                                  |
+  
     
 - [ ] **Do NOT include this resource in periodic mailings about new resources on PRIME-RE** 
 
@@ -54,3 +55,6 @@ If you want to submit your resource 'as-is' and not offer any means for communic
 
 #### Restrictions
 Are there any limitations for how the analysis method can be used (e.g., citation or acknowledgement required, etc)?
+
+#### Category
+What is the most suitable category to list your resource under? 
