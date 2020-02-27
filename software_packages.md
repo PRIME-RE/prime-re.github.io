@@ -11,6 +11,8 @@ This is a (non-exhaustive) list of software packages commonly used in (NHP) neur
 
 [<img src="https://www.nitrc.org/themes/nitrc3.0/images/nitrc-logo.png" height="40">](https://www.nitrc.org/)      
 
+If you use any of these software packages for your published work, please make sure to credit the developers. In many cases this is even a prerequisite for using the software at all. Information on how to credit a resource will usually be available on their respective website. If this is not the case, and there is not an obvious methods paper you can cite, you should probably still mention the name (and url) of the tools you used when describing your methods. It increases reproducibility and recognizes the efforts of the developers that provide us with these tools.     
+
 If you would like to have something added to this list, please [let us know](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:&nbsp;%3Ctopic%3E) or fill out a [new resource form](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=new-resource&template=new-resource.md&title=%3CResource+Name%3E).   
 
 | **Package** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | **Usage** &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  |  
