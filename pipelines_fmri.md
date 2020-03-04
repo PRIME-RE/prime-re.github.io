@@ -10,6 +10,7 @@
 ## Overview
 - [NeuroElf](pipelines_fmri.md#NeuroElf) 
 - [NHP-BIDS](pipelines_fmri.md#NHP-BIDS) 
+- [NHP-pycortex](pipelines_fmri.md#NHP-pycortex) 
 - [Pypreclin](pipelines_fmri.md#Pypreclin) 
 
 <br>
@@ -36,6 +37,16 @@
 **Publication**     : -                                                                                       
 **Communication**   : [GitHub profile](https://github.com/pcklink)                                            
 **Restrictions**    : None                                                                                      
+
+### NHP-pycortex     
+**Authors**         : Chris Klink                                                                             
+**Description**     : Import surfaces generated with [NHP-Freesurfer](pipelines_structural.md#NHP-Freesurfer) into a version of pycortex that is adapted for NHP use. This opens up the possibility of using pycortex to visualize fMRI results on the surface.                     
+**Documentation**   : Available in Jupyter notebook on GitHub                                                 
+**Link**            : [GitHub link](https://github.com/VisionandCognition/NHP-pycortex)         
+**Language**        : Jupyter notebooks with Python 3                                                       
+**Publication**     : -                                                                                       
+**Communication**   : [GitHub profile](https://github.com/pcklink)                                            
+**Restrictions**    : None  
 
 ### Pypreclin
 **Authors**         : Jordy Tasserie, Antoine Grigis, Lynn Uhrig, Morgan Dupont, Alexis Amadon and Béchir Jarraya.                 
