@@ -18,13 +18,13 @@
 ## Details
 
 ### Macapype       
-**Authors**         : Kep kee Loh, David Meunier, Bastien Cagna, Julien Sein, & Régis Trapeau                 
-**Description**     : Python package for anatomical preprosessing using Nipype.                               
-**Documentation**   : [Google doc](https://docs.google.com/document/d/11zeyjY46AsLZcf-Y5Q_LjIoE_aYkN8DaLwZIElF2ctE)     
-**Link**            : [https://github.com/BastienCagna/macapype](https://github.com/BastienCagna/macapype)    
+**Authors**         : Bastien Cagna, David Meunier, Kep kee Loh, Julien Sein, & Régis Trapeau                 
+**Description**     : Python package for NHP anatomical MRI segmentation using Nipype.                               
+**Documentation**   : [Online doc](https://macatools.github.io/macapype/index.html)     
+**Link**            : [https://github.com/Macatools/macapype](https://github.com/Macatools/macapype)    
 **Language**        : Python                                                                                  
 **Publication**     : -                                                                                       
-**Communication**   : [GitHub profile](https://github.com/BastienCagna)                                       
+**Communication**   : [Post issue on GitHub website](https://github.com/Macatools/macapype/issues/new)                                       
 **Restrictions**    : None                                                                                          
 
 ### NHP-Freesurfer     
