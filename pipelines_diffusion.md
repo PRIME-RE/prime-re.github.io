@@ -9,6 +9,7 @@
 
 ## Overview
 - [Diffusion-MRI by Rakshit](pipelines_diffusion.md#Diffusion-MRI-by-Rakshit) 
+- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_diffusion.md#MR_Comparative_Anatomy_Toolbox_(MrCat))
     
 <br>    
 
@@ -23,3 +24,13 @@
 **Publication**     : -                                                                                       
 **Communication**   : [GitHub profile](https://github.com/RDadarwal)                                            
 **Restrictions**    : None                                                                                      
+
+### MR Comparative Anatomy Toolbox (MrCat)       
+**Authors**         : Rogier B. Mars, Lennart Verhagen, and the members and collaborators of the Cognitive Neuroecology Lab	             
+**Description**     : A collection of tools for processing of multi-species neuroimaging data.                               
+**Documentation**   : [Online doc](http://www.neuroecologylab.org)     
+**Link**            : [www.neuroecologylab.org](http://www.neuroecologylab.org)    
+**Language**        : shell, matlab                                                                                  
+**Publication**     : [Mars et al. 2016](http://www.rbmars.dds.nl/pubs/Mars2016NBR.pdf), among others                        
+**Communication**   : [www.neuroecologylab.org](http://www.neuroecologylab.org)                                           
+**Restrictions**    : None  
