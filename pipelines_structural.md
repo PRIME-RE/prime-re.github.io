@@ -8,7 +8,8 @@
 # Structural MRI
 
 ## Overview     
-- [Macapype](pipelines_structural.md#Macapype)
+- [Macapype](pipelines_structural.md#Macapype)     
+- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#MR_Comparative_Anatomy_Toolbox_(MrCat))
 - [NHP-Freesurfer](pipelines_structural.md#NHP-Freesurfer)
 - [NHP-pycortex](pipelines_structural.md#NHP-pycortes)
 
@@ -24,8 +25,18 @@
 **Link**            : [https://github.com/Macatools/macapype](https://github.com/Macatools/macapype)    
 **Language**        : Python                                                                                  
 **Publication**     : -                                                                                       
-**Communication**   : [Post issue on GitHub website](https://github.com/Macatools/macapype/issues/new)                                       
+**Communication**   : [Post issue on GitHub website](https://github.com/Macatools/macapype/issues/new)                                  
 **Restrictions**    : None                                                                                          
+
+### MR Comparative Anatomy Toolbox (MrCat)       
+**Authors**         : Rogier B. Mars, Lennart Verhagen, and the members and collaborators of the Cognitive Neuroecology Lab	             
+**Description**     : A collection of tools for processing of multi-species neuroimaging data.                               
+**Documentation**   : [Online doc](http://www.neuroecologylab.org)     
+**Link**            : [www.neuroecologylab.org](http://www.neuroecologylab.org)    
+**Language**        : shell, matlab                                                                                  
+**Publication**     : [Mars et al. 2016](http://www.rbmars.dds.nl/pubs/Mars2016NBR.pdf), among others                        
+**Communication**   : [www.neuroecologylab.org](http://www.neuroecologylab.org)                                           
+**Restrictions**    : None   
 
 ### NHP-Freesurfer     
 **Authors**         : Chris Klink                                                                             
