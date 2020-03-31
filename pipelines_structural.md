@@ -12,7 +12,7 @@
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)
 - [NHP-pycortex](pipelines_structural.md#nhp-pycortex)
-
+- [UNet model for skull stripping and brain masks of anatomical images from PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)
 
 <br>     
 
@@ -50,10 +50,20 @@
 
 ### NHP-pycortex     
 **Authors**         : Chris Klink                                                                             
-**Description**     : Import surfaces generated with [NHP-Freesurfer](pipelines_structural.md#NHP-Freesurfer) into a version of pycortex that is adapted for NHP use. This opens up the possibility of using pycortex to visualize fMRI results on the surface.                     
+**Description**     : Import surfaces generated with [NHP-Freesurfer](pipelines_structural.md#NHP-Freesurfer) into a version of pycortex that is adapted for NHP use. This opens up the possibility of using pycortex to visualize fMRI results on the surface.                   
 **Documentation**   : Available in Jupyter notebook on GitHub                                                 
 **Link**            : [GitHub link](https://github.com/VisionandCognition/NHP-pycortex)         
 **Language**        : Jupyter notebooks with Python 3                                                       
 **Publication**     : -                                                                                       
 **Communication**   : [GitHub profile](https://github.com/pcklink)                                            
 **Restrictions**    : None              
+
+### UNet model for skull stripping and brain masks of anatomical images from PRIME-DE         
+**Authors**         : Xindi Wang, Ting Xu                                                                             
+**Description**     : The preprocessed brain masks of T1w images for all macaque monkeys from PRIME-DE. A convolutional network - UNet model was used to generate the brain mask for T1w images. The UNet model was initially trained in a large human sample and upgraded with a few macaque data. With a small macaque training sample (N=1-2), the UNet model achieves a decent performance of brain extraction with a minimal processing time (GPU: ~20s, CPU: 2-10 min).                       
+**Documentation**   : [UNet model on PRIME-DE](https://github.com/TingsterX/PRIME-DE/tree/master/BrainExtraction)                       
+**Link**            : [UNet model](https://github.com/to-be-release), [code](https://github.com/to-be-release), [preprocessed brain masks](https://github.com/to-be-release)             
+**Language**        : Python                                                       
+**Publication**     : [In prepartion](https://github.com/to-be-release)                                                                 
+**Communication**   : GitHub repo, email: ting.xu @childmind.org                                                 
+**Restrictions**    : GNU   
