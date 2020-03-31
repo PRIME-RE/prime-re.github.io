@@ -8,11 +8,11 @@
 # fMRI
 
 ## Overview
-- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md###MR_Comparative_Anatomy_Toolbox_(MrCat))
-- [NeuroElf](pipelines_fmri.md###NeuroElf) 
-- [NHP-BIDS](pipelines_fmri.md###NHP-BIDS) 
-- [NHP-pycortex](pipelines_fmri.md###NHP-pycortex) 
-- [Pypreclin](pipelines_fmri.md###Pypreclin) 
+- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
+- [NeuroElf](pipelines_fmri.md#neuroelf) 
+- [NHP-BIDS](pipelines_fmri.md#nhp-bids) 
+- [NHP-pycortex](pipelines_fmri.md#nhp-pycortex) 
+- [Pypreclin](pipelines_fmri.md#pypreclin) 
 
 <br>
 
