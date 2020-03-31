@@ -8,10 +8,10 @@
 # Structural MRI
 
 ## Overview     
-- [Macapype](pipelines_structural.md#Macapype)     
-- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#MR_Comparative_Anatomy_Toolbox_(MrCat))
-- [NHP-Freesurfer](pipelines_structural.md#NHP-Freesurfer)
-- [NHP-pycortex](pipelines_structural.md#NHP-pycortes)
+- [Macapype](pipelines_structural.md#macapype)     
+- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
+- [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)
+- [NHP-pycortex](pipelines_structural.md#nhp-pycortex)
 
 
 <br>     
