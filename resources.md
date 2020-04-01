@@ -8,9 +8,9 @@
 # Resources
 - [Templates and Atlases](templates_and_atlases.md)
     - [Macaque](templates_and_atlases.md#macaque)
-        - [Details](templates_and_atlasses2.md)      
-               - [NMT v1.3](templates_and_atlasses2.md#nmt-v13-nimh-macaque-template--version-13)       
-               - [NMT v2.0](templates_and_atlasses2.md#nmt-20-templates-nimh-macaque-template--version-20)       
+        - [Details](templates_and_atlases2.md)      
+               - [NMT v1.3](templates_and_atlases2.md#nmt-v13-nimh-macaque-template--version-13)       
+               - [NMT v2.0](templates_and_atlases2.md#nmt-20-templates-nimh-macaque-template--version-20)       
         - [Warps between macaque templates](templates_and_atlases.md#warps-between-macaque-templates)
             - [RheMAP](templates_and_atlases/rhemap.md)    
     - [Marmoset](templates_and_atlases.md#marmoset)
