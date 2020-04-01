@@ -19,6 +19,7 @@
     - [NeuroElf](versatile_tools.md#neuroelf)     
 - Pipelines
     - [Structural](pipelines_structural.md)
+        - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)     
         - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
         - [Macapype](pipelines_structural.md#macapype)    
         - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)     
