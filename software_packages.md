@@ -39,7 +39,7 @@ If you would like to have something added to this list, please [let us know](htt
 | [OsiriX](https://www.osirix-viewer.com/) | DICOM viewer | [<img src="https://web.stanford.edu/group/vista/wikiupload/d/dd/MeshVisualize.jpg" height="30" />](https://www.osirix-viewer.com/) |         
 | [Slicer 3D](https://www.slicer.org/) | Versatile image processing 3D | [<img src="https://www.slicer.org/img/3DSlicerLogo-H-Color-218x144.png" height="30" />](https://www.slicer.org/) |         
 | [SPM](https://www.fil.ion.ucl.ac.uk/spm/) | Universal fMRI | [<img src="https://www.fil.ion.ucl.ac.uk/spm/images/spm.svg" height="30" />](https://www.fil.ion.ucl.ac.uk/spm/) |         
-| [TrackVis](http://trackvis.org/) | Tractography | [<img src="http://trackvis.org/screenshots/images/screenshot_linux.png" height="30" />](http://trackvis.org/) |       
+| [TrackVis](http://trackvis.org/) | Tractography | [<img src="http://trackvis.org/images/trackvis_prospective.png" height="30" />](http://trackvis.org/) |       
 | [MRtrix3](https://mrtrix.org/) | Tractography | [<img src="https://www.mrtrix.org/images/frontpage/tractography.jpg" height="30" />](https://mrtrix.org/) |       
 
 ### Python based solutions
