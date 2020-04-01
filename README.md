@@ -2,7 +2,7 @@
 
 Welcome to PRIME-RE, the primary exchange platform for resources related to non-human primate neuroimaging data.
 
-<!--![]((https://github.com/PRIME-RE/prime-re.github.io/blob/master/images/prime-re_card.jpg)-->
+<!--![](https://raw.githubusercontent.com/PRIME-RE/prime-re.github.io/master/images/prime-re_card.jpg)-->
 
 ![logo](images/social_preview_image.png)
 
