@@ -15,6 +15,7 @@
 
 ## Details
 
+<a name="NMTv1.3"></a>
 ### NMT v1.3 (NIMH Macaque Template - version 1.3)       
 **Authors**         : Adam Messinger, Benjamin Jung, Jakob Seidlitz, Paul Taylor, Daniel Glen	             
 **Description**     : A volumetric template of the rhesus macaque created by nonlinear averaging of T1-weighted anatomical MRIs from multiple adult monkeys. Surface files are included. Version 1.3 updates include: an improved mapping of the D99 atlas, improved brain masking and normalization, and files that are defined in a common template space (NMT space), using the short data type for improved storage efficiency.                                   
@@ -25,6 +26,7 @@
 **Communication**   : Through the GitHub repo or via email to [Dr. Adam Messinger](mailto:Adam.Messinger@nih.gov)                       
 **Restrictions**    : To use the NMT_v1.3 cite the above article:  [Seidlitz et al., (2018)](https://doi.org/10.1016/j.neuroimage.2017.04.063). To use the D99 atlas cite [Reveley et al. (2016)](https://doi.org/10.1093/cercor/bhw248).
 
+<a name="NMTv2.0"></a>
 ### NMT 2.0 Templates (NIMH Macaque Template - version 2.0)           
 **Authors**         : Adam Messinger, Benjamin Jung, Jakob Seidlitz, Paul Taylor, Daniel Glen    	             
 **Description**     : A collection of volumetric templates of the rhesus macaque created by nonlinear averaging of T1-weighted anatomical MRIs from multiple adult monkeys.  Surface files are included. The NMT 2.0 provides increased flexibility in macaque group analysis by providing symmetric and asymmetric templates. Both templates are available with an expanded, full head field of view.  The templates are available in both AC-PC orientation and in Horsley-Clarke stereotaxic orientation. Updates to the templates include:  an improved mapping of the D99 atlas, improved brain masking and normalization, and files that are defined in a common template space (NMT space), using the short data type for improved storage efficiency.                                   

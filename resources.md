@@ -7,14 +7,14 @@
 
 # Resources
 - [Templates and Atlases](templates_and_atlases.md)
-    - [Macaque](templates_and_atlases.md#macaque)
+    - [Macaque](templates_and_atlases.md#macaque_atlases)
         - [Details](templates_and_atlases2.md)      
-               - [NMT v1.3](templates_and_atlases2.md#nmt-v13-nimh-macaque-template--version-13)       
-               - [NMT v2.0](templates_and_atlases2.md#nmt-20-templates-nimh-macaque-template--version-20)       
-        - [Warps between macaque templates](templates_and_atlases.md#warps-between-macaque-templates)
+               - [NMT v1.3](templates_and_atlases2.md#NMTv1.3)       
+               - [NMT v2.0](templates_and_atlases2.md##NMTv2.0)       
+        - [Warps between macaque templates](templates_and_atlases.md#macaque_warps)
             - [RheMAP](templates_and_atlases/rhemap.md)    
-    - [Marmoset](templates_and_atlases.md#marmoset)
-    - [Other species](templates_and_atlases.md#other-species)
+    - [Marmoset](templates_and_atlases.md#marmoset_atlases)
+    - [Other species](templates_and_atlases.md#other_atlases)
 - [Versatile tools](versatile_tools.md)
     - [NeuroElf](versatile_tools.md#neuroelf)     
 - Pipelines
