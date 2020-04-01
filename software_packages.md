@@ -34,13 +34,13 @@ If you would like to have something added to this list, please [let us know](htt
 | [Lead-DBS](https://www.lead-dbs.org/) | Connectome | [<img src="https://www.lead-dbs.org/wp-content/uploads/logo_icon.png" height="30" />](https://www.lead-dbs.org/) |         
 | [MedInria](https://med.inria.fr/) | Image processing and viewing | [<img src="https://avatars2.githubusercontent.com/u/2675371?s=200&v=4" height="30" />](https://med.inria.fr/) |          
 | [MIPAV](https://mipav.cit.nih.gov/) | Image processing and viewing | [<img src="https://mipav.cit.nih.gov/about.asp_files/splash.gif" height="30" />](https://mipav.cit.nih.gov/) |         
-| [MRIcro(GL)](https://www.mccauslandcenter.sc.edu/crnl/mricro) | Image viewing 3D | [<img src="https://www.mccauslandcenter.sc.edu/mricrogl/sites/sc.edu.mricrogl/files/mni320_0.png" height="30" />](https://www.mccauslandcenter.sc.edu/crnl/mricro) |                 
+| [MRIcro(GL)](https://www.mccauslandcenter.sc.edu/crnl/mricro) | Image viewing 3D | [<img src="https://www.mccauslandcenter.sc.edu/mricrogl/sites/sc.edu.mricrogl/files/mni320_0.png" height="30" />](https://www.mccauslandcenter.sc.edu/crnl/mricro) |  
+| [MRtrix3](https://mrtrix.org/) | Tractography | [<img src="https://www.mrtrix.org/images/frontpage/tractography.jpg" height="30" />](https://mrtrix.org/) |                 
 | [mrVista](https://web.stanford.edu/group/vista/cgi-bin/wiki/index.php/MrVista) | Universal (f)MRI | [<img src="https://vistalab.stanford.edu/wp-content/uploads/2013/01/mrMesh.png" height="30" />](https://web.stanford.edu/group/vista/cgi-bin/wiki/index.php/MrVista) |           
 | [OsiriX](https://www.osirix-viewer.com/) | DICOM viewer | [<img src="https://web.stanford.edu/group/vista/wikiupload/d/dd/MeshVisualize.jpg" height="30" />](https://www.osirix-viewer.com/) |         
 | [Slicer 3D](https://www.slicer.org/) | Versatile image processing 3D | [<img src="https://www.slicer.org/img/3DSlicerLogo-H-Color-218x144.png" height="30" />](https://www.slicer.org/) |         
 | [SPM](https://www.fil.ion.ucl.ac.uk/spm/) | Universal fMRI | [<img src="https://www.fil.ion.ucl.ac.uk/spm/images/spm.svg" height="30" />](https://www.fil.ion.ucl.ac.uk/spm/) |         
 | [TrackVis](http://trackvis.org/) | Tractography | [<img src="http://trackvis.org/images/trackvis_prospective.png" height="30" />](http://trackvis.org/) |       
-| [MRtrix3](https://mrtrix.org/) | Tractography | [<img src="https://www.mrtrix.org/images/frontpage/tractography.jpg" height="30" />](https://mrtrix.org/) |       
 
 ### Python based solutions
 
