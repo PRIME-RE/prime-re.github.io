@@ -1,6 +1,6 @@
 # Welcome to PRIME-RE
 
-[comment]: https://github.com/PRIME-RE/prime-re.github.io/blob/master/images/prime-re_card.svg
+[comment]: https://github.com/PRIME-RE/prime-re.github.io/blob/master/images/prime-re_card.jpg
 
 ![logo](images/social_preview_image.png)
 
