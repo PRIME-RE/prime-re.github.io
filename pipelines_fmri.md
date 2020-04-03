@@ -8,6 +8,7 @@
 # fMRI
 
 ## Overview
+- [afni_proc.py](pipelines_fmri.md#afni_procpy)       
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NeuroElf](pipelines_fmri.md#neuroelf) 
 - [NHP-BIDS](pipelines_fmri.md#nhp-bids) 
@@ -17,6 +18,17 @@
 <br>
 
 ## Details
+
+### afni_proc.py       
+**Authors**         : Rick Reynolds, Paul Taylor, Daniel Glen, Gang Chen, Bob Cox 	             
+**Description**     : FMRI analysis pipeline tool in AFNI.  This widely used, general purpose and flexible tool for creating a full, single subject FMRI processing stream can be used for macaque analyses. This program creates fully commented, single subject processing scripts for all FMRI study designs (task, resting state, naturalistic, etc.) and for either volumetric- or surface-based analyses. The typical goal is to create volumes of aligned response magnitudes (stimulus beta weights from a GLM) to use as input for a group analysis.        
+**Documentation**   : [AFNI site](https://afni.nimh.nih.gov/pub/dist/doc/program_help/afni_proc.py.html)     
+**Link**            : [https://afni.nimh.nih.gov](https://afni.nimh.nih.gov/)    
+**Language**        : python, tcsh, C, AFNI                                                       
+**Publication**     : TBD        
+**Communication**   : [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)               
+**Restrictions**    : None 
+
 
 ### MR Comparative Anatomy Toolbox (MrCat)       
 **Authors**         : Rogier B. Mars, Lennart Verhagen, and the members and collaborators of the Cognitive Neuroecology Lab	             
