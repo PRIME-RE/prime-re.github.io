@@ -8,12 +8,24 @@
 # Templates and atlases
 
 ## Overview     
+- [D99](templates_and_atlases2.md#D99)     
 - [NMT v1.3](templates_and_atlases2.md#NMTv1.3)     
 - [NMT v2.0](templates_and_atlases2.md#NMTv2.0)
 
 <br>     
 
 ## Details
+
+<a name="D99"></a>
+### D99 Template and Atlas       
+**Authors**         : Saleem KS, Reveley C, Gruslys A, Ye FQ, Glen D, Samaha J, Russ BE, Saad Z, Seth AK, Leopold DA	     
+**Description**     : Digital version of the Saleem and Logothetis atlas with a newer, higher quality D99 surrogate MRI template. Integrated into AFNI/SUMA software.                                         
+**Documentation**   : [AFNI site](https://afni.nimh.nih.gov/Macaque)     
+**Link**            : [https://afni.nimh.nih.gov/pub/dist/atlases/macaque](https://afni.nimh.nih.gov/pub/dist/atlases/macaque/)    
+**Language**        : NIFTI format     
+**Publication**     : [Reveley et al. (2016)](https://doi.org/10.1093/cercor/bhw248)                     
+**Communication**   : [email](mailto:kadharbatcha.saleem.ctr@usuhs.edu), [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)    
+**Restrictions**    : None
 
 <a name="NMTv1.3"></a>
 ### NMT v1.3 (NIMH Macaque Template - version 1.3)       
