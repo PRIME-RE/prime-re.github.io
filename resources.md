@@ -26,6 +26,7 @@
         - [NHP-pycortex](pipelines_structural.md#nhp-pycortex)   
         - [UNet model for skull stripping and brain masks of anatomical images from PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)
     - [fMRI](pipelines_fmri.md)
+        - [afni_proc.py](pipelines_fmri.md#afni_procpy)       
         - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
         - [NeuroElf](versatile_tools.md#neuroelf)     
         - [NHP-BIDS](pipelines_fmri.md#nhp-bids)
