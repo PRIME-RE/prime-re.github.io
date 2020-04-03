@@ -9,6 +9,7 @@
 - [Templates and Atlases](templates_and_atlases.md)
     - [Macaque](templates_and_atlases.md#macaque_atlases)
         - [Details](templates_and_atlases2.md)      
+               - [D99](templates_and_atlases2.md#D99)     
                - [NMT v1.3](templates_and_atlases2.md#NMTv1.3)       
                - [NMT v2.0](templates_and_atlases2.md#NMTv2.0)       
         - [Warps between macaque templates](templates_and_atlases.md#macaque_warps)
