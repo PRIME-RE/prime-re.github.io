@@ -21,6 +21,7 @@
 - Pipelines
     - [Structural](pipelines_structural.md)
         - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)     
+        - [CIVET-macaque](pipelines_structural.md#civet-macaque)     
         - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
         - [Macapype](pipelines_structural.md#macapype)    
         - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)     
