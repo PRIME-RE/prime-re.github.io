@@ -15,6 +15,7 @@
         - [Warps between macaque templates](templates_and_atlases.md#macaque_warps)
             - [RheMAP](templates_and_atlases/rhemap.md)    
     - [Marmoset](templates_and_atlases.md#marmoset_atlases)
+        - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases.md#marmoset-brain-mapping-atlas-and-template)
     - [Other species](templates_and_atlases.md#other_atlases)
 - [Versatile tools](versatile_tools.md)
     - [NeuroElf](versatile_tools.md#neuroelf)     
