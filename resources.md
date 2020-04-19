@@ -25,6 +25,7 @@
         - [Macapype](pipelines_structural.md#macapype)    
         - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)     
         - [NHP-pycortex](pipelines_structural.md#nhp-pycortex)   
+        - [PREEMACS](pipelines_structural.md#preemacs)
         - [UNet model for skull stripping and brain masks of anatomical images from PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)
     - [fMRI](pipelines_fmri.md)
         - [afni_proc.py](pipelines_fmri.md#afni_procpy)       
