@@ -51,6 +51,16 @@ Transforming data (e.g. parcellations, statistical maps) between the various tem
 | NIH | _C. jacchus_ | 0.15 | NIH (3 parcellations) | NIFTI | CARET | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856608/) [download1](https://www.nitrc.org/projects/nih_marmoset/)  [download2](https://github.com/cirongliu/NIH_Marmoset_Atlas_V1) |
 | RIKEN | _C. jacchus_ | 0.2 | N/A | NIFTI | N/A | [reference](https://www.sciencedirect.com/science/article/abs/pii/S1053811910013546?via%3Dihub) [download](https://brainatlas.brain.riken.jp/marmoset/modules/xoonips/detail.php?id=004) |
 
+### Marmoset Brain Mapping Atlas and Template       
+**Authors**         : Cirong Liu, Daniel Glen, Frank Ye, John Newman, Cecil Yen, Diego Szczupak, Xiaoguang Tian, Piotr Majka, Marcello Rosa, David Leopold, Afonso Silva        	     
+**Description**     : The Marmoset Brain Mapping Atlas (previously NIH Marmoset Brain Atlas) aims at building comprehensive MRI-based marmoset brain atlases and tools to facilitate neuroimaging and connectome studies of marmosets.                   
+**Documentation**   : [Marmoset Brain Mapping site](https://marmosetbrainmapping.org/atlas.html)     
+**Link**            : [Marmoset Brain Mapping site](https://marmosetbrainmapping.org/atlas.html)    
+**Language**        : shell, matlab, etc.          
+**Publication**     : [Liu et al. (2018)](https://doi.org/10.1016/j.neuroimage.2017.12.004) [Liu et al. 2020](https://doi.org/10.1038/s41593-019-0575-0)                     
+**Communication**   : [email](mailto:info@marmosetbrainmapping.org)    
+**Restrictions**    : Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)    
+
 <a name="other_atlases"></a>
 ## Other species
 
