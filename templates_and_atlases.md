@@ -57,7 +57,7 @@ Transforming data (e.g. parcellations, statistical maps) between the various tem
 **Documentation**   : [Marmoset Brain Mapping site](https://marmosetbrainmapping.org/atlas.html)     
 **Link**            : [Marmoset Brain Mapping site](https://marmosetbrainmapping.org/atlas.html)    
 **Language**        : shell, matlab, etc.          
-**Publication**     : [Liu et al. (2018)](https://doi.org/10.1016/j.neuroimage.2017.12.004) [Liu et al. 2020](https://doi.org/10.1038/s41593-019-0575-0)                     
+**Publication**     : [Liu et al. (2018)](https://doi.org/10.1016/j.neuroimage.2017.12.004), [Liu et al. (2020)](https://doi.org/10.1038/s41593-019-0575-0)                     
 **Communication**   : [email](mailto:info@marmosetbrainmapping.org)    
 **Restrictions**    : Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)    
 
