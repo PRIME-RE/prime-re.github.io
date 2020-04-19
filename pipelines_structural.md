@@ -8,7 +8,8 @@
 # Structural MRI
 
 ## Overview     
-- [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)     
+- [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
+- [CIVET-macaque](pipelines_structural.md#civet-macaque)     
 - [Macapype](pipelines_structural.md#macapype)     
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)
@@ -28,6 +29,16 @@
 **Language**        : tcsh, python, C, AFNI                                                                         
 **Publication**     : TBD                                                                                       
 **Communication**   : [AFNI message board ](https://afni.nimh.nih.gov/afni/community/board/list.php?1) 
+
+### CIVET-macaque       
+**Authors**         : Claude Lepage, Konrad Wagstyl, Ben Jung, Jakob Seidlitz, Caleb Sponheim, Leslie Ungerleider, Xindi Wang, Alan Evans, Adam Messinger                   
+**Description**     : Fully automated structural MRI pipeline using the NIH Macaque Template (NMT).  Performs registration, segmentation, and surface reconstruction of T1-weighted anatomical scans.  Provides quality control images and results.    
+**Documentation**   : [Github](https://github.com/aces/CIVET_Full_Project)     
+**Link**            : [https://github.com/aces/CIVET_Full_Project](https://github.com/aces/CIVET_Full_Project)    
+**Language**        : C, minc, NIFTI/GIFTI.  Binaries available on GitHub.                                          
+**Publication**     : forthcoming                                                                                       
+**Communication**   : tbd               
+**Restrictions**    : Cite the forthcoming paper          
 
 ### Macapype       
 **Authors**         : Bastien Cagna, David Meunier, Kep kee Loh, Julien Sein, & Régis Trapeau                 
