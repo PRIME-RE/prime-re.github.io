@@ -13,6 +13,7 @@
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)
 - [NHP-pycortex](pipelines_structural.md#nhp-pycortex)
+- [PREEMACS](pipelines_structural.md#preemacs)
 - [UNet model for skull stripping for PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)
 
 <br>     
@@ -67,6 +68,16 @@
 **Publication**     : -                                                                                       
 **Communication**   : [GitHub profile](https://github.com/pcklink)                                            
 **Restrictions**    : None              
+
+### PREEMACS     
+**Authors**         : Pamela Garcia-Saldivar, Arun Garimella, Eduardo A. Garza-Villarreal, Felipe Mendez, Luis Concha and Hugo Merchant                                                                                 
+**Description**     : PREEMACS (pipeline for PREprocessing and Extraction of the MACaque brain Surface) is a pipeline to process raw structural images in order to obtain brain surfaces and cortical thickness, without requiring manual editing. PREEMACS has a modular design, with three modules running independently: Preprocessing, Quality Control and Brain Surface estimation based on FreeSurfer.   To evaluate the generalizability of our method, we tested PREEMACS on three different datasets of NHP images: PRIME-DE, UNC-Wisconsin Database and INB-UNAM.  Results showed accurate and robust automatic brain surface extraction in our INB-UNAM database and precise extraction in the UNC-Wisconsin and PRIME-DE databases for images that passed the quality control segment of our pipeline.                   
+**Documentation**   : [PREEMACS](https://github.com/pGarciaS/PREEMACS/wiki)                                               
+**Link**            : [GitHub Link](https://github.com/pGarciaS/PREEMACS)        
+**Language**        : python, shell and matlab                                                       
+**Publication**     : -                                                                                       
+**Communication**   : [GitHub Profile](https://github.com/pGarciaS)                                            
+**Restrictions**    : None  
 
 ### UNet model for skull stripping and brain masks of anatomical images from PRIME-DE         
 **Authors**         : Xindi Wang, Ting Xu                                                                             
