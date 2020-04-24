@@ -41,7 +41,7 @@ Jump to [macaque](templates_and_atlases_macaque.md) or [marmoset](templates_and_
 ### Nencki-Monash Template       
 **Authors**         : The template has been created in collaboration between the Laboratory of Neuroinformatics at the Nencki Institute of Experimental Biology (Poland) and prof. Marcello Rosa Laboratory at Monash University (Australia).        	     
 **Description**     : The Nencki-Monash (NM) template represents a morphological average of 20 brains of young adult individuals, obtained by 3D reconstructions generated from Nissl-stained serial sections. The template combines combines the main advantages of histology-based atlases with features associated with MRI-based templates. It is also accompanied with spatial transformations to other popular marmoset brain templates, thus enabling integration with magnetic resonance imaging (MRI) and tracer-based connectivity data.                   
-**Documentation**   : The documentation and examples are available within individual datasets available [here](http://www.marmosetbrain.org/nencki_monash_template)     
+**Documentation**   : The documentation and examples are available within individual datasets [here](http://www.marmosetbrain.org/nencki_monash_template)     
 **Link**            : [nencki_monash_templatee](http://www.marmosetbrain.org/nencki_monash_template)    
 **Language**        : N/A          
 **Publication**     : [Preprint](https://doi.org/10.1101/2020.04.10.036632)                     
