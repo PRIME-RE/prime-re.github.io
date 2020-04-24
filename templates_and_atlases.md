@@ -50,6 +50,7 @@ Transforming data (e.g. parcellations, statistical maps) between the various tem
 | --- | --- | --- | --- | --- | --- | --- |
 | NIH | _C. jacchus_ | 0.15 | NIH (3 parcellations) | NIFTI | CARET | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856608/) [download1](https://www.nitrc.org/projects/nih_marmoset/)  [download2](https://github.com/cirongliu/NIH_Marmoset_Atlas_V1) |
 | RIKEN | _C. jacchus_ | 0.2 | N/A | NIFTI | N/A | [reference](https://www.sciencedirect.com/science/article/abs/pii/S1053811910013546?via%3Dihub) [download](https://brainatlas.brain.riken.jp/marmoset/modules/xoonips/detail.php?id=004) |
+| 3D Paxinos et al. (2012) | _C. jacchus_ | 0.04×0.5×0.04 | Cortical areas of the Paxinos et al., (2012) | NIFTI | N/A | [reference](http://www.marmosetbrain.org/reference) |     
 
 For a more detailed resource list of macaque templates and atlases see [this list](templates_and_atlases_marmoset.md).
 
