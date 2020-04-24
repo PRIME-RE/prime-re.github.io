@@ -8,9 +8,9 @@
 # Templates and atlases
 
 ## Overview     
-- [D99](templates_and_atlases2.md#D99)     
-- [NMT v1.3](templates_and_atlases2.md#NMTv1.3)     
-- [NMT v2.0](templates_and_atlases2.md#NMTv2.0)
+- [D99](templates_and_atlases_macaque.md#D99)     
+- [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)     
+- [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)
 
 <br>     
 
