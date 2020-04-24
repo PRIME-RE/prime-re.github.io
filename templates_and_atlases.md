@@ -16,7 +16,7 @@ When it comes to NHP neuroimaging though, there are two complications:
 1. The usage of multiple species creates the need for species-specific templates
 2. Even for the most commonly imaged species (macaques and marmosets), multiple templates are available, with no single one of them adopted as the go-to community standard.
 
-Below, we provide a non-exhaustive list of existing templates and atlases. For a more detailed resource list of templates and atlases see [this list](templates_and_atlases_macaque.md).
+Below, we provide a non-exhaustive list of existing templates and atlases. For a more detailed resource list of templates and atlases see [this list for macaques](templates_and_atlases_macaque.md) or [here for marmosets](templates_and_atlases_marmoset.md).
 
 
 <a name="macaque_atlases"></a>
@@ -50,6 +50,8 @@ Transforming data (e.g. parcellations, statistical maps) between the various tem
 | --- | --- | --- | --- | --- | --- | --- |
 | NIH | _C. jacchus_ | 0.15 | NIH (3 parcellations) | NIFTI | CARET | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5856608/) [download1](https://www.nitrc.org/projects/nih_marmoset/)  [download2](https://github.com/cirongliu/NIH_Marmoset_Atlas_V1) |
 | RIKEN | _C. jacchus_ | 0.2 | N/A | NIFTI | N/A | [reference](https://www.sciencedirect.com/science/article/abs/pii/S1053811910013546?via%3Dihub) [download](https://brainatlas.brain.riken.jp/marmoset/modules/xoonips/detail.php?id=004) |
+
+For a more detailed resource list of macaque templates and atlases see [this list](templates_and_atlases_marmoset.md).
 
 ### Marmoset Brain Mapping Atlas and Template       
 **Authors**         : Cirong Liu, Daniel Glen, Frank Ye, John Newman, Cecil Yen, Diego Szczupak, Xiaoguang Tian, Piotr Majka, Marcello Rosa, David Leopold, Afonso Silva        	     
