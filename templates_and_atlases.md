@@ -16,7 +16,7 @@ When it comes to NHP neuroimaging though, there are two complications:
 1. The usage of multiple species creates the need for species-specific templates
 2. Even for the most commonly imaged species (macaques and marmosets), multiple templates are available, with no single one of them adopted as the go-to community standard.
 
-Below, we provide a non-exhaustive list of existing templates and atlases. For a more detailed resource list of templates and atlases see [this list](templates_and_atlases2.md).
+Below, we provide a non-exhaustive list of existing templates and atlases. For a more detailed resource list of templates and atlases see [this list](templates_and_atlases_macaque.md).
 
 
 <a name="macaque_atlases"></a>
@@ -33,7 +33,7 @@ Below, we provide a non-exhaustive list of existing templates and atlases. For a
 | 112RM-SL | _M. mulatta_ | 0.50 | D99-SL & F99 | NIFTI | N/A | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2659879/) |
 | UNC-Emory developmental atlas | _M. mulatta_ | 0.60 | multiple | NRRD | N/A | [reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5222830//) [download](https://www.nitrc.org/projects/macaque_atlas/) |
 
-For a more detailed resource list of templates and atlases see [this list](templates_and_atlases2.md).
+For a more detailed resource list of macaque templates and atlases see [this list](templates_and_atlases_macaque.md).
 
 <a name="macaque_warps"></a>
 ### Warps between macaque templates
