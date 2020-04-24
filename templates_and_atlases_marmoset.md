@@ -11,7 +11,7 @@ Jump to [macaque](templates_and_atlases_macaque.md) or [marmoset](templates_and_
 
 ## Overview       
 - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)        
-- [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)
+- [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)   
 - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
 
 <br>     
