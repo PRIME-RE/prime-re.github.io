@@ -52,17 +52,7 @@ Transforming data (e.g. parcellations, statistical maps) between the various tem
 | RIKEN | _C. jacchus_ | 0.2 | N/A | NIFTI | N/A | [reference](https://www.sciencedirect.com/science/article/abs/pii/S1053811910013546?via%3Dihub) [download](https://brainatlas.brain.riken.jp/marmoset/modules/xoonips/detail.php?id=004) |
 | 3D Paxinos et al. (2012) | _C. jacchus_ | 0.04×0.5×0.04 | Cortical areas of the Paxinos et al., (2012) | NIFTI | N/A | [reference](http://www.marmosetbrain.org/reference) |     
 
-For a more detailed resource list of macaque templates and atlases see [this list](templates_and_atlases_marmoset.md).
-
-### Marmoset Brain Mapping Atlas and Template       
-**Authors**         : Cirong Liu, Daniel Glen, Frank Ye, John Newman, Cecil Yen, Diego Szczupak, Xiaoguang Tian, Piotr Majka, Marcello Rosa, David Leopold, Afonso Silva        	     
-**Description**     : The Marmoset Brain Mapping Atlas (previously NIH Marmoset Brain Atlas) aims at building comprehensive MRI-based marmoset brain atlases and tools to facilitate neuroimaging and connectome studies of marmosets.                   
-**Documentation**   : [Marmoset Brain Mapping site](https://marmosetbrainmapping.org/atlas.html)     
-**Link**            : [Marmoset Brain Mapping site](https://marmosetbrainmapping.org/atlas.html)    
-**Language**        : shell, matlab, etc.          
-**Publication**     : [Liu et al. (2018)](https://doi.org/10.1016/j.neuroimage.2017.12.004), [Liu et al. (2020)](https://doi.org/10.1038/s41593-019-0575-0)                     
-**Communication**   : [email](mailto:info@marmosetbrainmapping.org)    
-**Restrictions**    : Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)    
+For a more detailed resource list of marmoset templates and atlases see [this list](templates_and_atlases_marmoset.md).
 
 <a name="other_atlases"></a>
 ## Other species
