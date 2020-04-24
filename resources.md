@@ -17,7 +17,7 @@
     - [Marmoset](templates_and_atlases.md#marmoset_atlases)     
         - [Details](templates_and_atlases_marmoset.md)    
               - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)        
-              - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)
+              - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)        
               - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
     - [Other species](templates_and_atlases.md#other_atlases)
 - [Versatile tools](versatile_tools.md)
