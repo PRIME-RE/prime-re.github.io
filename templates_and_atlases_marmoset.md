@@ -7,6 +7,8 @@
 
 # Templates and atlases
 
+Jump to [macaque](templates_and_atlases_macaque.md) or [marmoset](templates_and_atlases_marmoset.md) atlases.    
+
 ## Overview       
 - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)
 - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)
