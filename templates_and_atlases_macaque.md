@@ -7,6 +7,8 @@
 
 # Templates and atlases
 
+Jump to [macaque](templates_and_atlases_macaque.md) or [marmoset](templates_and_atlases_marmoset.md) atlases.    
+
 ## Overview     
 - [D99](templates_and_atlases_macaque.md#D99)     
 - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)     
