@@ -5,7 +5,7 @@
 
 ---    
 
-# Templates and atlases
+# Macaque templates and atlases
 
 Jump to [macaque](templates_and_atlases_macaque.md) or [marmoset](templates_and_atlases_marmoset.md) atlases.    
 
