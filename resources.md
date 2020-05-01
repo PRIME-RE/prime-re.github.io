@@ -15,19 +15,22 @@ Resources are categorized according to the problem or task they address. The res
   - [D99](templates_and_atlases_macaque.md#D99)     
   - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)       
   - [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)       
-- [Warps between macaque templates](templates_and_atlases.md#macaque_warps)
+- [Warps between macaque templates](templates_and_atlases.md#macaque_warps)     
   - [RheMAP](templates_and_atlases/rhemap.md)    
-[Marmoset](templates_and_atlases.md#marmoset_atlases)     
+  
+[Marmoset](templates_and_atlases.md#marmoset_atlases)        
 - [Details](templates_and_atlases_marmoset.md)    
   - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)        
   - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)        
   - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
-[Other species](templates_and_atlases.md#other_atlases)  
+
+[Other species](templates_and_atlases.md#other_atlases)    
 
 ### **[Pipelines](pipelines.md)**
-[General](pipelines_general.md)
+[General](pipelines_general.md)    
 - [NeuroElf](pipelines_general.md#neuroelf)   
-[Structural](pipelines_structural.md)       
+
+[Structural](pipelines_structural.md)            
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)     
 - [CIVET-macaque](pipelines_structural.md#civet-macaque)     
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
@@ -35,7 +38,8 @@ Resources are categorized according to the problem or task they address. The res
 - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)     
 - [NHP-pycortex](pipelines_structural.md#nhp-pycortex)   
 - [PREEMACS](pipelines_structural.md#preemacs)
-- [UNet model for skull stripping and brain masks of anatomical images from PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)
+- [UNet model for skull stripping and brain masks of anatomical images from PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)     
+
 [fMRI](pipelines_fmri.md)
 - [afni_proc.py](pipelines_fmri.md#afni_procpy)       
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
