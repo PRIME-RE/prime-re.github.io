@@ -9,7 +9,9 @@
 
 Jump to:
 - [macaque](templates_and_atlases_macaque.md)
-- [marmoset](templates_and_atlases_marmoset.md)    
+- [marmoset](templates_and_atlases_marmoset.md)  
+
+<br>   
 
 
 ## Details
