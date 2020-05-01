@@ -38,7 +38,7 @@ Resources are categorized according to the problem or task they address. The res
     - [fMRI](pipelines_fmri.md)
         - [afni_proc.py](pipelines_fmri.md#afni_procpy)       
         - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
-        - [NeuroElf](versatile_tools.md#neuroelf)     
+        - [NeuroElf](pipelines_general.md#neuroelf)     
         - [NHP-BIDS](pipelines_fmri.md#nhp-bids)
         - [NHP-pycortex](pipelines_fmri.md#nhp-pycortex)
         - [Pypreclin](pipelines_fmri.md#pypreclin)     
