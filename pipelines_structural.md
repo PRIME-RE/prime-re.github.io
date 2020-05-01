@@ -9,6 +9,7 @@
 
 ## Overview     
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
+- [BrainBox](pipelines_structural.md#brainbox)
 - [CIVET-macaque](pipelines_structural.md#civet-macaque)     
 - [Macapype](pipelines_structural.md#macapype)     
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
@@ -31,6 +32,16 @@
 **Language**        : tcsh, python, C, AFNI                                                                         
 **Publication**     : TBD                                                                                       
 **Communication**   : [AFNI message board ](https://afni.nimh.nih.gov/afni/community/board/list.php?1) 
+
+### BrainBox       
+**Authors**         : Katja Heuer & Roberto Toro                  
+**Description**     : A Web application for visualising, annotating & segmenting 3D brain imaging data in real time, collaboratively.   
+**Documentation**   : [3 min video](https://www.youtube.com/watch?v=kwsLoVKnw24)     
+**Link**            : [https://brainbox.pasteur.fr](https://brainbox.pasteur.fr)       
+**Language**        : JavaScript, HTML, CSS                                                                         
+**Publication**     : [Open Neuroimaging Laboratory](https://doi.org/10.3897/rio.2.e9113)                                      
+**Communication**   : [Mattermost](https://mattermost.brainhack.org/brainhack/channels/brainbox) or [GitHub issues](https://github.com/neuroanatomy/BrainBox/issues)    
+**Restrictions**    : Developed and tested in Chrome Browser         
 
 ### CIVET-macaque       
 **Authors**         : Claude Lepage, Konrad Wagstyl, Ben Jung, Jakob Seidlitz, Caleb Sponheim, Leslie Ungerleider, Xindi Wang, Alan Evans, Adam Messinger                   
