@@ -17,7 +17,6 @@ A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/Structural-preproce
 The PRIME-RE collection of resources is organized in several categories. If you feel like something is missing or erroneously categorized, don't hesitate to contact us. We make a disctinction between 'Pipelines' (custom written analysis solutions) and 'Software packages' (complete software solutions, many of which may appear in the pipelines)   
 
 - [Templates and Atlases](templates_and_atlases.md)
-- [Versatile tools](versatile_tools.md)
 - [Pipelines](pipelines.md)
     - [General](pipelines_general.md)       
     - [Structural](pipelines_structural.md)
