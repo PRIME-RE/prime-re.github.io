@@ -18,8 +18,10 @@ The PRIME-RE collection of resources is organized in several categories. If you 
 
 - [Templates and Atlases](templates_and_atlases.md)
 - [Versatile tools](versatile_tools.md)
-- Pipelines
+- [Pipelines](pipelines.md)
+    - [General](pipelines_general.md)       
     - [Structural](pipelines_structural.md)
     - [fMRI](pipelines_fmri.md)
-    - [Diffusion](pipelines_diffusion.md)
+    - [Diffusion](pipelines_diffusion.md)      
+- [Data sharing](data_sharing.md)
 - [Software packages](software_packages.md)
