@@ -25,7 +25,7 @@ Resources are categorized according to the problem or task they address. The res
   - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)        
   - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
 
-[Other species](templates_and_atlases.md#other_atlases)    
+**[Other species](templates_and_atlases.md#other_atlases)**    
 
 <br>
 
