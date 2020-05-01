@@ -7,7 +7,12 @@
 
 # Templates and atlases
 
-Jump to [macaque](templates_and_atlases_macaque.md) or [marmoset](templates_and_atlases_marmoset.md) atlases.    
+Jump to:
+- [macaque](templates_and_atlases_macaque.md)
+- [marmoset](templates_and_atlases_marmoset.md)    
+
+
+## Details
 
 **Template:** A standard brain, typically used for registering multiple individuals into a common coordinate space. This space can be either volumetric (3D coordinates system), surface-based (mesh), or a combination of both.
 
