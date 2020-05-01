@@ -29,6 +29,8 @@ When it comes to NHP neuroimaging though, there are two complications:
 Below, we provide a non-exhaustive list of existing templates and atlases. For a more detailed resource list of templates and atlases see [this list for macaques](templates_and_atlases_macaque.md) or [here for marmosets](templates_and_atlases_marmoset.md).
 
 
+<br>   
+
 <a name="macaque_atlases"></a>
 ## Macaque
 
@@ -52,6 +54,7 @@ Transforming data (e.g. parcellations, statistical maps) between the various tem
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3668510.svg)](https://doi.org/10.5281/zenodo.3668510)
 
+<br>   
 
 <a name="marmoset_atlases"></a>
 ## Marmoset
@@ -64,6 +67,8 @@ Transforming data (e.g. parcellations, statistical maps) between the various tem
 | Nencki-Monash | _C. jacchus_ | 0.05 | Cortical areas of the Paxinos et al., (2012) | NIFTI | N/A | [reference](http://www.marmosetbrain.org/nencki_monash_template) |   
 
 For a more detailed resource list of marmoset templates and atlases see [this list](templates_and_atlases_marmoset.md).
+
+<br>   
 
 <a name="other_atlases"></a>
 ## Other species
