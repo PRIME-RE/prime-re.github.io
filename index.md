@@ -24,3 +24,4 @@ The PRIME-RE collection of resources is organized in several categories. If you 
     - [Diffusion](pipelines_diffusion.md)      
 - [Data sharing](data_sharing.md)
 - [Software packages](software_packages.md)
+- [Other tutorials & resources](tutorials_resources.md)
