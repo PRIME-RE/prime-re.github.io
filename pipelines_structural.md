@@ -15,6 +15,8 @@
 - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)
 - [NHP-pycortex](pipelines_structural.md#nhp-pycortex)
 - [PREEMACS](pipelines_structural.md#preemacs)
+- [Reorient](pipelines_structural.md#reorient)
+- [Thresholdmann](pipelines_structural.md#thresholdmann)     
 - [UNet model for skull stripping for PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)
 
 <br>     
@@ -89,6 +91,26 @@
 **Publication**     : -                                                                                       
 **Communication**   : [GitHub Profile](https://github.com/pGarciaS)                                            
 **Restrictions**    : None  
+
+### Reorient     
+**Authors**         : Katja Heuer & Roberto Toro                                                                                     
+**Description**     : A Web tool for reorienting and cropping MRI data               
+**Documentation**   : [Readme in the GitHub repo](https://github.com/neuroanatomy/reorient)                                             
+**Link**            : [GitHub Link](https://neuroanatomy.github.io/reorient)      
+**Language**        : JavaScript, HTML, CSS                                                       
+**Publication**     : Work in progress                                                                                       
+**Communication**   : [GitHub issues](https://github.com/neuroanatomy/reorient/issues)                                                 
+**Restrictions**    : Developed and tested in Chrome Browser  
+
+### Thresholdmann     
+**Authors**         : Katja Heuer & Roberto Toro                                                                                     
+**Description**     : A Web tool for interactively creating adaptive thresholds to segment nifti images               
+**Documentation**   : [Readme in the GitHub repo](https://github.com/neuroanatomy/thresholdmann)                                        
+**Link**            : [GitHub Link](https://neuroanatomy.github.io/thresholdmann)      
+**Language**        : JavaScript, HTML, CSS                                                       
+**Publication**     : Work in progress                                                                                       
+**Communication**   : [GitHub issues](https://github.com/neuroanatomy/thresholdmann/issues)                                     
+**Restrictions**    : Developed and tested in Chrome Browser  
 
 ### UNet model for skull stripping and brain masks of anatomical images from PRIME-DE         
 **Authors**         : Xindi Wang, Ting Xu                                                                             
