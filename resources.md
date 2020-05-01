@@ -11,7 +11,7 @@ Resources are categorized according to the problem or task they address. The res
 
 
 ### **[Templates and Atlases](templates_and_atlases.md)**
-**[Macaque](templates_and_atlases.md#macaque_atlases)**
+[Macaque](templates_and_atlases.md#macaque_atlases)
 - [Details](templates_and_atlases_macaque.md)      
   - [D99](templates_and_atlases_macaque.md#D99)     
   - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)       
@@ -19,21 +19,21 @@ Resources are categorized according to the problem or task they address. The res
 - [Warps between macaque templates](templates_and_atlases.md#macaque_warps)     
   - [RheMAP](templates_and_atlases/rhemap.md)    
   
-**[Marmoset](templates_and_atlases.md#marmoset_atlases)**        
+[Marmoset](templates_and_atlases.md#marmoset_atlases)       
 - [Details](templates_and_atlases_marmoset.md)    
   - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)        
   - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)        
   - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
 
-**[Other species](templates_and_atlases.md#other_atlases)**    
+[Other species](templates_and_atlases.md#other_atlases)    
 
 <br>
 
 ### **[Pipelines](pipelines.md)**
-**[General](pipelines_general.md)**    
+[General](pipelines_general.md)    
 - [NeuroElf](pipelines_general.md#neuroelf)   
 
-**[Structural](pipelines_structural.md)**            
+[Structural](pipelines_structural.md)            
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)     
 - [CIVET-macaque](pipelines_structural.md#civet-macaque)     
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
@@ -43,7 +43,7 @@ Resources are categorized according to the problem or task they address. The res
 - [PREEMACS](pipelines_structural.md#preemacs)
 - [UNet model for skull stripping and brain masks of anatomical images from PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)     
 
-**[fMRI](pipelines_fmri.md)**
+[fMRI](pipelines_fmri.md)
 - [afni_proc.py](pipelines_fmri.md#afni_procpy)       
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NeuroElf](pipelines_general.md#neuroelf)     
@@ -51,15 +51,15 @@ Resources are categorized according to the problem or task they address. The res
 - [NHP-pycortex](pipelines_fmri.md#nhp-pycortex)
 - [Pypreclin](pipelines_fmri.md#pypreclin)     
 
-**[Diffusion](pipelines_diffusion.md)**
+[Diffusion](pipelines_diffusion.md)
 - [Diffusion-MRI by Rakshit](pipelines_diffusion.md#diffusion-mri-by-rakshit) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_diffusion.md#mr-comparative-anatomy-toolbox-mrcat)
 
 <br>
 
 ### **[Data sharing](data_sharing.md)**       
-- [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)       
 - [Neurovault](data_sharing.md#neurovault)       
+- [PRIME-DE](data_sharing.md#prime-de)       
 
 <br>
 
