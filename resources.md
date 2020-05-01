@@ -34,7 +34,8 @@ Resources are categorized according to the problem or task they address. The res
 - [NeuroElf](pipelines_general.md#neuroelf)   
 
 [Structural](pipelines_structural.md)            
-- [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)     
+- [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
+- [BrainBox](pipelines_structural.md#brainbox)    
 - [CIVET-macaque](pipelines_structural.md#civet-macaque)     
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
 - [Macapype](pipelines_structural.md#macapype)    
