@@ -15,6 +15,7 @@
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)
 - [NHP-pycortex](pipelines_structural.md#nhp-pycortex)
+- [Precon_all](pipelines_structural.md#precon_all)
 - [PREEMACS](pipelines_structural.md#preemacs)
 - [Reorient](pipelines_structural.md#reorient)
 - [Thresholdmann](pipelines_structural.md#thresholdmann)     
@@ -92,6 +93,16 @@
 **Publication**     : -                                                                                       
 **Communication**   : [GitHub profile](https://github.com/pcklink)                                            
 **Restrictions**    : None              
+
+### Precon_all     
+**Authors**         : R. Austin Benn, Ting Xu                                                                             
+**Description**     : precon_all is an anatomical surface reconstruction pipeline that can be used with Non-Human Primates, and other large animals including pigs, dogs, and potentially many more. The pipeline can be easily modified to work on most species with a reasonable T1 image by simply providing 5 masks. The pipeline provides both freesurfer and HCP compatible outputs in native image space. Group average surfaces and spherical registration templates can also be created within the precon_all framework.                   
+**Documentation**   : [precon_all](https://github.com/recoveringyank/precon_all)                                    
+**Link**            : [GitHub Link](https://github.com/recoveringyank/precon_all)        
+**Language**        : shell                                                       
+**Publication**     : In preparation                                                                                       
+**Communication**   : [Email](mailto:rabbenn@cnic.es)                                            
+**Restrictions**    : None       
 
 ### PREEMACS     
 **Authors**         : Pamela Garcia-Saldivar, Arun Garimella, Eduardo A. Garza-Villarreal, Felipe Mendez, Luis Concha and Hugo Merchant                                                                                 
