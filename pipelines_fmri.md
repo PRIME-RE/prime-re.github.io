@@ -9,7 +9,7 @@
 
 ## Overview
 - [afni_proc.py](pipelines_fmri.md#afni_procpy)       
-- [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
+- [C-PAC](pipelines_fmri.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NeuroElf](pipelines_fmri.md#neuroelf) 
 - [NHP-BIDS](pipelines_fmri.md#nhp-bids) 
