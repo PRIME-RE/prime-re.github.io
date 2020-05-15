@@ -10,7 +10,8 @@
 ## Overview     
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
 - [BrainBox](pipelines_structural.md#brainbox)
-- [CIVET-macaque](pipelines_structural.md#civet-macaque)     
+- [CIVET-macaque](pipelines_structural.md#civet-macaque)   
+- [C-PAC](pipelines_structural.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes)       
 - [Macapype](pipelines_structural.md#macapype)     
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)
@@ -53,6 +54,16 @@
 **Publication**     : forthcoming                                                                                       
 **Communication**   : tbd               
 **Restrictions**    : Cite the forthcoming paper          
+
+### C-PAC: The Configurable Pipeline for the Analysis of Connectomes
+**Authors**         : Steven Giavasis, Cameron Craddock, Michael Milham                                                               
+**Description**     : The Configurable Pipeline for the Analysis of Connectomes (C-PAC) is a configurable, open-source, Nipype-based, automated processing pipeline for resting state functional MRI (R-fMRI) data, for use by both novice and expert users. It is designed and tested for use with human data (all ages), as well as with non-human primate and rodent data.                   
+**Documentation**   : [http://fcp-indi.github.io/](http://fcp-indi.github.io/)                                      
+**Link**            : [Quick-Start](http://fcp-indi.github.io/docs/user/quick.html)               
+**Language**        : Python                                                  
+**Publication**     : [Craddock et al. (2013)](https://www.frontiersin.org/10.3389/conf.fninf.2013.09.00042/event_abstract)         
+**Communication**   : [C-PAC Forum](https://groups.google.com/forum/#!forum/cpax_forum)                                             
+**Restrictions**    : None      
 
 ### Macapype       
 **Authors**         : Bastien Cagna, David Meunier, Kep kee Loh, Julien Sein, & Régis Trapeau                 
