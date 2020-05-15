@@ -9,6 +9,7 @@
 
 ## Overview
 - [afni_proc.py](pipelines_fmri.md#afni_procpy)       
+- [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NeuroElf](pipelines_fmri.md#neuroelf) 
 - [NHP-BIDS](pipelines_fmri.md#nhp-bids) 
@@ -29,6 +30,16 @@
 **Communication**   : [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)               
 **Restrictions**    : None 
 
+
+### C-PAC: The Configurable Pipeline for the Analysis of Connectomes
+**Authors**         : Steven Giavasis, Cameron Craddock, Michael Milham                                                               
+**Description**     : The Configurable Pipeline for the Analysis of Connectomes (C-PAC) is a configurable, open-source, Nipype-based, automated processing pipeline for resting state functional MRI (R-fMRI) data, for use by both novice and expert users. It is designed and tested for use with human data (all ages), as well as with non-human primate and rodent data.                   
+**Documentation**   : [http://fcp-indi.github.io/](http://fcp-indi.github.io/)                                      
+**Link**            : [Quick-Start](http://fcp-indi.github.io/docs/user/quick.html)               
+**Language**        : Python                                                  
+**Publication**     : [Craddock et al. (2013)](https://www.frontiersin.org/10.3389/conf.fninf.2013.09.00042/event_abstract)         
+**Communication**   : [C-PAC Forum](https://groups.google.com/forum/#!forum/cpax_forum)                                             
+**Restrictions**    : None       
 
 ### MR Comparative Anatomy Toolbox (MrCat)       
 **Authors**         : Rogier B. Mars, Lennart Verhagen, and the members and collaborators of the Cognitive Neuroecology Lab	             
