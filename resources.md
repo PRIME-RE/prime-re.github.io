@@ -30,13 +30,15 @@ Resources are categorized according to the problem or task they address. The res
 <br>
 
 ### **[Pipelines](pipelines.md)**
-[General](pipelines_general.md)    
+[General](pipelines_general.md)  
+- [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
 - [NeuroElf](pipelines_general.md#neuroelf)   
 
 [Structural](pipelines_structural.md)            
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
 - [BrainBox](pipelines_structural.md#brainbox)    
 - [CIVET-macaque](pipelines_structural.md#civet-macaque)     
+- [C-PAC](pipelines_structural.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
 - [Macapype](pipelines_structural.md#macapype)    
 - [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)     
@@ -48,7 +50,8 @@ Resources are categorized according to the problem or task they address. The res
 - [UNet model for skull stripping and brain masks of anatomical images from PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)     
 
 [fMRI](pipelines_fmri.md)
-- [afni_proc.py](pipelines_fmri.md#afni_procpy)       
+- [afni_proc.py](pipelines_fmri.md#afni_procpy)   
+- [C-PAC](pipelines_fmri.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NeuroElf](pipelines_general.md#neuroelf)     
 - [NHP-BIDS](pipelines_fmri.md#nhp-bids)
