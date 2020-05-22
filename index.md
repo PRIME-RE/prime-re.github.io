@@ -25,3 +25,8 @@ The PRIME-RE collection of resources is organized in several categories. If you 
 - [Data sharing](data_sharing.md)
 - [Software packages](software_packages.md)
 - [Other tutorials & resources](tutorials_resources.md)
+
+### Contact     
+- You can contact the people behind PRIME-RE by writing a [GitHub Issue](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:&nbsp;%3Ctopic%3E).    
+- You can contact developers of a shared resource through the contact links that are listed with the resources.    
+- To ask a question or discuss an issue with the broader neuroscience community, we suggest using [neurostars.org](https://neurostars.org/). Tag your new thread with **prime-re** and/or the name of the resource you are asking about for optimal visibility.
