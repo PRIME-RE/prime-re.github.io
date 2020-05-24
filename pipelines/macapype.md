@@ -1,19 +1,14 @@
-# Your pipeline submission
+# Macapype
 
 ## Pipeline Description
-Description of inputs and outputs, issues specific to NHP, way to takle them
+Segmentation Tools For Monkey Brains
 
 ## Dependencies
 What different types of people could contribute?
 
 ## Link to your code
-[YourGitHubRepo](https://github.com/yourUserName/yourRepo)  
-    with [ReadMe.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) containing  
-        &nbsp;&nbsp;&nbsp;&nbsp;* Project idea and context  
-        &nbsp;&nbsp;&nbsp;&nbsp;* Installation guidelines if applicable  
-        &nbsp;&nbsp;&nbsp;&nbsp;* Links to further reading / tutorials  
-    and if you want, additional files such as  
-        &nbsp;&nbsp;&nbsp;&nbsp;* [Contributors.md](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/), to specify which types of people can contribute how.
+[YourGitHubRepo](https://github.com)  
+
 
 ## Communication
 Link to the communication channel for your project. You can, for example, create a [slack channel](https://brainhack-slack-invite.herokuapp.com/) for your project inside the Brainhack slack community, and include a slack badge [![slack_brainhack_3](https://user-images.githubusercontent.com/6297454/47951457-5b37b780-df61-11e8-9d77-7b5a4c7af875.png)](https://brainhack-slack-invite.herokuapp.com/) to invite people to Brainhack slack, where they can then find and join your channel.  

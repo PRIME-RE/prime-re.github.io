@@ -1,8 +1,5 @@
-# Welcome to PRIME-RE
-
-Welcome to PRIME-RE, the primary exchange platform for resources related to non-human primate neuroimaging data.
-
-<!--![](https://raw.githubusercontent.com/PRIME-RE/prime-re.github.io/master/images/prime-re_card.jpg)-->
+# PRIME-RE
+Welcome to PRIME-RE, the primary exchange platform for resources related to non-human primate neuroimaging data.    
 
 ![logo](images/social_preview_image.png)
 
@@ -10,8 +7,26 @@ The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imag
 
 PRIME-RE is maintained by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). 
 
-### How to contribute
+### How to contribute ?
 Send new content by using [this issue template](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=new-resource&template=new-resource.md&title=%3CResource+Name%3E). You can also join our communication channel on the Brainhack Community via [PRIME-RE Mattermost-channel](https://mattermost.brainhack.org/brainhack/channels/compmri_resourcehub). If you want to discuss the Primate Data Exchange in general, join on [PRIME-DE Mattermost-channel](https://mattermost.brainhack.org/brainhack/channels/prime-de).
 
 ### Wiki
 A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/Structural-preprocessing) have been set up to share knowledge about NHP MRI acquisition and image processing. Anyone can share knowledge and experience (problems with solutions, fixes, tricks...).
+
+### Resources
+The PRIME-RE collection of resources is organized in several categories. If you feel like something is missing or erroneously categorized, don't hesitate to contact us. We make a disctinction between 'Pipelines' (custom written analysis solutions) and 'Software packages' (complete software solutions, many of which may appear in the pipelines)   
+
+- [Templates and Atlases](templates_and_atlases.md)
+- [Pipelines](pipelines.md)
+    - [General](pipelines_general.md)       
+    - [Structural](pipelines_structural.md)
+    - [fMRI](pipelines_fmri.md)
+    - [Diffusion](pipelines_diffusion.md)      
+- [Data sharing](data_sharing.md)
+- [Software packages](software_packages.md)
+- [Other tutorials & resources](tutorials_resources.md)
+
+### Contact     
+- You can contact the people behind PRIME-RE by writing a [GitHub Issue](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:&nbsp;%3Ctopic%3E).    
+- You can contact developers of a shared resource through the contact links that are listed with the resources.    
+- To ask a question or discuss an issue with the broader neuroscience community, we suggest using [neurostars.org](https://neurostars.org/). Tag your new thread with **prime-re** and/or the name of the resource you are asking about for optimal visibility.
