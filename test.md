@@ -1,10 +1,25 @@
 ## Header
 
+### afni_proc.py   
+<div class="rw-ui-container" data-title="test rating"></div>    
+**Authors**         : Rick Reynolds, Paul Taylor, Daniel Glen, Gang Chen, Bob Cox 	             
+**Description**     : FMRI analysis pipeline tool in AFNI.  This widely used, general purpose and flexible tool for creating a full, single subject FMRI processing stream can be used for macaque analyses. This program creates fully commented, single subject processing scripts for all FMRI study designs (task, resting state, naturalistic, etc.) and for either volumetric- or surface-based analyses. The typical goal is to create volumes of aligned response magnitudes (stimulus beta weights from a GLM) to use as input for a group analysis.        
+**Documentation**   : [AFNI site](https://afni.nimh.nih.gov/pub/dist/doc/program_help/afni_proc.py.html)     
+**Link**            : [https://afni.nimh.nih.gov](https://afni.nimh.nih.gov/)    
+**Language**        : python, tcsh, C, AFNI                                                       
+**Publication**     : TBD        
+**Communication**   : [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)               
+**Restrictions**    : None 
+
+
+
 ### Resource 1  
-**Support**: <div class="rw-ui-container" data-title="test rating"></div>     
+**Support**: 
+<div class="rw-ui-container" data-title="test rating"></div>     
 
 ### Resource 2     
-**Support**: <div class="rw-ui-container" data-title="test rating 2"></div>
+**Support**: 
+<div class="rw-ui-container" data-title="test rating 2"></div>
 
 
 
