@@ -17,7 +17,9 @@
   
   
 
-[//]: # (THis script is necessary to render the rating widgets)
+[//]: # (This script is necessary to render the rating widgets)
+[//]: # (Use this code to insert a widget)
+[//]: # (<div class="rw-ui-container" data-title="test rating"></div>)
 
 <script type="text/javascript">(function(d, t, e, m){
     // Async Rating-Widget initialization.
