@@ -1,5 +1,5 @@
 # PRIME-RE
-Welcome to PRIME-RE, the primary exchange platform for resources related to non-human primate neuroimaging data.    
+Welcome to the PRIMatE Resource Exchange (PRIME-RE), the primary a community-driven exchange platform for resources related to non-human primate neuroimaging data.    
 
 ![logo](images/social_preview_image.png)
 
