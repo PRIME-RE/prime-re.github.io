@@ -22,6 +22,7 @@ Jump to:
 ## Details
 
 ### Marmoset Brain Connectivity Atlas            
+<div class="rw-ui-container" data-title="mbca rating"></div>    
 **Authors**         : The project is lead by Piotr Majka of the Laboratory of Neuroinformatics at the Nencki Institute of Experimental Biology (Poland) and prof. Marcello Rosa at Monash University (Australia). [Full list of contributors](http://www.marmosetbrain.org/about).         	     
 **Description**     : The Marmoset Brain Connectivity Atlas allows for the exploration of a growing collection of retrograde tracer injections in the marmoset neocortex. Data obtained in different animals are registered to a [common stereotaxic space](http://www.marmosetbrain.org/reference) of Paxinos et al. (2012) atlas, and the resource incorporates tools for quantitative analyses. In particular, the results can be downloaded in 3D volume format in a template space which allows for ready comparisons to topologies acquired by MRI.                   
 **Documentation**   : Portal’s application programming interface are available [here](http://analytics.marmosetbrain.org/wiki/api) and [here](http://analytics.marmosetbrain.org/wiki/database).     
@@ -32,6 +33,7 @@ Jump to:
 **Restrictions**    : Material made public on the Marmoset Brain Connectivity Atlas is licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) License. You are free to share (copy and redistribute) and adapt (remix, transform, and build upon) the marmoset-related material in any medium or format as long as you attribute the Marmoset Brain Connectivity Atlas and provide a link to the two URLs the Marmoset Brain Connectivity Atlas and the CC license). If you adapt the material, you must distribute your contributions under the same license as the original.     
 
 ### Marmoset Brain Mapping Atlas and Template       
+<div class="rw-ui-container" data-title="mbmat rating"></div>    
 **Authors**         : Cirong Liu, Daniel Glen, Frank Ye, John Newman, Cecil Yen, Diego Szczupak, Xiaoguang Tian, Piotr Majka, Marcello Rosa, David Leopold, Afonso Silva        	     
 **Description**     : The Marmoset Brain Mapping Atlas (previously NIH Marmoset Brain Atlas) aims at building comprehensive MRI-based marmoset brain atlases and tools to facilitate neuroimaging and connectome studies of marmosets.                   
 **Documentation**   : [Marmoset Brain Mapping site](https://marmosetbrainmapping.org/atlas.html)     
@@ -42,6 +44,7 @@ Jump to:
 **Restrictions**    : Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA 4.0)    
 
 ### Nencki-Monash Template       
+<div class="rw-ui-container" data-title="Nencki-Monash rating"></div>    
 **Authors**         : The template has been created in collaboration between the Laboratory of Neuroinformatics at the Nencki Institute of Experimental Biology (Poland) and prof. Marcello Rosa Laboratory at Monash University (Australia).        	     
 **Description**     : The Nencki-Monash (NM) template represents a morphological average of 20 brains of young adult individuals, obtained by 3D reconstructions generated from Nissl-stained serial sections. The template combines combines the main advantages of histology-based atlases with features associated with MRI-based templates. It is also accompanied with spatial transformations to other popular marmoset brain templates, thus enabling integration with magnetic resonance imaging (MRI) and tracer-based connectivity data.                   
 **Documentation**   : The documentation and examples are available within individual datasets [here](http://www.marmosetbrain.org/nencki_monash_template)     
@@ -53,4 +56,48 @@ Jump to:
 
 
 
+[//]: # (This script is necessary to render the rating widgets)
+[//]: # (Use this code to insert a widget)
+[//]: # (<div class="rw-ui-container" data-title="test rating"></div>)
+
+<script type="text/javascript">(function(d, t, e, m){
+    // Async Rating-Widget initialization.
+    window.RW_Async_Init = function(){
+        RW.init({
+            huid: "461543",
+            uid: "08f35e7d11687ef3ae7b3e7c219b6114",
+            source: "website",
+            options: {
+                "advanced": {
+                    "layout": {
+                        "lineHeight": "12px"
+                    },
+                    "nero": {
+                        "showDislike": false
+                    },
+                    "text": {
+                        "rateThis": "Like this resource"
+                    }
+                },
+                "type": "nero",
+                "style": "check",
+                "isDummy": false,
+                "showTooltip": false,
+            } 
+        });
+        RW.render();
+    };
+        // Append Rating-Widget JavaScript library.
+    var rw, s = d.getElementsByTagName(e)[0], id = "rw-js",
+        l = d.location, ck = "Y" + t.getFullYear() + 
+        "M" + t.getMonth() + "D" + t.getDate(), p = l.protocol,
+        f = ((l.search.indexOf("DBG=") > -1) ? "" : ".min"),
+        a = ("https:" == p ? "secure." + m + "js/" : "js." + m);
+    if (d.getElementById(id)) return;              
+    rw = d.createElement(e);
+    rw.id = id; rw.async = true; rw.type = "text/javascript";
+    rw.src = p + "//" + a + "external" + f + ".js?ck=" + ck;
+    s.parentNode.insertBefore(rw, s);
+    }(document, new Date(), "script", "rating-widget.com/"));
+</script>
 
