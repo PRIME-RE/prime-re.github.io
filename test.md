@@ -1,10 +1,8 @@
 ## Header
 
-### Resource 1      
-<div class="rw-ui-container" data-title="test rating"></div>     
+### Resource 1  <div class="rw-ui-container" data-title="test rating"></div>     
 
-### Resource 2     
-<div class="rw-ui-container" data-title="test rating 2"></div>
+### Resource 2  <div class="rw-ui-container" data-title="test rating 2"></div>
 
 
 <script type="text/javascript">(function(d, t, e, m){
