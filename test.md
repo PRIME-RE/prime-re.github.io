@@ -11,8 +11,13 @@
 **Communication**   : [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)               
 **Restrictions**    : None 
   
+  
+  
+  
+  
+  
 
-
+[//]: # (THis script is necessary to render the rating widgets)
 
 <script type="text/javascript">(function(d, t, e, m){
     // Async Rating-Widget initialization.
