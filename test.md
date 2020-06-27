@@ -1,16 +1,15 @@
 ## Header
 
+### Resource 1      
+<div class="rw-ui-container" data-title="test rating"></div>     
 
-<div class="rw-ui-container" data-title="test rating"></div>
-    </br>
+### Resource 2     
 <div class="rw-ui-container" data-title="test rating 2"></div>
 
 
 <script type="text/javascript">(function(d, t, e, m){
-    
     // Async Rating-Widget initialization.
     window.RW_Async_Init = function(){
-                
         RW.init({
             huid: "461543",
             uid: "08f35e7d11687ef3ae7b3e7c219b6114",
@@ -46,4 +45,5 @@
     rw.id = id; rw.async = true; rw.type = "text/javascript";
     rw.src = p + "//" + a + "external" + f + ".js?ck=" + ck;
     s.parentNode.insertBefore(rw, s);
-    }(document, new Date(), "script", "rating-widget.com/"));</script>
+    }(document, new Date(), "script", "rating-widget.com/"));
+</script>
