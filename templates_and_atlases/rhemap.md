@@ -1,7 +1,7 @@
 ## RheMAP    
 
 ![RheMAP logo](RheMAP_logo.png)    
-<div class="rw-ui-container" data-title="rhemap rating"></div>
+<div class="rw-ui-container" data-title="rhemap rating"></div>        
 
 |                     |                                                                                         |
 | :------------------ | :-------------------------------------------------------------------------------------- |
