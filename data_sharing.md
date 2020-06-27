@@ -15,6 +15,7 @@
 ## Details
 
 ### Neurovault.org       
+<div class="rw-ui-container" data-title="neurovault rating"></div>    
 **Authors**         : Fox AS & Gorgolewski KJ                  
 **Description**     : The method for optimally sharing voxelwise data from NHP neuroimaging studies remains unclear. To address this issue, Fox and colleagues have adapted the Neurovault.org resource (Gorgolewski et al., 2015), which is commonly used to share human neuroimaging data, to other species, including rhesus monkeys. To complement within-manuscript reporting (e.g. location of peak-activations), researchers can now upload any voxelwise images aligned to NMT-template space, including unthresohlded statistical maps, atlases, and ROIs to Neurovault.org by specifying their species-specific template. Collections of voxelwise analyses can be linked to publication DOIs to appropriately credit researchers, and will ultimately facilitate meta-analyses, and other large-scale data-scientific efforts, such as cross-species comparisons.                                         
 **Documentation**   : [FAQ](https://neurovault.org/FAQ)     
@@ -24,9 +25,56 @@
 
 
 ### PRIME-DE       
+<div class="rw-ui-container" data-title="prime-de rating"></div>    
 **Authors**         : PRIME-DE consortium                  
 **Description**     : The overarching goal of PRIMatE Data Exchange (PRIME-DE) is to create an open science resource for the neuroimaging community that will facilitate the mapping of the non-human primate connectome. To accomplish this, we will aggregate a combination of functional, diffusion and morphometric magnetic resonance imaging (MRI) datasets across laboratories around the world, and share the data with the larger scientific community.                                         
 **Documentation**   : [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)   
 **Link**            : [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html)    
 **Publication**     : [Milham et al. (2018)](https://doi.org/10.1016/j.neuron.2018.08.039)                   
 **Communication**   : [Email](mailto:Michael.Milham@childmind.org) 
+
+
+[//]: # (This script is necessary to render the rating widgets)
+[//]: # (Use this code to insert a widget)
+[//]: # (<div class="rw-ui-container" data-title="test rating"></div>)
+
+<script type="text/javascript">(function(d, t, e, m){
+    // Async Rating-Widget initialization.
+    window.RW_Async_Init = function(){
+        RW.init({
+            huid: "461543",
+            uid: "08f35e7d11687ef3ae7b3e7c219b6114",
+            source: "website",
+            options: {
+                "advanced": {
+                    "layout": {
+                        "lineHeight": "12px"
+                    },
+                    "nero": {
+                        "showDislike": false
+                    },
+                    "text": {
+                        "rateThis": "Like this resource"
+                    }
+                },
+                "type": "nero",
+                "style": "check",
+                "isDummy": false,
+                "showTooltip": false,
+            } 
+        });
+        RW.render();
+    };
+        // Append Rating-Widget JavaScript library.
+    var rw, s = d.getElementsByTagName(e)[0], id = "rw-js",
+        l = d.location, ck = "Y" + t.getFullYear() + 
+        "M" + t.getMonth() + "D" + t.getDate(), p = l.protocol,
+        f = ((l.search.indexOf("DBG=") > -1) ? "" : ".min"),
+        a = ("https:" == p ? "secure." + m + "js/" : "js." + m);
+    if (d.getElementById(id)) return;              
+    rw = d.createElement(e);
+    rw.id = id; rw.async = true; rw.type = "text/javascript";
+    rw.src = p + "//" + a + "external" + f + ".js?ck=" + ck;
+    s.parentNode.insertBefore(rw, s);
+    }(document, new Date(), "script", "rating-widget.com/"));
+</script>
