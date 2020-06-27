@@ -1,9 +1,12 @@
 <body>
 
-<div class="rw-ui-container" data-title="my awesome rating"></div>
+<div class="rw-ui-container" data-title="test rating"></div>
+
+<div class="rw-ui-container" data-title="test rating 2"></div>
 
 
-<script type="text/javascript">(function(d, t, e, m){    
+<script type="text/javascript">(function(d, t, e, m){
+    
     // Async Rating-Widget initialization.
     window.RW_Async_Init = function(){
                 
@@ -12,7 +15,16 @@
             uid: "08f35e7d11687ef3ae7b3e7c219b6114",
             source: "website",
             options: {
-                "style": "quartz",
+                "advanced": {
+                    "nero": {
+                        "showDislike": false
+                    },
+                    "text": {
+                        "rateThis": "Like this"
+                    }
+                },
+                "type": "nero",
+                "style": "check",
                 "isDummy": false
             } 
         });
