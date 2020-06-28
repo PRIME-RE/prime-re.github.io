@@ -11,7 +11,7 @@
 | **Publication**     | > [replace this with a link to a related publication](http://link-to-publication.com) < |
 | **Communication**   | > replace this with a means for communication <                                         |
 | **Restrictions**    | > replace this with potential usage restrictions <                                      |
-| **Category**        | > template/atlas/versatile/structural/fMRI/diffusion <                                  |
+| **Category**        | > template/atlas/general/structural/fMRI/diffusion/data/hardware <                                  |
   
     
 - [ ] **Do NOT include this resource in periodic mailings about new resources on PRIME-RE** 
