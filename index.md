@@ -7,6 +7,9 @@ The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imag
 
 PRIME-RE is maintained by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). 
 
+### Open science
+Our goal is to accelerate reproducible discovery, minimise redundant efforts and maximise efficiency by allowing the community to curate relevant resources, disseminate and encourage open science, and strengthen communication in the research community. We aim at making NHP resources open and [FAIR](https://doi.org/10.1038/sdata.2016.18), and support the adoption of the [Brain Imaging Data Structure (BIDS)](https://doi.org/10.1038/sdata.2016.44) and the [code development best practices](https://doi.org/10.1038/nn.4550), such as version control, testing, coding style, and continuous integration.
+
 ### How to contribute ?
 Send new content by using [this issue template](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=new-resource&template=new-resource.md&title=%3CResource+Name%3E). You can also join our communication channel on the Brainhack Community via [PRIME-RE Mattermost-channel](https://mattermost.brainhack.org/brainhack/channels/compmri_resourcehub). If you want to discuss the Primate Data Exchange in general, join on [PRIME-DE Mattermost-channel](https://mattermost.brainhack.org/brainhack/channels/prime-de).
 
