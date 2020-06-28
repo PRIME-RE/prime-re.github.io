@@ -7,7 +7,8 @@
 # Data sharing
 
 ## Overview     
-- [Neurovault.org](data_sharing.md#neurovault-org)     
+- [Neurovault.org](data_sharing.md#neurovault-org)
+- [Openneuro.org](data_sharing.md#openneuro-org)      
 - [PRIME-DE](data_sharing.md#prime-de)   
 
 <br>     
@@ -23,6 +24,14 @@
 **Publication**     : [Gorgolewski et al. (2015)](https://www.frontiersin.org/articles/10.3389/fninf.2015.00008/full)                   
 **Communication**   : [Email](mailto:dfox@ucdavis.edu) 
 
+### Openneuro.org     
+<div class="rw-ui-container" data-title="openneuro rating"></div>    
+**Authors**         : Stanford Center For Reproducible Neuroscience               
+**Description**     : A free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data. It was formerly known as Open fMRI, but has been updated to include more types of data. The hundreds of public datasets available there are organized according to the [BIDS format](https://bids.neuroimaging.io). Openneuro datasets can be also accessed via [Datalad](https://www.datalad.org). Though Open Neuro primarily contains data from human participants, several NHP datasets are also available through the platform.                                            
+**Documentation**   : [Openneuro.org FAQ](https://openneuro.org/faq)  
+**Link**            : [Openneuro.org](https://openneuro.org)    
+**Publication**     : [Poldrack et al. (2013)](https://www.frontiersin.org/articles/10.3389/fninf.2013.00012/full)                   
+**Communication**   : [Openneuro Support](https://openneuro.org)) 
 
 ### PRIME-DE       
 <div class="rw-ui-container" data-title="prime-de rating"></div>    
