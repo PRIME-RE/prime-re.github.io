@@ -65,7 +65,7 @@ Resources are categorized according to the problem or task they address. The res
 
 ### **[Data sharing](data_sharing.md)**       
 - [Neurovault](data_sharing.md#neurovault) 
-- [Openneuro](data_sharing.md#openneuro.org)     
+- [Openneuro](data_sharing.md#openneuro)     
 - [PRIME-DE](data_sharing.md#prime-de)       
 
 <br>
