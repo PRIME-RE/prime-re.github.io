@@ -8,7 +8,7 @@
 
 ## Overview     
 - [Neurovault.org](data_sharing.md#neurovault-org)
-- [Openneuro.org](data_sharing.md#openneuro-org)      
+- [Openneuro.org](data_sharing.md#openneuro.org)      
 - [PRIME-DE](data_sharing.md#prime-de)   
 
 <br>     
@@ -31,7 +31,7 @@
 **Documentation**   : [Openneuro.org FAQ](https://openneuro.org/faq)  
 **Link**            : [Openneuro.org](https://openneuro.org)    
 **Publication**     : [Poldrack et al. (2013)](https://www.frontiersin.org/articles/10.3389/fninf.2013.00012/full)                   
-**Communication**   : [Openneuro Support](https://openneuro.org)) 
+**Communication**   : [Openneuro Support](https://openneuro.org) 
 
 ### PRIME-DE       
 <div class="rw-ui-container" data-title="prime-de rating"></div>    
