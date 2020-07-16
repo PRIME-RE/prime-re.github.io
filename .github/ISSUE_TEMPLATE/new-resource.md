@@ -28,8 +28,10 @@ See instructions/explanation below the Resource info table
 | **Restrictions**    | > replace this with potential usage restrictions <                                      |
 | **Category**        | > template/atlas/versatile/structural/fMRI/diffusion <                                  |
   
-    
-- [ ] **Do NOT include this resource in periodic mailings about new resources on PRIME-RE** 
+** Please check the applicable boxes**    
+- [ ] All required ethical approval (human/animal) for the development of this resource was obtained  
+- [ ] No ethical approval (human/animal) was required for the development of this resource      
+- [ ] Do NOT include this resource in periodic mailings about new resources on PRIME-RE 
 
 
 ## Instructions     
@@ -73,3 +75,6 @@ Are there any limitations for how the analysis method can be used (e.g., citatio
 
 #### Category
 What is the most suitable category to list your resource under?
+
+#### Checkboxes
+Please indicate whether ethical approval was acquired for activities related to the development of this resource, or whether this wasn't necessary. Also, indicate if you do not want your resource advertised in sparsely sent updates from the PRIME-RE team to the community.
