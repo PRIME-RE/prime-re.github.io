@@ -6,12 +6,10 @@ Are you looking for other NHP neuroimaging researchers to discuss practical issu
 - [Brainweb, an online neuroscience collaboration platform](https://brain-web.github.io/)     
 
 
-# Testimonials
+# Publications
 
-Did you use the PRIME-RE website, the [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/), or one of the listed tools in your research and would you like to share your experience with others? 
-You can let us know by [posting a Testimonial issue](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Testimonial&template=testimonial.md&title=%5BTestimonial%5D+).
-<br>
-<br>
-
-### *Let’s make this the platform we have all wished existed at some point!*     
--- Chris Klink, PhD (Netherlands Institute for Neuroscience)
+You can read about the [PRIME-DE initiative](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html) here:     
+- PRIME-DE Consortium (2020). [Accelerating the Evolution of Nonhuman Primate Neuroimaging](). Neuron 105(4), 600-603.
+- Milham M.P, et al. (2018). [An Open Resource for Non-human Primate Imaging](https://doi.org/10.1016/j.neuron.2018.08.039). Neuron 100(1), 61-74.e2.     
+- Vanduffel, W. (2018). [The Blind Men and the Elephant: The Quest for Open Data Repositories](https://doi.org/10.1016/j.neuron.2018.09.039). Neuron 100(1), 1-3.
+  
