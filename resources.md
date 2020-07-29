@@ -6,7 +6,7 @@
 
 # Resources      
 
-Resources are categorized according to the problem or task they address. The resources classified under [pipelines](pipelines.md) are not necessarily complete raw-to-result pipelines. They can also be tools specifically addressing an issue associated with the type of pipeline they are classified under. We mostly followed the category indication we received upon contribution of the tool. If you feel a resource should be classified differently, [let us know](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:%C2%A0%3Ctopic%3E). If any of these resources have been helpful, consider leaving a [testimonial](testimonial.md).
+Resources are categorized according to the problem or task they address. The resources classified under [pipelines](pipelines.md) are not necessarily complete raw-to-result pipelines. They can also be tools specifically addressing an issue associated with the type of pipeline they are classified under. We mostly followed the category indication we received upon contribution of the tool. If you feel a resource should be classified differently, [let us know](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:%C2%A0%3Ctopic%3E). If any of these resources have been helpful, consider leaving a [testimonial](testimonials.md).
 
 
 ### **[Templates and Atlases](templates_and_atlases.md)**
