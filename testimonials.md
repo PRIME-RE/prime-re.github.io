@@ -5,6 +5,6 @@ You can let us know by [posting a Testimonial issue](https://github.com/PRIME-RE
 <br>
 <br>
 
-### *Let’s make this the platform we have all wished existed at some point!*     
+### *Let’s make this the platform we have all at some point wished existed!*     
 -- Chris Klink, PhD (Netherlands Institute for Neuroscience)
 
