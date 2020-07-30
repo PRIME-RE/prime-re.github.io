@@ -13,4 +13,4 @@ You can read about the [PRIME-DE initiative](http://fcon_1000.projects.nitrc.org
 - Milham M.P, et al. (2018). [An Open Resource for Non-human Primate Imaging](https://doi.org/10.1016/j.neuron.2018.08.039){:target="_blank"}. Neuron 100(1), 61-74.e2.     
 - Vanduffel, W. (2018). [The Blind Men and the Elephant: The Quest for Open Data Repositories](https://doi.org/10.1016/j.neuron.2018.09.039){:target="_blank"}. Neuron 100(1), 1-3.
   
-We would be happy to list other useful publications for the NHP neuroimaging community (but we won't be copying [Pubmed](https://pubmed.ncbi.nlm.nih.gov/){:target="_blank"} or [Google Scholar](https://scholar.google.com/){:target="_blank"}). Feel free to [get in touch with us](contact.md) if there is a publication that could be added here.      
+We would be happy to list other useful publications for the NHP neuroimaging community (but have no ambition to recreate [Pubmed](https://pubmed.ncbi.nlm.nih.gov/){:target="_blank"} or [Google Scholar](https://scholar.google.com/){:target="_blank"}). Feel free to [get in touch with us](contact.md) if there is a publication that could be added here.      
