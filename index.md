@@ -1,11 +1,7 @@
 # PRIME-RE
 Welcome to the PRIMatE Resource Exchange (PRIME-RE), the primary a community-driven exchange platform for resources related to non-human primate neuroimaging data.    
 
-<p align="center"> <img height="250" src="images/logo3.png"></p>
-
-The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE provides an overview of the main difficulties and curates a collection of solutions for specific processing steps that currently exist within the NHP-MRI community. This is a community effort and we strongly encourage you to [contribute](contribute.md) your workflows and pipelines.     
-
-PRIME-RE is maintained by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). 
+The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE provides an overview of the main difficulties and curates a collection of solutions for specific processing steps that currently exist within the NHP-MRI community. This is a community effort, initiated by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). We strongly encourage you to [contribute](contribute.md) your workflows and pipelines.     
 
 ### Open science
 Our goal is to accelerate reproducible discovery, minimise redundant efforts and maximise efficiency by allowing the community to curate relevant resources, disseminate and encourage open science, and strengthen communication in the research community. We aim at making NHP resources open and [FAIR](https://doi.org/10.1038/sdata.2016.18), and support the adoption of the [Brain Imaging Data Structure (BIDS)](https://doi.org/10.1038/sdata.2016.44) and [code development best practices](https://doi.org/10.1038/nn.4550), such as version control, testing, and continuous integration.
