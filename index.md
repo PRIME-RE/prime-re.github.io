@@ -1,7 +1,7 @@
 # PRIME-RE
 Welcome to the PRIMatE Resource Exchange (PRIME-RE), the primary a community-driven exchange platform for resources related to non-human primate neuroimaging data.    
 
-![logo](images/social_preview_image.png)
+<p align="center"> <img height="250" src="images/logo3.png"></p>
 
 The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE provides an overview of the main difficulties and curates a collection of solutions for specific processing steps that currently exist within the NHP-MRI community. This is a community effort and we strongly encourage you to [contribute](contribute.md) your workflows and pipelines.     
 
