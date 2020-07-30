@@ -1,5 +1,5 @@
 # PRIME-RE
-Welcome to the PRIMatE Resource Exchange (PRIME-RE), the primary a community-driven exchange platform for resources related to non-human primate neuroimaging data.    
+Welcome to the PRIMatE Resource Exchange (PRIME-RE), a community-driven resource exchange platform for non-human primate neuroimaging.    
 
 The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE provides an overview of the main difficulties and curates a collection of solutions for specific processing steps that currently exist within the NHP-MRI community. This is a community effort, initiated by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html). We strongly encourage you to [contribute](contribute.md) your workflows and pipelines.     
 
