@@ -3,13 +3,13 @@
 This website is intended to be a meeting place for the NHP neuroimaging community. We hope you can find international colleagues here, discover mutual interests and start new collaborations. Get in contact with people through the following communication channels:
 
 - [Contact the people behind PRIME-RE](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:&nbsp;%3Ctopic%3E).    
-- [Contact NHP-MRI researchers through a google-group mailing list](https://groups.google.com/forum/#!forum/nhp-mri).   
-- [Contact the broader neuroscience community at **neurostars.org**](https://neurostars.org/). Tag your new thread with **prime-re** and/or the name of the resource you are asking about for optimal visibility.
-- [Join the converstation in the PRIME-RE Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/prime-re)     
+- [Contact NHP-MRI researchers through a google-group mailing list](https://groups.google.com/forum/#!forum/nhp-mri){:target="_blank"}.   
+- [Contact the broader neuroscience community at **neurostars.org**](https://neurostars.org/){:target="_blank"}. Tag your new thread with **prime-re** and/or the name of the resource you are asking about for optimal visibility.
+- [Join the converstation in the PRIME-RE Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/prime-re){:target="_blank"}     
       
 <br />
 <br />           
             
-[<img src="/images/Github.png" height="40">](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:&nbsp;%3Ctopic%3E) &nbsp;&nbsp;&nbsp; 
-[<img src="/images/incf_neurostars.jpeg" height="50">](https://neurostars.org/) &nbsp;&nbsp;&nbsp;
-[<img src="/images/Mattermost.png" height="40">](https://mattermost.brainhack.org/brainhack/channels/prime-re)
+[<img src="/images/Github.png" height="40">](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:&nbsp;%3Ctopic%3E){:target="_blank"} &nbsp;&nbsp;&nbsp; 
+[<img src="/images/incf_neurostars.jpeg" height="50">](https://neurostars.org/){:target="_blank"} &nbsp;&nbsp;&nbsp;
+[<img src="/images/Mattermost.png" height="40">](https://mattermost.brainhack.org/brainhack/channels/prime-re){:target="_blank"}
