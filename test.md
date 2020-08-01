@@ -1,63 +1,73 @@
-## Header
 
-### afni_proc.py   
-<div class="rw-ui-container" data-title="test rating"></div>
-**Authors**         : Rick Reynolds, Paul Taylor, Daniel Glen, Gang Chen, Bob Cox 	             
-**Description**     : FMRI analysis pipeline tool in AFNI.  This widely used, general purpose and flexible tool for creating a full, single subject FMRI processing stream can be used for macaque analyses. This program creates fully commented, single subject processing scripts for all FMRI study designs (task, resting state, naturalistic, etc.) and for either volumetric- or surface-based analyses. The typical goal is to create volumes of aligned response magnitudes (stimulus beta weights from a GLM) to use as input for a group analysis.        
-**Documentation**   : [AFNI site](https://afni.nimh.nih.gov/pub/dist/doc/program_help/afni_proc.py.html)     
-**Link**            : [https://afni.nimh.nih.gov](https://afni.nimh.nih.gov/)    
-**Language**        : python, tcsh, C, AFNI                                                       
-**Publication**     : TBD        
-**Communication**   : [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)               
-**Restrictions**    : None 
-  
-  
-  
-  
-  
-  
+---
 
-[//]: # (This script is necessary to render the rating widgets)
-[//]: # (Use this code to insert a widget)
-[//]: # (<div class="rw-ui-container" data-title="test rating"></div>)
+##### [Template/Atlas](templates_and_atlases.md) &nbsp;  - &nbsp;  [General](pipelines_general.md) &nbsp;  - &nbsp;  [Structural](pipelines_structural.md) &nbsp;  - &nbsp;  [fMRI](pipelines_fmri.md) &nbsp;  - &nbsp;  [Diffusion](pipelines_diffusion.md) &nbsp;  - &nbsp;  [Data](data_sharing.md) &nbsp;  - &nbsp; [Software packages](software_packages.md)  &nbsp;  - &nbsp; [Hardware](hardware.md)          
+---    
 
-<script type="text/javascript">(function(d, t, e, m){
-    // Async Rating-Widget initialization.
-    window.RW_Async_Init = function(){
-        RW.init({
-            huid: "461543",
-            uid: "08f35e7d11687ef3ae7b3e7c219b6114",
-            source: "website",
-            options: {
-                "advanced": {
-                    "layout": {
-                        "lineHeight": "12px"
-                    },
-                    "nero": {
-                        "showDislike": false
-                    },
-                    "text": {
-                        "rateThis": "Like this resource"
-                    }
-                },
-                "type": "nero",
-                "style": "check",
-                "isDummy": false,
-                "showTooltip": false,
-            } 
-        });
-        RW.render();
-    };
-        // Append Rating-Widget JavaScript library.
-    var rw, s = d.getElementsByTagName(e)[0], id = "rw-js",
-        l = d.location, ck = "Y" + t.getFullYear() + 
-        "M" + t.getMonth() + "D" + t.getDate(), p = l.protocol,
-        f = ((l.search.indexOf("DBG=") > -1) ? "" : ".min"),
-        a = ("https:" == p ? "secure." + m + "js/" : "js." + m);
-    if (d.getElementById(id)) return;              
-    rw = d.createElement(e);
-    rw.id = id; rw.async = true; rw.type = "text/javascript";
-    rw.src = p + "//" + a + "external" + f + ".js?ck=" + ck;
-    s.parentNode.insertBefore(rw, s);
-    }(document, new Date(), "script", "rating-widget.com/"));
-</script>
+# Resources      
+
+Resources are categorized according to the problem or task they address. The resources classified under [pipelines](pipelines.md) are not necessarily complete raw-to-result pipelines. They can also be tools specifically addressing an issue associated with the type of pipeline they are classified under. We mostly followed the category indication we received upon contribution of the tool. If you feel a resource should be classified differently, [let us know](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:%C2%A0%3Ctopic%3E). If any of these resources have been helpful, consider leaving a [testimonial](testimonials.md).
+
+
+### **[Templates and Atlases](templates_and_atlases.md)**
+[Macaque](templates_and_atlases.md#macaque_atlases)
+- [Details](templates_and_atlases_macaque.md)      
+  - [D99](templates_and_atlases_macaque.md#D99)     
+  - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)       
+  - [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)       
+- [Warps between macaque templates](templates_and_atlases.md#macaque_warps)     
+  - [RheMAP](templates_and_atlases/rhemap.md)    
+  
+[Marmoset](templates_and_atlases.md#marmoset_atlases)       
+- [Details](templates_and_atlases_marmoset.md)    
+  - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)        
+  - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)        
+  - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
+
+[Other species](templates_and_atlases.md#other_atlases)    
+
+<br>
+
+### **[Pipelines](pipelines.md)**
+[General](pipelines_general.md)  
+- [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
+- [NeuroElf](pipelines_general.md#neuroelf)   
+
+[Structural](pipelines_structural.md)            
+- [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
+- [BrainBox](pipelines_structural.md#brainbox)    
+- [CIVET-macaque](pipelines_structural.md#civet-macaque)     
+- [C-PAC](pipelines_structural.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
+- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_structural.md#mr-comparative-anatomy-toolbox-mrcat)
+- [Macapype](pipelines_structural.md#macapype)    
+- [NHP-Freesurfer](pipelines_structural.md#nhp-freesurfer)     
+- [NHP-pycortex](pipelines_structural.md#nhp-pycortex)  
+- [Precon_all](pipelines_structural.md#precon_all)
+- [PREEMACS](pipelines_structural.md#preemacs)
+- [Reorient](pipelines_structural.md#reorient)
+- [Thresholdmann](pipelines_structural.md#thresholdmann)     
+- [UNet model for skull stripping and brain masks of anatomical images from PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)     
+
+[fMRI](pipelines_fmri.md)
+- [afni_proc.py](pipelines_fmri.md#afni_procpy)   
+- [C-PAC](pipelines_fmri.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
+- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
+- [NeuroElf](pipelines_general.md#neuroelf)     
+- [NHP-BIDS](pipelines_fmri.md#nhp-bids)
+- [NHP-pycortex](pipelines_fmri.md#nhp-pycortex)
+- [Pypreclin](pipelines_fmri.md#pypreclin)     
+
+[Diffusion](pipelines_diffusion.md)
+- [Diffusion-MRI by Rakshit](pipelines_diffusion.md#diffusion-mri-by-rakshit) 
+- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_diffusion.md#mr-comparative-anatomy-toolbox-mrcat)
+
+<br>
+
+### **[Data sharing](data_sharing.md)**       
+- [Neurovault](data_sharing.md#neurovault) 
+- [Openneuro](data_sharing.md#openneuro)     
+- [PRIME-DE](data_sharing.md#prime-de)       
+
+<br>
+
+### **[Software packages](software_packages.md)**
