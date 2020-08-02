@@ -53,7 +53,6 @@ window.onclick = function(event) {
 - [NHP-pycortex](pipelines_fmri.md#nhp-pycortex) 
 - [Pypreclin](pipelines_fmri.md#pypreclin) 
 
-<br>
 
 ## Details
 
