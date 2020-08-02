@@ -1,5 +1,4 @@
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<head><meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .dropbtn {
   background-color: #3498DB; color: white; padding: 16px; font-size: 16px;
@@ -30,12 +29,14 @@
 .show {display: block;}
 </style></head>
 
+
+<body>
 <div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+  <button onclick="myFunction()" class="dropbtn">Select Resource Category</button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="#templates_and_atlases">Template/Atlas</a>
-    <a href="#pipelines_general">General</a>
-    <a href="#pipelines_structural">Structural</a>
+    <a href="templates_and_atlases">Template/Atlas</a>
+    <a href="pipelines_general">General</a>
+    <a href="pipelines_structural">Structural</a>
   </div>
 </div>
 
@@ -59,7 +60,7 @@ window.onclick = function(event) {
     }
   }
 }
-</script>
+</script></body>
 
 
 
