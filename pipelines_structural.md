@@ -58,8 +58,7 @@ window.onclick = function(event) {
 - [Reorient](pipelines_structural.md#reorient)
 - [Thresholdmann](pipelines_structural.md#thresholdmann)     
 - [UNet model for skull stripping for PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)
-
-<br>     
+   
 
 ## Details
 
