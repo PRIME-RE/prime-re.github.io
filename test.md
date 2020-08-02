@@ -20,13 +20,13 @@
   <button onclick="myFunction()" class="dropbtn">Select Resource Category</button>
   <div id="myDropdown" class="dropdown-content">
     <a href="templates_and_atlases">Template/Atlas</a>
-    <a href="pipelines_general">General</a>
-    <a href="pipelines_structural">Structural</a>
-    <a href="pipelines_fmri">Functional</a>
-    <a href="pipelines_diffusion">Diffusion</a>
+    <a href="pipelines_general">General analysis</a>
+    <a href="pipelines_structural">Structural analysis</a>
+    <a href="pipelines_fmri">Functional analysis</a>
+    <a href="pipelines_diffusion">Diffusion analysis</a>
     <a href="data_sharing">Data sharing</a>
     <a href="software_packages">Software packages</a>
-    <a href="hardware">Hardware</a>
+    <a href="hardware">Hardware & protocols</a>
   </div>
 </div></center>
 
