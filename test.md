@@ -2,7 +2,7 @@
 <style>
 .dropbtn {
   background-color: #3498DB; color: white; padding: 16px; font-size: 16px;
-  border: none; cursor: pointer; width: 100vw;
+  border: none; cursor: pointer; width: 100%;
 }
 
 .dropbtn:hover, .dropbtn:focus {
@@ -30,7 +30,6 @@
 </style></head>
 
 
-<body>
 <div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Select Resource Category</button>
   <div id="myDropdown" class="dropdown-content">
@@ -60,7 +59,7 @@ window.onclick = function(event) {
     }
   }
 }
-</script></body>
+</script>
 
 
 
