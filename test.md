@@ -6,6 +6,12 @@
 .dropdown-content a { color: black; padding: 12px 16px; text-decoration: none; display: block;}
 .dropdown a:hover {background-color: #ddd;}
 .show {display: block;}
+  
+.dropbtn + .dropbtn { margin-left: 1rem; }
+@media screen and (min-width: 64em) { .dropbtn { padding: 0.75rem 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .dropbtn { padding: 0.6rem 0.9rem; font-size: 0.9rem; } }
+@media screen and (max-width: 42em) { .dropbtn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
+  .dropbtn + .dropbtn { margin-top: 1rem; margin-left: 0; } }
 </style></head>
 
 <center><div class="dropdown">
