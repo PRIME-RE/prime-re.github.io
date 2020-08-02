@@ -47,7 +47,7 @@ window.onclick = function(event) {
 Resources are categorized according to the problem or task they address. You can quickly navigate through resource categories with the button above. The analysis resources are not necessarily complete raw-to-result pipelines. They can also be tools specifically addressing an issue associated with the type of analysis they are classified under. We mostly followed the category indication we received upon contribution of the tool. If you feel a resource should be classified differently, [let us know](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:%C2%A0%3Ctopic%3E). If any of these resources have been helpful, consider leaving a [testimonial](testimonials.md).
 
 ## Overview of resources          
-### **[Templates and Atlases](templates_and_atlases.md)**
+### **[Templates & atlases](templates_and_atlases.md)**
 [Macaque](templates_and_atlases.md#macaque_atlases)
 - [Details](templates_and_atlases_macaque.md)      
   - [D99](templates_and_atlases_macaque.md#D99)     
