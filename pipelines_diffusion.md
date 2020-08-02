@@ -42,8 +42,7 @@ window.onclick = function(event) {
 
 
 <!-- Start normal content here -->  
-
-# Diffusion
+# Diffusion analysis
 
 ## Overview
 - [Diffusion-MRI by Rakshit](pipelines_diffusion.md#diffusion-mri-by-rakshit) 
