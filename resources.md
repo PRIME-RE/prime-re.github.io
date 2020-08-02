@@ -64,7 +64,6 @@ Resources are categorized according to the problem or task they address. You can
 
 [Other species](templates_and_atlases.md#other_atlases)    
 
-<br>
 
 ### **[General analysis](pipelines_general.md)**  
 - [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
@@ -98,17 +97,14 @@ Resources are categorized according to the problem or task they address. You can
 - [Diffusion-MRI by Rakshit](pipelines_diffusion.md#diffusion-mri-by-rakshit) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_diffusion.md#mr-comparative-anatomy-toolbox-mrcat)
 
-<br>
 
 ### **[Data sharing](data_sharing.md)**       
 - [Neurovault](data_sharing.md#neurovault) 
 - [Openneuro](data_sharing.md#openneuro)     
 - [PRIME-DE](data_sharing.md#prime-de)       
 
-<br>
 
 ### **[Software packages](software_packages.md)**
 
-<br>
 
 ### **[Hardware & protocols](hardware.md)**
