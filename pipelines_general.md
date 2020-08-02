@@ -47,8 +47,7 @@ window.onclick = function(event) {
 ## Overview
 - [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
 - [NeuroElf](pipelines_general.md#neuroelf) 
-    
-<br>    
+     
 
 ## Details
 
