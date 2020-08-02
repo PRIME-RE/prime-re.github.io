@@ -45,15 +45,13 @@ window.onclick = function(event) {
 # Macaque templates & atlases
 
 [<< Back to main templates & atlases page](templates_and_atlases.md)
-
-<br>     
+  
 
 ## Overview     
 - [D99](templates_and_atlases_macaque.md#D99)     
 - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)     
 - [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)
-
-<br>     
+ 
 
 ## Details
 
