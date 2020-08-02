@@ -42,7 +42,7 @@ window.onclick = function(event) {
 
 
 <!-- Start normal content here --> 
-# Structural MRI
+# Structural analysis
 
 ## Overview     
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
