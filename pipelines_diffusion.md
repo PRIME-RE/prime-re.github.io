@@ -47,8 +47,7 @@ window.onclick = function(event) {
 ## Overview
 - [Diffusion-MRI by Rakshit](pipelines_diffusion.md#diffusion-mri-by-rakshit) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_diffusion.md#mr-comparative-anatomy-toolbox-mrcat)
-    
-<br>    
+
 
 ## Details
 
