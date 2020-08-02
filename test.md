@@ -47,7 +47,5 @@ window.onclick = function(event) {
 Resources are categorized according to the problem or task they address. The resources classified under [pipelines](pipelines.md) are not necessarily complete raw-to-result pipelines. They can also be tools specifically addressing an issue associated with the type of pipeline they are classified under. We mostly followed the category indication we received upon contribution of the tool. If you feel a resource should be classified differently, [let us know](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:%C2%A0%3Ctopic%3E). If any of these resources have been helpful, consider leaving a [testimonial](testimonials.md).
 
 ### Jump to    
-<div id="SelectSpecies" class="btn">
-  <a href="templates_and_atlases_macaque">Macaque</a>    
-  <a href="templates_and_atlases_marmoset">Marmoset</a>
-</div>
+<a href="templates_and_atlases_macaque.md"><img border="0" alt="W3Schools" src="images/macaque_icon.png" width="100"></a>
+<a href="templates_and_atlases_marmoset.md"><img border="0" alt="W3Schools" src="images/marmoset_icon.png" width="100"></a>
