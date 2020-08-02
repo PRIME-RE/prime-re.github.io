@@ -46,14 +46,12 @@ window.onclick = function(event) {
 
 [<< Back to main templates & atlases page](templates_and_atlases.md)
 
-<br>  
 
 ## Overview       
 - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)        
 - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)   
 - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
 
-<br>     
 
 ## Details
 
