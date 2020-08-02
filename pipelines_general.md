@@ -42,7 +42,7 @@ window.onclick = function(event) {
 
 
 <!-- Start normal content here -->
-# General tools
+# General analysis
 
 ## Overview
 - [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
