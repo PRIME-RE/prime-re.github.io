@@ -15,7 +15,7 @@
     <a href="pipelines_general">General</a>
     <a href="pipelines_structural">Structural</a>
   </div>
-</div></center
+</div></center>
 
 <script>
 function myFunction() {document.getElementById("myDropdown").classList.toggle("show");}
