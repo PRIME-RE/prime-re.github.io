@@ -16,14 +16,14 @@ A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/){:target="_blank"}
 The PRIME-RE collection of resources is organized in several categories. If you feel like something is missing or erroneously categorized, don't hesitate to contact us. We make a disctinction between 'Pipelines' (custom written analysis solutions) and 'Software packages' (complete software solutions, many of which may appear in the pipelines)   
 
 - [Templates and Atlases](templates_and_atlases.md)
-- [Pipelines](pipelines.md)
-    - [General](pipelines_general.md)       
-    - [Structural](pipelines_structural.md)
-    - [fMRI](pipelines_fmri.md)
-    - [Diffusion](pipelines_diffusion.md)      
+- Pipelines
+    - [General analysis](pipelines_general.md)       
+    - [Structural analysis](pipelines_structural.md)
+    - [Functional analysis](pipelines_fmri.md)
+    - [Diffusion analysis](pipelines_diffusion.md)      
 - [Data sharing](data_sharing.md)
 - [Software packages](software_packages.md)
-- [Other tutorials & resources](tutorials_community.md)
+- [Hardware & protocols](hardware.md)
 
 ### Contact & Collaborate     
 This website is intended to be a meeting place for the NHP neuroimaging community. You can find some of the latest tools, methods, and data repositories here, but we hope you will also find international colleagues here, discover mutual interests and start new collaborations. Get in contact with people through the following communication channels:    
