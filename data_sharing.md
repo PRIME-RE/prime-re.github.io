@@ -49,7 +49,6 @@ window.onclick = function(event) {
 - [Openneuro.org](data_sharing.md#openneuro)      
 - [PRIME-DE](data_sharing.md#prime-de)   
 
-<br>     
 
 ## Details
 
