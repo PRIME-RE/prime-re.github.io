@@ -42,7 +42,7 @@ window.onclick = function(event) {
 
 
 <!-- Start normal content here -->
-# fMRI
+# Functional analysis
 
 ## Overview
 - [afni_proc.py](pipelines_fmri.md#afni_procpy)       
