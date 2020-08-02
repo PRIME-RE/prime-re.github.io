@@ -19,7 +19,7 @@
 <center><div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Select Resource Category</button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="templates_and_atlases">Template/Atlas</a>
+    <a href="templates_and_atlases">Templates & atlases</a>
     <a href="pipelines_general">General analysis</a>
     <a href="pipelines_structural">Structural analysis</a>
     <a href="pipelines_fmri">Functional analysis</a>
@@ -42,7 +42,7 @@ window.onclick = function(event) {
 
 
 <!-- Start normal content here -->
-# Macaque templates and atlases
+# Macaque templates & atlases
 
 Jump to:
 - [macaque](templates_and_atlases_macaque.md)
