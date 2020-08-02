@@ -1,5 +1,5 @@
 <head><meta name="viewport" content="width=device-width, initial-scale=1"><style>
-.dropbtn {background-color: #1e6bb8; color: white; padding: 16px; font-size: 1rem; border: none; cursor: pointer; width: 50rem}
+.dropbtn {background-color: #1e6bb8; color: white; padding: 16px; font-size: 1rem; border: none; cursor: pointer; width: 30rem}
 .dropbtn:hover, .dropbtn:focus {background-color: #2980B9;}
 .dropdown {position: relative; display: inline-block;}
 .dropdown-content {display: none; position: absolute; background-color: #f1f1f1; min-width: 100%; overflow: auto; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; text-align: center; font-size: 1rem;}
@@ -7,9 +7,9 @@
 .dropdown a:hover {background-color: #ddd;}
 .show {display: block;}
   
-.dropbtn + .dropbtn { margin-left: 1rem; }
-@media screen and (min-width: 64em) { .dropbtn { max-width: 64rem; padding: 0.75rem 1rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .dropbtn { width: 50rem; padding: 0.6rem 0.9rem; font-size: 0.9rem; } }
+.dropbtn + .dropbtn { margin-left: auto; }
+@media screen and (min-width: 64em) { .dropbtn { max-width: 64rem; width: 40rem; padding: 0.75rem 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .dropbtn { width: 30rem; padding: 0.6rem 0.9rem; font-size: 0.9rem; } }
 @media screen and (max-width: 42em) { .dropbtn { display: block; width: 20rem; padding: 0.75rem; font-size: 0.9rem; }
 .dropbtn + .dropbtn { margin-top: 1rem; margin-left: 0; } }
 </style></head>
