@@ -15,7 +15,7 @@ A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/){:target="_blank"}
 ### Resources
 The PRIME-RE collection of resources is organized in several categories. If you feel like something is missing or erroneously categorized, don't hesitate to contact us. We make a disctinction between 'Pipelines' (custom written analysis solutions) and 'Software packages' (complete software solutions, many of which may appear in the pipelines)   
 
-- [Templates and Atlases](templates_and_atlases.md)
+- [Templates & atlases](templates_and_atlases.md)
 - Pipelines
     - [General analysis](pipelines_general.md)       
     - [Structural analysis](pipelines_structural.md)
