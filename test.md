@@ -1,5 +1,5 @@
 <head><meta name="viewport" content="width=device-width, initial-scale=1"><style>
-.dropbtn {background-color: #1e6bb8; color: white; padding: 16px; font-size: 1rem; border: none; cursor: pointer; width: 150%}
+.dropbtn {background-color: #1e6bb8; color: white; padding: 16px; font-size: 1rem; border: none; cursor: pointer; width: 300px}
 .dropbtn:hover, .dropbtn:focus {background-color: #2980B9;}
 .dropdown {position: relative; display: inline-block;}
 .dropdown-content {display: none; position: absolute; background-color: #f1f1f1; min-width: 100%; overflow: auto; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; text-align: center; font-size: 1rem;}
