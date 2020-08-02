@@ -2,7 +2,7 @@
 <style>
 .dropbtn {
   background-color: #3498DB; color: white; padding: 16px; font-size: 16px;
-  border: none; cursor: pointer; width: 100%;
+  border: none; cursor: pointer; width: 42em;
 }
 
 .dropbtn:hover, .dropbtn:focus {
