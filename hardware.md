@@ -46,5 +46,14 @@ window.onclick = function(event) {
 
 NHP neuroimaging often requires specialized or custom hardware (e.g., coils, scanner insets, Head-holder, eye-tracker, etc.) and specific protocols. If you have information you think others could benefit from, we would be happy to host it. 
 
+### Hardware     
+- Blueprints or general info on NHP neuroimaging hardware will be linked here.
+
+### Protocols & Experimental design      
+- [Electrical stimulation and neuroimaging](estim.md)     
+- Optogenetic stimulation and neuroimaging    
+- Ultrasound stimulation and neuroimaging    
+- etc     
+
 Submit new content through [this issue template](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=new-resource&template=new-resource.md&title=%3CResource+Name%3E). 
 You can also join the [PRIME-RE Mattermost-channel](https://mattermost.brainhack.org/brainhack/channels/compmri_resourcehub).
