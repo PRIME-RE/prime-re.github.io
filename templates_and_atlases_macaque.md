@@ -82,14 +82,14 @@ window.onclick = function(event) {
 <a name="NMTv2.0"></a>
 ### NMT 2.0 Templates (NIMH Macaque Template - version 2.0)   
 <div class="rw-ui-container" data-title="nmt2 rating"></div>    
-**Authors**         : Adam Messinger, Benjamin Jung, Jakob Seidlitz, Paul Taylor, Daniel Glen    	             
-**Description**     : A collection of volumetric templates of the rhesus macaque created by nonlinear averaging of T1-weighted anatomical MRIs from multiple adult monkeys.  Surface files are included. The NMT 2.0 provides increased flexibility in macaque group analysis by providing symmetric and asymmetric templates. Both templates are available with an expanded, full head field of view.  The templates are available in both AC-PC orientation and in Horsley-Clarke stereotaxic orientation. Updates to the templates include:  an improved mapping of the D99 atlas, improved brain masking and normalization, and files that are defined in a common template space (NMT space), using the short data type for improved storage efficiency.                                   
-**Documentation**   : TBD     
-**Link**            : TBD    
-**Language**        : Volumetric files are in NIFTI (.nii) format, while surface files are in GIFTI (.gii) format. Scripts for processing single subjects rely on bash shell and AFNI. Some scripts also require ANTs.                        
-**Publication**     : TBD                       
-**Communication**   : Through the GitHub repo or via email to [Dr. Adam Messinger](mailto:Adam.Messinger@nih.gov)         
-**Restrictions**    : Usage requires citation of this article: TBD
+**Authors**         : Benjamin Jung, Paul A. Taylor, Jakob Seidlitz, Caleb Sponheim, Pierce Perkins, Leslie G. Ungerleider, Daniel Glen, Adam Messinger           
+**Description**     : A collection of volumetric templates of the rhesus macaque created by nonlinear averaging of T1-weighted anatomical MRIs from multiple adult monkeys. Surface files are included. The NMT 2.0 provides increased flexibility in macaque group analysis by providing symmetric and asymmetric templates. Both templates are available with an expanded, full head field of view in Horsley-Clarke stereotaxic orientation. Updates to the templates include: an improved mapping of the D99 atlas, the addition of the CHARM and SARM atlases, improved brain masking and normalization, and files that are defined in a common template space (NMT space), using the short data type for improved storage efficiency.                                   
+**Documentation**   : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/template_nmtv2.html)     
+**Link**            : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/template_nmtv2.html#download-symmetric-nmt-v2-datasets)       
+**Language**        : Volumetric files are in NIFTI (.nii) format, while surface files are in GIFTI (.gii) format. Scripts for processing single subjects rely on bash shell and AFNI.                        
+**Publication**     : [biorxiv](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)                            
+**Communication**   : Email to [Dr. Adam Messinger](Adam.Messinger@nih.gov)             
+**Restrictions**    : Usage requires citation of publication.
 
 
 
