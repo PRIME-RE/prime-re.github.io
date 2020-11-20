@@ -47,6 +47,7 @@ window.onclick = function(event) {
 NHP neuroimaging often requires specialized or custom hardware (e.g., coils, scanner insets, Head-holder, eye-tracker, etc.) and specific protocols. If you have information you think others could benefit from, we would be happy to host it. 
 
 ### Hardware     
+- [Protective post-surgical headcap](hardware_and_protocols/protective_headcap.md)  
 - Blueprints or general info on NHP neuroimaging hardware will be linked here.
 
 ### Protocols & Experimental design      
