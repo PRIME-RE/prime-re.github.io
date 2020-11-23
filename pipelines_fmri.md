@@ -59,13 +59,13 @@ window.onclick = function(event) {
 ### afni_proc.py     
 <div class="rw-ui-container" data-title="afni_proc.py rating"></div>     
 **Authors**         : Rick Reynolds, Paul Taylor, Daniel Glen, Gang Chen, Bob Cox 	             
-**Description**     : FMRI analysis pipeline tool in AFNI.  This widely used, general purpose and flexible tool for creating a full, single subject FMRI processing stream can be used for macaque analyses. This program creates fully commented, single subject processing scripts for all FMRI study designs (task, resting state, naturalistic, etc.) and for either volumetric- or surface-based analyses. The typical goal is to create volumes of aligned response magnitudes (stimulus beta weights from a GLM) to use as input for a group analysis.        
-**Documentation**   : [AFNI site](https://afni.nimh.nih.gov/pub/dist/doc/program_help/afni_proc.py.html)     
+**Description**     : FMRI analysis pipeline tool in AFNI. This widely used, general purpose and flexible tool for creating a full, single subject FMRI processing stream can be used for macaque analyses. This program creates fully commented, single subject processing scripts for all FMRI study designs (task, resting state, naturalistic, etc.) and for either volumetric- or surface-based analyses. The typical goal is to create volumes of aligned response magnitudes (stimulus beta weights from a GLM) to use as input for a group analysis.         
+**Documentation**   : [documentation](https://afni.nimh.nih.gov/pub/dist/doc/program_help/afni_proc.py.html)<br/>[tutorials](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_demos/main_toc.html)     
 **Link**            : [https://afni.nimh.nih.gov](https://afni.nimh.nih.gov/)    
 **Language**        : python, tcsh, C, AFNI                                                       
-**Publication**     : TBD        
+**Publication**     : [Cox (1996)](https://pubmed.ncbi.nlm.nih.gov/8812068/)<br/>[Jung et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)        
 **Communication**   : [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)               
-**Restrictions**    : None 
+**Restrictions**    : Please cite the above publications 
 
 
 ### C-PAC: The Configurable Pipeline for the Analysis of Connectomes    
