@@ -48,12 +48,25 @@ window.onclick = function(event) {
   
 
 ## Overview     
+- [CHARM](templates_and_atlases_macaque.md#CHARM)     
 - [D99](templates_and_atlases_macaque.md#D99)     
 - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)     
 - [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)
- 
+- [SARM](templates_and_atlases_macaque.md#SARM)
 
 ## Details
+
+<a name="CHARM"></a>
+### Cortical Hierarchy Atlas of the Rhesus Macaque (CHARM)      
+<div class="rw-ui-container" data-title="charm rating"></div>    
+**Authors**         : Benjamin Jung, Paul A. Taylor, Jakob Seidlitz, Caleb Sponheim, Pierce Perkins, Leslie G. Ungerleider, Daniel Glen, Adam Messinger    
+**Description**     : A novel anatomical parcellation of the macaque cerebral cortex, where the cortical sheet is subdivided into six-levels of increasingly fine-grained parcellation. The broadest level consists of the four cortical lobes and the finest level is based on the D99 atlas, with modifications that make the regions more robust when applied to low resolution (e.g. fMRI) data.      
+**Documentation**   : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_charm.html)        
+**Link**            : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_charm.html#download)      
+**Language**        : Volumetric files are in NIFTI (.nii) format, while surface files are in GIFTI (.gii) format.      
+**Publication**     : [Jung et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)
+**Communication**   : Email to [Dr. Adam Messinger](Adam.Messinger@nih.gov)                                       
+**Restrictions**    : Please cite the above publication                                     
 
 <a name="D99"></a>
 ### D99 Template and Atlas       
@@ -87,11 +100,21 @@ window.onclick = function(event) {
 **Documentation**   : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/template_nmtv2.html)     
 **Link**            : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/template_nmtv2.html#download-symmetric-nmt-v2-datasets)       
 **Language**        : Volumetric files are in NIFTI (.nii) format, while surface files are in GIFTI (.gii) format. Scripts for processing single subjects rely on bash shell and AFNI.                        
-**Publication**     : [biorxiv](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)                            
+**Publication**     : [Jung et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)                     
 **Communication**   : Email to [Dr. Adam Messinger](Adam.Messinger@nih.gov)             
-**Restrictions**    : Usage requires citation of publication.
+**Restrictions**    : Please cite the above publication
 
-
+<a name="SARM"></a>
+### Subcortical Atlas of the Rhesus Macaque (SARM)         
+<div class="rw-ui-container" data-title="sarm rating"></div>    
+**Authors**         : Renée Hartig, Daniel Glen, Benjamin Jung, Nikos K. Logothetis, George Paxinos, Eduardo A. Garza-Villarreal, Adam Messinger, Henry C. Evrard                  
+**Description**     : An anatomical parcellation of the entire macaque subcortex tailored for magnetic resonance imaging (MRI). The regions-of-interest (ROIs) are hierarchically organized, with grouping levels suited for both fine structural and spatially broader functional analyses. SARM aims to facilitate the identification, localization, and study of neural interactions involving subcortical regions of the brain.                        
+**Documentation**   : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html)        
+**Link**            : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html#download)     
+**Language**        : Volumetric files are in NIFTI (.nii) format, while surface files are in GIFTI (.gii) format.        
+**Publication**     : [Hartig et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1)      
+**Communication**   : Email to [Dr. Henry Evrard](mailto:henry.evrard@tuebingen.mpg.de) or [Dr. Adam Messinger](mailto:Adam.Messinger@nih.gov)                                      
+**Restrictions**    : Please cite the above publication                                      
 
 [//]: # (This script is necessary to render the rating widgets)
 [//]: # (Use this code to insert a widget)
