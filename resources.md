@@ -87,7 +87,7 @@ Resources are categorized according to the problem or task they address. You can
 - [UNet model for skull stripping and brain masks of anatomical images from PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)     
 
 ### **[Functional analysis](pipelines_fmri.md)**
-- [afni_proc.py](pipelines_fmri.md#afni_procpy)   
+- [AFNI afni_proc.py](pipelines_fmri.md#afni-afni_procpy)          
 - [C-PAC](pipelines_fmri.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NeuroElf](pipelines_general.md#neuroelf)     
