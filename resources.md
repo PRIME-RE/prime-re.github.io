@@ -50,9 +50,11 @@ Resources are categorized according to the problem or task they address. You can
 ### **[Templates & atlases](templates_and_atlases.md)**
 [Macaque](templates_and_atlases.md#macaque_atlases)
 - [Details](templates_and_atlases_macaque.md)      
+  - [CHARM](templates_and_atlases_macaque.md#CHARM)         
   - [D99](templates_and_atlases_macaque.md#D99)     
   - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)       
   - [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)       
+  - [SARM](templates_and_atlases_macaque.md#SARM)         
 - [Warps between macaque templates](templates_and_atlases.md#macaque_warps)     
   - [RheMAP](templates_and_atlases/rhemap.md)    
   
