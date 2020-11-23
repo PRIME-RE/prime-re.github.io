@@ -45,7 +45,7 @@ window.onclick = function(event) {
 # Functional analysis
 
 ## Overview
-- [afni_proc.py](pipelines_fmri.md#afni_procpy)       
+- [AFNI afni_proc.py](pipelines_fmri.md#afni-afni_procpy)       
 - [C-PAC](pipelines_fmri.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_fmri.md#mr-comparative-anatomy-toolbox-mrcat)
 - [NeuroElf](pipelines_fmri.md#neuroelf) 
@@ -56,7 +56,7 @@ window.onclick = function(event) {
 
 ## Details
 
-### afni_proc.py     
+### AFNI afni_proc.py     
 <div class="rw-ui-container" data-title="afni_proc.py rating"></div>     
 **Authors**         : Rick Reynolds, Paul Taylor, Daniel Glen, Gang Chen, Bob Cox 	             
 **Description**     : FMRI analysis pipeline tool in AFNI. This widely used, general purpose and flexible tool for creating a full, single subject FMRI processing stream can be used for macaque analyses. This program creates fully commented, single subject processing scripts for all FMRI study designs (task, resting state, naturalistic, etc.) and for either volumetric- or surface-based analyses. The typical goal is to create volumes of aligned response magnitudes (stimulus beta weights from a GLM) to use as input for a group analysis.         
