@@ -66,12 +66,13 @@ window.onclick = function(event) {
 <div class="rw-ui-container" data-title="animal_warper rating"></div>    
 **Authors**         : Daniel Glen, Paul Taylor, Adam Messinger, Benjamin Jung, Jakob Seidlitz                 
 **Description**     : Nonlinearly aligns an MRI dataset to a template. The reverse transformation can be used to produce a skullstripped (brain-only) version of the native scan, segmentation/atlas info in the native space, and surfaces for each atlas region. The computed transformations between the anatomical scan and the template is provided for use with FMRI pipeline tools like afni_proc.py.                                   
-**Documentation**   : [Online doc](https://afni.nimh.nih.gov/pub/dist/doc/program_help/@animal_warper.html)     
+**Documentation**   : [documentation](https://afni.nimh.nih.gov/pub/dist/doc/program_help/@animal_warper.html)<br/>[tutorials](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_demos/main_toc.html)     
 **Link**            : [AFNI](https://afni.nimh.nih.gov/)    
 **Language**        : tcsh, python, C, AFNI                                                                         
-**Publication**     : TBD                                                                                       
+**Publication**     : [Cox (1996)](https://pubmed.ncbi.nlm.nih.gov/8812068/)<br/>[Jung et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)                                                                   
 **Communication**   : [AFNI message board ](https://afni.nimh.nih.gov/afni/community/board/list.php?1) 
-
+**Restrictions**    : Please cite the above publications              
+       
 ### BrainBox       
 <div class="rw-ui-container" data-title="BrainBox rating"></div>    
 **Authors**         : Katja Heuer & Roberto Toro                  
@@ -86,17 +87,17 @@ window.onclick = function(event) {
 ### CIVET-macaque       
 <div class="rw-ui-container" data-title="CIVET-macaque rating"></div>    
 **Authors**         : Claude Lepage, Konrad Wagstyl, Ben Jung, Jakob Seidlitz, Caleb Sponheim, Leslie Ungerleider, Xindi Wang, Alan Evans, Adam Messinger                   
-**Description**     : Fully automated structural MRI pipeline using the NIH Macaque Template (NMT).  Performs registration, segmentation, and surface reconstruction of T1-weighted anatomical scans.  Provides quality control images and results.    
+**Description**     : Fully automated structural MRI pipeline using the NIH Macaque Template (NMT). Performs registration, segmentation, and surface reconstruction of T1-weighted anatomical scans. Provides quality control images, white matter, pial and mid cortical surfaces, and surface morphometrics including cortical thickness maps.    
 **Documentation**   : [Github](https://github.com/aces/CIVET_Full_Project)     
-**Link**            : [https://github.com/aces/CIVET_Full_Project](https://github.com/aces/CIVET_Full_Project)    
+**Link**            : [Github](https://github.com/aces/CIVET_Full_Project)    
 **Language**        : C, minc, NIFTI/GIFTI.  Binaries available on GitHub.                                          
-**Publication**     : forthcoming                                                                                       
-**Communication**   : tbd               
-**Restrictions**    : Cite the forthcoming paper          
+**Publication**     : [Lepage et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.04.237149v1)         
+**Communication**   : Email to [Dr. Adam Messinger](mailto:Adam.Messinger@nih.gov) or [Github](https://github.com/aces/CIVET_Full_Project/issues)                     
+**Restrictions**    : Please cite the above publication          
 
 ### C-PAC: The Configurable Pipeline for the Analysis of Connectomes
 <div class="rw-ui-container" data-title="C-PAC rating"></div>    
-**Authors**         : Steven Giavasis, Cameron Craddock, Michael Milham                                                               
+**Authors**         : Steven Giavasis, Cameron Craddock, Michael Milham                                                         
 **Description**     : The Configurable Pipeline for the Analysis of Connectomes (C-PAC) is a configurable, open-source, Nipype-based, automated processing pipeline for resting state functional MRI (R-fMRI) data, for use by both novice and expert users. It is designed and tested for use with human data (all ages), as well as with non-human primate and rodent data.                   
 **Documentation**   : [http://fcp-indi.github.io/](http://fcp-indi.github.io/)                                      
 **Link**            : [Quick-Start](http://fcp-indi.github.io/docs/user/quick.html)               
