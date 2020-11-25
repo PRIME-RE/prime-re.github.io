@@ -45,12 +45,24 @@ window.onclick = function(event) {
 # Data sharing
 
 ## Overview     
+- [National Chimpanzee Brain Resource](templates_and_atlases_chimpanzee.md#national-chimpanzee-brain-resource)        
 - [Neurovault.org](data_sharing.md#neurovault-org)
 - [Openneuro.org](data_sharing.md#openneuro)      
 - [PRIME-DE](data_sharing.md#prime-de)   
 
 
 ## Details
+
+### National Chimpanzee Brain Resource	            
+<div class="rw-ui-container" data-title="NCBR rating"></div>    
+**Authors**         : [NCBR Team](https://www.chimpanzeebrain.org/our-team-and-partners)            
+**Description**     : The National Chimpanzee Brain Resource (NCBR) has the aim of facilitating research advancement through the collection and distribution of chimpanzee neuroimaging data and postmortem brain tissue. The NCBR also serves as a portal to access chimpanzee brain atlas tools, data repository, bibliography of publications, educational information, and links to other chimpanzee brain resources and datasets on the Internet.                         
+**Documentation**   : [NCBR](https://www.chimpanzeebrain.org)     
+**Link**            : [NCBR](https://www.chimpanzeebrain.org)    
+**Language**        : Website in English                    
+**Publication**     : [NCBR related publications](https://www.chimpanzeebrain.org/fixed-tissue-research)                     
+**Communication**   : [NCBR Team](https://www.chimpanzeebrain.org/our-team-and-partners)               
+**Restrictions**    : None indicated.     
 
 ### Neurovault.org       
 <div class="rw-ui-container" data-title="neurovault rating"></div>    
