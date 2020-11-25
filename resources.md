@@ -48,6 +48,10 @@ Resources are categorized according to the problem or task they address. You can
 
 ## Overview of resources          
 ### **[Templates & atlases](templates_and_atlases.md)**
+[Chimpanzee](templates_and_atlases_chimpanzee.md)     
+- [Details](templates_and_atlases_chimpanzee.md)    
+    - [Juna.Chimp Templates & Davi130 parcellation](templates_and_atlases_marmoset.md#juna)        
+
 [Macaque](templates_and_atlases.md#macaque_atlases)
 - [Details](templates_and_atlases_macaque.md)      
   - [CHARM](templates_and_atlases_macaque.md#CHARM)         
