@@ -4,6 +4,7 @@ Are you looking for other NHP neuroimaging researchers to discuss practical issu
 <br>
 
 - [Brainweb, an online neuroscience collaboration platform](https://brain-web.github.io/){:target="_blank"}     
+- [National Chimpanzee Brain Resource](https://www.chimpanzeebrain.org/){:target="_blank"}     
 
 
 # Publications
