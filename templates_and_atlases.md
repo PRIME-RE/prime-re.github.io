@@ -43,11 +43,10 @@ window.onclick = function(event) {
 
 <!-- Start normal content here -->
 # Templates & atlases
-### Jump to    
-<a href="https://prime-re.github.io/templates_and_atlases_macaque.html"><img border="0" alt="W3Schools" src="images/macaque_icon.png" width="120"></a>
-<a href="https://prime-re.github.io/templates_and_atlases_marmoset.html"><img border="0" alt="W3Schools" src="images/marmoset_icon.png" width="120"></a>
-
-
+### Jump to        
+- [Chimpansee](templates_and_atlases_chimpansee.md)     
+- [Macaque](templates_and_atlases_macaque.md)    
+- [Marmoset](templates_and_atlases_marmoset.md)    
 
 
 ## Details
