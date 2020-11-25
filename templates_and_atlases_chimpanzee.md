@@ -57,10 +57,10 @@ window.onclick = function(event) {
 ### Juna.Chimp Templates & Davi130 parcellation            
 <div class="rw-ui-container" data-title="junachimp rating"></div>    
 **Authors**         : Sam Vickery, William D Hopkins, Chet C Sherwood, Steven J Schapiro, Jona Fischer , Robert D Latzman, Svenja Caspers, Christian Gaser, Simon B Eickhoff, Robert Dahnke , Felix Hoffstaedter         	     
-**Description**     : We provide a chimpanzee structural T1w template, chimpanzee tissue probabilty maps (TPM), and a manual macroanatomical parcellation of the chimpanzee brain which can be interactively viewed through a web viewer. Additionaly, we supply an exemplar preprocessing pipeline using CAT12 with the required templates including a chimpanzee geodesic shooting template.                   
+**Description**     : We provide a chimpanzee structural T1w template, chimpanzee tissue probability maps (TPM), and a manual macroanatomical parcellation of the chimpanzee brain which can be interactively viewed through a web viewer. Additionally, we supply an exemplar preprocessing pipeline using CAT12 with the required templates including a chimpanzee geodesic shooting template.                   
 **Documentation**   : [GitHub](https://github.com/viko18/JunaChimp)     
 **Link**            : [http://junachimp.inm7.de](http://junachimp.inm7.de/)    
-**Language**        : Matlab           
+**Language**        : Volumetric files are in NIFTI (.nii) format, matlab                    
 **Publication**     : [Vickery et al. (2020)](https://elifesciences.org/articles/60136)                     
 **Communication**   : [email](mailto:s.vickery@fz-juelich.de) or [open an issue](issue at https://github.com/viko18/JunaChimp)           
 **Restrictions**    : Please cite our publication if you use this resource.     
