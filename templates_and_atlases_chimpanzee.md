@@ -48,8 +48,8 @@ window.onclick = function(event) {
 
 
 ## Overview       
-- [Juna.Chimp Templates & Davi130 parcellation](templates_and_atlases_chimpanzee.md#juna)        
-- [National Chimpanzee Brain Resource](templates_and_atlases_chimpanzee.md#ncbr)        
+- [Juna.Chimp Templates & Davi130 parcellation](templates_and_atlases_chimpanzee.md#junachimp-templates--davi130-parcellation)        
+- [National Chimpanzee Brain Resource](templates_and_atlases_chimpanzee.md#national-chimpanzee-brain-resource)        
 
 
 ## Details
