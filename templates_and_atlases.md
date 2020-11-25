@@ -44,7 +44,7 @@ window.onclick = function(event) {
 <!-- Start normal content here -->
 # Templates & atlases
 ### Jump to        
-- [Chimpansee](templates_and_atlases_chimpanzee.md)     
+- [Chimpanzee](templates_and_atlases_chimpanzee.md)     
 - [Macaque](templates_and_atlases_macaque.md)    
 - [Marmoset](templates_and_atlases_marmoset.md)    
 
