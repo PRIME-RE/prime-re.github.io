@@ -50,7 +50,8 @@ Resources are categorized according to the problem or task they address. You can
 ### **[Templates & atlases](templates_and_atlases.md)**
 [Chimpanzee](templates_and_atlases_chimpanzee.md)     
 - [Details](templates_and_atlases_chimpanzee.md)    
-    - [Juna.Chimp Templates & Davi130 parcellation](templates_and_atlases_marmoset.md#juna)        
+    - [Juna.Chimp Templates & Davi130 parcellation](templates_and_atlases_chimpanzee.md#juna)        
+    - [National Chimpanzee Brain Resource](templates_and_atlases_chimpanzee.md#ncbr)        
 
 [Macaque](templates_and_atlases.md#macaque_atlases)
 - [Details](templates_and_atlases_macaque.md)      
