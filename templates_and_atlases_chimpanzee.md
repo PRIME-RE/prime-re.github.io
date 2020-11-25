@@ -49,6 +49,7 @@ window.onclick = function(event) {
 
 ## Overview       
 - [Juna.Chimp Templates & Davi130 parcellation](templates_and_atlases_marmoset.md#juna)        
+- [National Chimpanzee Brain Resource](templates_and_atlases_marmoset.md#ncbr)        
 
 
 ## Details
@@ -64,6 +65,18 @@ window.onclick = function(event) {
 **Publication**     : [Vickery et al. (2020)](https://elifesciences.org/articles/60136)                     
 **Communication**   : [email](mailto:s.vickery@fz-juelich.de) or [open an issue](issue at https://github.com/viko18/JunaChimp)           
 **Restrictions**    : Please cite our publication if you use this resource.     
+
+<a name="NCBR"></a>
+### National Chimpanzee Brain Resource	            
+<div class="rw-ui-container" data-title="NCBR rating"></div>    
+**Authors**         : [NCBR Team](https://www.chimpanzeebrain.org/our-team-and-partners)            
+**Description**     : The National Chimpanzee Brain Resource (NCBR) has the aim of facilitating research advancement through the collection and distribution of chimpanzee neuroimaging data and postmortem brain tissue. The NCBR also serves as a portal to access chimpanzee brain atlas tools, data repository, bibliography of publications, educational information, and links to other chimpanzee brain resources and datasets on the Internet.                         
+**Documentation**   : [NCBR](https://www.chimpanzeebrain.org)     
+**Link**            : [NCBR](https://www.chimpanzeebrain.org)    
+**Language**        : Website in English                    
+**Publication**     : [NCBR related publications](https://www.chimpanzeebrain.org/fixed-tissue-research)                     
+**Communication**   : [NCBR Team](https://www.chimpanzeebrain.org/our-team-and-partners)               
+**Restrictions**    : None indicated.     
 
 
 
