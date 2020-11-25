@@ -7,5 +7,5 @@ Numerous other websites also offer nice collections of tutorials (neuroimaging, 
 <br>
 
 - [learn-neuroimaging.github.io/tutorials-and-resources/](https://learn-neuroimaging.github.io/tutorials-and-resources/){:target="_blank"}
-
+- [National Chimpanzee Brain Resource](https://www.chimpanzeebrain.org/){:target="_blank"}  
 
