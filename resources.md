@@ -115,3 +115,4 @@ Resources are categorized according to the problem or task they address. You can
 
 
 ### **[Hardware & protocols](hardware.md)**
+- [Protective post-surgical headcap](hardware_and_protocols/protective_headcap.md)  
