@@ -19,14 +19,14 @@
 <center><div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Select Resource Category</button>
   <div id="myDropdown" class="dropdown-content">
-    <a href="templates_and_atlases">Template/Atlas</a>
-    <a href="pipelines_general">General analysis</a>
-    <a href="pipelines_structural">Structural analysis</a>
-    <a href="pipelines_fmri">Functional analysis</a>
-    <a href="pipelines_diffusion">Diffusion analysis</a>
-    <a href="data_sharing">Data sharing</a>
-    <a href="software_packages">Software packages</a>
-    <a href="hardware">Hardware & protocols</a>
+    <a href="https://prime-re.github.io/templates_and_atlases">Template/Atlas</a>
+    <a href="https://prime-re.github.io/pipelines_general">General analysis</a>
+    <a href="https://prime-re.github.io/pipelines_structural">Structural analysis</a>
+    <a href="https://prime-re.github.io/pipelines_fmri">Functional analysis</a>
+    <a href="https://prime-re.github.io/pipelines_diffusion">Diffusion analysis</a>
+    <a href="https://prime-re.github.io/data_sharing">Data sharing</a>
+    <a href="https://prime-re.github.io/software_packages">Software packages</a>
+    <a href="https://prime-re.github.io/hardware">Hardware & protocols</a>
   </div>
 </div></center>
 
