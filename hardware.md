@@ -50,8 +50,9 @@ NHP neuroimaging often requires specialized or custom hardware (e.g., coils, sca
 - [Protective post-surgical headcap](hardware_and_protocols/protective_headcap.md)  
 - Blueprints or general info on NHP neuroimaging hardware will be linked here.
 
-### Protocols & Experimental design      
-- [Electrical stimulation and neuroimaging](estim.md)     
+### Protocols & Experimental design     
+- [MR-based diagnostic monitoring](hardware_and_protocols/prime-mrm.md)     
+- [Electrical stimulation and neuroimaging](hardware_and_protocols/estim.md)     
 - Optogenetic stimulation and neuroimaging    
 - Ultrasound stimulation and neuroimaging    
 - etc     
