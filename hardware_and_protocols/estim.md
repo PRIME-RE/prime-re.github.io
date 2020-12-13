@@ -49,7 +49,7 @@ Some intitial information:
 
 ### Electrical stimulation and neuroimaging: humans and macaques         
 <div class="rw-ui-container" data-title="estim_humanmacaque rating"></div>     
-**Authors**         : F Rocchi**, H Oya**, F Balezeau, AJ Billig, Z Kocsis, RL Jenison, KV Nourski, CK Kovach, M Steinschneider, Y Kikuchi, AE Rhone, BJ Dlouhy, H Kawasaki, R Adolphs, JDW Greenlee, TD Griffiths, MA Howard III, CI Petkov 	             
+**Authors**         : F Rocchi\*, H Oya\*, F Balezeau, AJ Billig, Z Kocsis, RL Jenison, KV Nourski, CK Kovach, M Steinschneider, Y Kikuchi, AE Rhone, BJ Dlouhy, H Kawasaki, R Adolphs, JDW Greenlee, TD Griffiths, MA Howard III, CI Petkov 	             
 **Description**     : Comparative human and monkey combined electrical stimulation and fMRI.                 
 **Documentation**   : Common Fronto-temporal Effective Connectivity in Humans and Monkeys: This paper and resource establishes a comparative es-fMRI resource in human neurosurgery patients and monkeys. The work also establishes considerable correspondence between fronto-temporal auditory cognitive systems involving ventro-lateral prefrontal cortex and the hippocampus. The data in monkeys are shared via [PRIME-DE](https://fcon_1000.projects.nitrc.org/indi/indiPRIME.html) and the human data via [OpenNeuro](https://openneuro.org/). The data are also available in the [Open Science Framework](https://osf.io/arqp8). Human datasets also include the electrical tractography data.     
 **Link**            : [OSF](https://osf.io/arqp8;)    
