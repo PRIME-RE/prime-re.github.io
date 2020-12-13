@@ -45,7 +45,7 @@ window.onclick = function(event) {
 # Electrical stimulation and neuroimaging    
 We are currently working on a paper on the combination of brain perturbation approaches and neuroimaging in NHP and will update these papers with collected information later.
 
-Some intitial information:
+Some additional information:
 
 ### Electrical stimulation and neuroimaging: humans and macaques         
 <div class="rw-ui-container" data-title="estim_humanmacaque rating"></div>     
