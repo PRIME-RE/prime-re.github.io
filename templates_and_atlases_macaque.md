@@ -71,14 +71,14 @@ window.onclick = function(event) {
 <a name="D99"></a>
 ### D99 Template and Atlas       
 <div class="rw-ui-container" data-title="d99 rating"></div>    
-**Authors**         : Saleem KS, Reveley C, Gruslys A, Ye FQ, Glen D, Samaha J, Russ BE, Saad Z, Seth AK, Leopold DA	     
+**Authors**         : Reveley C, Gruslys A, Ye FQ, Glen D, Samaha J, Russ BE, Saad Z, Seth AK, Leopold DA, & Saleem KS	     
 **Description**     : Digital version of the Saleem and Logothetis atlas with a newer, higher quality D99 surrogate MRI template. Integrated into AFNI/SUMA software.                                         
 **Documentation**   : [AFNI site](https://afni.nimh.nih.gov/Macaque)     
 **Link**            : [https://afni.nimh.nih.gov/pub/dist/atlases/macaque](https://afni.nimh.nih.gov/pub/dist/atlases/macaque/)    
 **Language**        : NIFTI format     
-**Publication**     : [Reveley et al. (2016)](https://doi.org/10.1093/cercor/bhw248)                     
-**Communication**   : [email](mailto:kadharbatcha.saleem.ctr@usuhs.edu), [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)    
-**Restrictions**    : None
+**Publication**     : [Reveley et al. (2017)](https://doi.org/10.1093/cercor/bhw248)                     
+**Communication**   : [email K. Saleem](mailto:kadharbatcha.saleem.ctr@usuhs.edu), [email D. Glen](mailto:glend@mail.nih.gov), [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)    
+**Restrictions**    : Please cite the above publication. The original cortical and subcortical parcellations on the atlas should not be modified without prior consent from the authors.    
 
 <a name="NMTv1.3"></a>
 ### NMT v1.3 (NIMH Macaque Template - version 1.3)       
