@@ -42,37 +42,26 @@ window.onclick = function(event) {
 
 
 
-<!-- Start normal content here -->  
-# Diffusion analysis
+<!-- Start normal content here -->
+# Cross-species analysis
 
 ## Overview
-- [Diffusion-MRI by Rakshit](pipelines_diffusion.md#diffusion-mri-by-rakshit) 
-- [MR Comparative Anatomy Toolbox (MrCat)](pipelines_diffusion.md#mr-comparative-anatomy-toolbox-mrcat)
-
+- [Cross-species alignment](pipelines_cross-species.md#cross-species-alignment) 
+     
 
 ## Details
 
-### Diffusion-MRI by Rakshit     
-<div class="rw-ui-container" data-title="Rakshit rating"></div>     
-**Authors**         : Rakshit Dadarwal                                                                             
-**Description**     : These Jupyter notebooks showcase  an example of diffusion MRI preprocessing and analysis with python. They include steps for basic preprocessing (denoising, susceptibility-induced distortion correction, eddy current-induced distortion and motion correction), model fitting (DTI, DKI, NODDI) and calculation of parametric maps. These steps use functions from [DIPY](https://dipy.org/), [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/), and [AMICO](https://github.com/daducci/AMICO).                  
-**Documentation**   : [Jupyter notebooks on GitHub](https://github.com/RDadarwal/Diffusion-MRI)                                     
-**Link**            : [GitHub link](https://github.com/RDadarwal/Diffusion-MRI)         
-**Language**        : Python                                                  
-**Publication**     : -                                                                                       
-**Communication**   : [GitHub profile](https://github.com/RDadarwal)                                            
-**Restrictions**    : None                                                                                      
-
-### MR Comparative Anatomy Toolbox (MrCat)   
-<div class="rw-ui-container" data-title="MrCat rating"></div>    
-**Authors**         : Rogier B. Mars, Lennart Verhagen, and the members and collaborators of the Cognitive Neuroecology Lab	             
-**Description**     : A collection of tools for processing of multi-species neuroimaging data.                               
-**Documentation**   : [Online doc](http://www.neuroecologylab.org)     
-**Link**            : [www.neuroecologylab.org](http://www.neuroecologylab.org)    
-**Language**        : shell, matlab                                                                                  
-**Publication**     : [Mars et al. 2016](http://www.rbmars.dds.nl/pubs/Mars2016NBR.pdf), among others                        
-**Communication**   : [www.neuroecologylab.org](http://www.neuroecologylab.org)                                           
-**Restrictions**    : None  
+### Cross-species alignment
+<div class="rw-ui-container" data-title="cross-species-alignment rating"></div>    
+**Authors**         : Ting Xu, Karl-Heinz Nenning                                                       
+**Description**     : This repo includes 1) landmarks for the macaque-human alignment, 2) functional phylogenetic map (functional connectivity homology index) between macaque and human, 3) evolutional surface area expansion (macaque-to-human), 4) cross-species parcellations (human-to-macaque: Glasser2016, Yeo2011, Broadmann parcellations on the macaque surfaces; macaque-to-human: Markov2014 and Broadmann parcellations on human HCP surface, and 5) human (Human Connectome Project [HCP]) and macaque (MacaqueYerkes19) surfaces.                   
+**Documentation**   : [https://github.com/TingsterX/alignment_macaque-human](https://github.com/TingsterX/alignment_macaque-human)                  
+**Link**            : [https://github.com/TingsterX/alignment_macaque-human](https://github.com/TingsterX/alignment_macaque-human)                    
+**Language**        : shell, workbench                                                  
+**Publication**     : [Xu, Nenning et al., 2020](https://www.sciencedirect.com/science/article/pii/S1053811920308326)         
+**Communication**   :  [GitHub profile](https://github.com/TingsterX) or [email](mailto:ting.xu@childmind.org)                                             
+**Restrictions**    : Please cite the above publication and the github repo            
+   
 
 
 

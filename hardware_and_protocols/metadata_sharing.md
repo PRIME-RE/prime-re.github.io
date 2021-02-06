@@ -24,6 +24,7 @@
     <a href="https://prime-re.github.io/pipelines_structural">Structural analysis</a>
     <a href="https://prime-re.github.io/pipelines_fmri">Functional analysis</a>
     <a href="https://prime-re.github.io/pipelines_diffusion">Diffusion analysis</a>
+    <a href="https://prime-re.github.io/pipelines_cross-species">Cross-species analysis</a>
     <a href="https://prime-re.github.io/data_sharing">Data sharing</a>
     <a href="https://prime-re.github.io/software_packages">Software packages</a>
     <a href="https://prime-re.github.io/hardware">Hardware & protocols</a>

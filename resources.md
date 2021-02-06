@@ -24,6 +24,7 @@
     <a href="pipelines_structural">Structural analysis</a>
     <a href="pipelines_fmri">Functional analysis</a>
     <a href="pipelines_diffusion">Diffusion analysis</a>
+    <a href="pipelines_cross-species">Cross-species analysis</a>
     <a href="data_sharing">Data sharing</a>
     <a href="software_packages">Software packages</a>
     <a href="hardware">Hardware & protocols</a>
