@@ -105,6 +105,8 @@ Resources are categorized according to the problem or task they address. You can
 - [Diffusion-MRI by Rakshit](pipelines_diffusion.md#diffusion-mri-by-rakshit) 
 - [MR Comparative Anatomy Toolbox (MrCat)](pipelines_diffusion.md#mr-comparative-anatomy-toolbox-mrcat)
 
+### **[Cross-species analysis](pipelines_cross-species.md)**
+- [Cross-species alignment](pipelines_cross-species.md#cross-species-alignment)          
 
 ### **[Data sharing](data_sharing.md)**       
 - [Neurovault](data_sharing.md#neurovault) 
