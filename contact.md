@@ -4,7 +4,8 @@ This website is intended to be a meeting place for the NHP neuroimaging communit
 
 - [Contact the people behind PRIME-RE](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:&nbsp;%3Ctopic%3E).    
 - [Suggest a new feature or pitch an idea on PRIME-RE's github back-end](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Idea&template=new-ideas.md&title=%5BIdea%5D).           
-- [Start a Question or Discussion issue on PRIME-RE's github back-end](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=QuestionOrDiscussion&template=question-and-discussion.md&title=%5BQuestionOrDiscussion%5D).        
+- [Start a Question or Discussion issue on PRIME-RE's github back-end](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=QuestionOrDiscussion&template=question-and-discussion.md&title=%5BQuestionOrDiscussion%5D).    
+- [Check the open Issues and Discussions on PRIME-RE's GitHub backend](https://github.com/PRIME-RE/prime-re.github.io/issues).   
 - [Contact NHP-MRI researchers through a google-group mailing list](https://groups.google.com/forum/#!forum/nhp-mri){:target="_blank"}.   
 - [Contact the broader neuroscience community at **neurostars.org**](https://neurostars.org/){:target="_blank"}. Tag your new thread with **prime-re** and/or the name of the resource you are asking about for optimal visibility.
 - [Join the converstation in the PRIME-RE Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/prime-re){:target="_blank"}     
