@@ -1,5 +1,5 @@
 # PRIME-RE wiki     
-The [PRIME-RE wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/){:target="_blank"} contains valuable information about performing MRI research with NHPs. IT is not intended as the definitive manual, but rather as a brief primer that can be dynamically updated by the NHP neuroimaging community.
+The [PRIME-RE wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/){:target="_blank"} contains valuable information about performing MRI research with NHPs. It is not intended as the definitive manual, but rather as a brief primer that can be dynamically updated by the NHP neuroimaging community. Feel free to add to it or make changes. You can also discuss what you would like to add if you do not want to dive straight in. Check the 'contribute' or 'contact' buttons for options.
 
 
 # Other tutorials & resources
