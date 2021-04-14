@@ -7,6 +7,8 @@ Numerous other websites also offer nice collections of tutorials (neuroimaging, 
 <br>
 
 - AFNI [Tutorials](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/main_toc.html) and [Bootcamps](https://www.youtube.com/channel/UC40RiNZN7_dCuB6Lg7HJl1g)      
+- FSL [Course material](https://fsl.fmrib.ox.ac.uk/fslcourse/)    
+- SPM [Course material](https://www.fil.ion.ucl.ac.uk/spm/course/)    
 - [Hitchhacker's guide to the brain](https://learn-neuroimaging.github.io/hitchhackers_guide_brain/){:target="_blank"}
 - [National Chimpanzee Brain Resource](https://www.chimpanzeebrain.org/){:target="_blank"}  
 
