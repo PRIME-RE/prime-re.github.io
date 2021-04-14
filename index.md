@@ -1,5 +1,3 @@
-[<img src="/images/PRIME-DRE_GCW2021.png" height="300">](GCW2021.md){:target="_blank"}       
-
 # PRIME-RE
 Welcome to the PRIMatE Resource Exchange (PRIME-RE), a community-driven resource exchange platform for non-human primate neuroimaging. Read more about this initiative in the [accompanying *NeuroImage* publication](https://doi.org/10.1016/j.neuroimage.2020.117519) and please consider citing the paper if this resource has been useful.
 
