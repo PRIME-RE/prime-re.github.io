@@ -49,7 +49,7 @@ window.onclick = function(event) {
 Sharing and pooling large amounts of non-human primate neuroimaging data offer new exciting opportunities to understand the primate brain. The potential of big data in non-human primate neuroimaging could however be tremendously enhanced by combining such neuroimaging data with other types of information. Here we describe metadata that have been identified as particularly valuable by the non-human primate neuroimaging community, including behavioural, genetic, physiological and phylogenetic data.
 
 
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811920311642-gr2.jpg" alt="nhpbids" width="600"/>
+<img src="https://github.com/PRIME-RE/prime-re.github.io/blob/master/images/nhpbids.jpg" alt="nhpbids" width="600"/>
 
 
 ### Reference & link
