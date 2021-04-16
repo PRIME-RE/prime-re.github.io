@@ -118,6 +118,7 @@ Resources are categorized according to the problem or task they address. You can
 
 
 ### **[Hardware & protocols](hardware.md)**
+- [Metadata sharing](hardware_and_protocols/metadata_sharing.md)  
 - [Protective post-surgical headcap](hardware_and_protocols/protective_headcap.md)  
 - [MR-based diagnostic monitoring](hardware_and_protocols/prime-mrm.md)     
 - [Electrical stimulation and neuroimaging](hardware_and_protocols/estim.md)    
