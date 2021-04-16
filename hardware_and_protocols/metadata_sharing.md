@@ -48,7 +48,7 @@ window.onclick = function(event) {
 ### Description
 Sharing and pooling large amounts of non-human primate neuroimaging data offer new exciting opportunities to understand the primate brain. The potential of big data in non-human primate neuroimaging could however be tremendously enhanced by combining such neuroimaging data with other types of information. Here we describe metadata that have been identified as particularly valuable by the non-human primate neuroimaging community, including behavioural, genetic, physiological and phylogenetic data.
 
-![image](/images/nhpbids_lrg.jpg)
+![image](/images/nhpbids.png)
 
 ### Reference & link
 Poirier, C. et al. Beyond MRI: on the scientific value of combining non-human primate neuroimaging with metadata. *Neuroimage* 117679 (2021) [doi:10.1016/j.neuroimage.2020.117679](https://doi.org/10.1016/j.neuroimage.2020.117679).
