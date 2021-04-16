@@ -52,6 +52,7 @@ NHP neuroimaging often requires specialized or custom hardware (e.g., coils, sca
 - Blueprints or general info on NHP neuroimaging hardware will be linked here.
 
 ### Protocols & Experimental design     
+- [Metadata sharing](hardware_and_protocols/metadata_sharing.md)     
 - [MR-based diagnostic monitoring](hardware_and_protocols/prime-mrm.md)     
 - [Electrical stimulation and neuroimaging](hardware_and_protocols/estim.md)     
 - Optogenetic stimulation and neuroimaging    
