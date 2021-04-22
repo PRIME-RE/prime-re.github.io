@@ -55,7 +55,7 @@ Many PRIME-DRE affiliates have contributed to a special issue of [NeuroImage](ht
 				
 ### Ultra-high field imaging				
 - Yacoub, E., Grier, M.D., Auerbach, E.J., Lagore, R.L., Harel, N., Adriany, G., Zilverstand, A., Hayden, B.Y., Heilbronner, S.R., Uğurbil, K., & Zimmermann, J. (2021). [Ultra-high field (10.5 T) resting state fMRI in the macaque.](https://www.sciencedirect.com/science/article/pii/S1053811920308351) *Neuroimage*      
-- Han, M.J., Park C.U., Kang, S., Kim, B., Nikolaidis, A., Milham, M.P., Hong, S.J., Kim, S.G., Baeg, E. (pending) Mapping functional gradients of the striatal circuit using simultaneous microelectric stimulation and ultrahigh-field fMRI in non-human primates    
+- Han, M.J., Park C.U., Kang, S., Kim, B., Nikolaidis, A., Milham, M.P., Hong, S.J., Kim, S.G., Baeg, E. (2021). [Mapping functional gradients of the striatal circuit using simultaneous microelectric stimulation and ultrahigh-field fMRI in non-human primates.](https://www.sciencedirect.com/science/article/pii/S1053811921003542?via%3Dihub) *Neuroimage*     
 				
 ### Discovery papers				
 - Ortiz-Rios, M., Balezeau, F., Haag, M., Kaiser, M., Schmid, M.C.	(2021). [Dynamic reconfiguration of macaque brain networks during free-viewing of natural scenes.](https://biorxiv.org/cgi/content/short/2021.04.16.439433v1) *biorXiv*     
