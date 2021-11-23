@@ -11,6 +11,7 @@ Are you looking for other NHP neuroimaging researchers to discuss practical issu
 # Publications
 
 You can read about the [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html) and [PRIME-RE](https://prime-re.github.io/) inititatives here:     
+- PRIME-DRE Consortium (2021). [Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging](https://www.sciencedirect.com/science/article/abs/pii/S0896627321007832){:target="_blank"}. *Neuron*, in press.
 - Messinger A., Sirmpilatze N., Heuer K., Loh K-K, Mars R.B., Sein J., Xu T., Glen D., Jung B., Seidlitz J., Taylor P., Toro R., Garza-Villarreal E.A., Sponheim C., Wang X., Benn R.A., Cagna B., Dadarwal R., Evrardt H.C., Garcia-Saldivarp P., Giavasis S., Hartig R., Lepage C., Liu C., Majka P., Merchant H., Milham M.P., Rosa M.G.P., Tasserie J., Uhrig L., Margulies D.S., & Klink P.C. (2021). [A collaborative resource platform for non-human primate neuroimaging](https://doi.org/10.1016/j.neuroimage.2020.117519){:target="_blank"}. *NeuroImage*.     
 - PRIME-DE Consortium (2020). [Accelerating the Evolution of Nonhuman Primate Neuroimaging](https://doi.org/10.1016/j.neuron.2019.12.023){:target="_blank"}. *Neuron 105*(4), 600-603.
 - Milham M.P, et al. (2018). [An Open Resource for Non-human Primate Imaging](https://doi.org/10.1016/j.neuron.2018.08.039){:target="_blank"}. *Neuron 100*(1), 61-74.e2.     
