@@ -1,4 +1,4 @@
-# Contact           
+# Contact & collaborate           
 
 This website is intended to be a meeting place for the NHP neuroimaging community. We hope you can find international colleagues here, discover mutual interests and start new collaborations. Get in contact with people through the following communication channels:
 
