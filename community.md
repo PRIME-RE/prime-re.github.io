@@ -3,6 +3,11 @@
 Are you looking for other NHP neuroimaging researchers to discuss practical issues, brainstorm about new research ideas, build a network, or find collaborators? You can use one of our [contact options](contact.md) or explore a community-driven initiative from the list below. If you think we should add something to this list, [let us know](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:%C2%A0%3Ctopic%3E).
 <br>
 
+- [Start a discussion on the PRIME-RE Discussions site](https://github.com/PRIME-RE/prime-re.github.io/discussions){:target="_blank"}.             
+- [Contact NHP-MRI researchers through a google-group mailing list](https://groups.google.com/forum/#!forum/nhp-mri){:target="_blank"}.   
+- [Join the converstation in the PRIME-RE Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/prime-re){:target="_blank"}     
+      
+
 - [Brainweb, an online neuroscience collaboration platform](https://brain-web.github.io/){:target="_blank"}     
 - [National Chimpanzee Brain Resource](https://www.chimpanzeebrain.org/){:target="_blank"}     
 - [The Brainhack Organization](https://brainhack.org/){:target="_blank"}      
