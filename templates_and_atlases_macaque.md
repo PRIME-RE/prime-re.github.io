@@ -72,7 +72,7 @@ window.onclick = function(event) {
 <a name="D99"></a>
 ### D99 Template and Atlas (v1, v2)      
 <div class="rw-ui-container" data-title="d99 rating"></div>    
-**Authors**         : Reveley C, Gruslys A, Ye FQ, Glen D, Samaha J, Russ BE, Saad Z, Seth AK, Leopold DA, & Saleem KS	     
+**Authors**         : [v1] Reveley C, Gruslys A, Ye FQ, Glen D, Samaha J, Russ BE, Saad Z, Seth AK, Leopold DA, & Saleem KS' [v2] Saleemae KS, Avrama AV, Glen D, Yen CC, Ye FQ, Komlosh M, Basser PJ.     
 **Description**     : Digital version of the Saleem and Logothetis atlas with a newer, higher quality D99 surrogate MRI template. Integrated into AFNI/SUMA software.                                         
 **Documentation**   : [AFNI site](https://afni.nimh.nih.gov/Macaque)     
 **Link**            : [v1](https://afni.nimh.nih.gov/pub/dist/atlases/macaque/), [v2](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_d99v2.html)   
