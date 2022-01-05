@@ -50,7 +50,7 @@ window.onclick = function(event) {
 
 ## Overview     
 - [CHARM](templates_and_atlases_macaque.md#CHARM)     
-- [D99](templates_and_atlases_macaque.md#D99)     
+- [D99 (v1, v2)](templates_and_atlases_macaque.md#D99)     
 - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)     
 - [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)
 - [SARM](templates_and_atlases_macaque.md#SARM)
@@ -70,16 +70,16 @@ window.onclick = function(event) {
 **Restrictions**    : Please cite the above publication                                     
 
 <a name="D99"></a>
-### D99 Template and Atlas       
+### D99 Template and Atlas (v1, v2)      
 <div class="rw-ui-container" data-title="d99 rating"></div>    
 **Authors**         : Reveley C, Gruslys A, Ye FQ, Glen D, Samaha J, Russ BE, Saad Z, Seth AK, Leopold DA, & Saleem KS	     
 **Description**     : Digital version of the Saleem and Logothetis atlas with a newer, higher quality D99 surrogate MRI template. Integrated into AFNI/SUMA software.                                         
 **Documentation**   : [AFNI site](https://afni.nimh.nih.gov/Macaque)     
-**Link**            : [https://afni.nimh.nih.gov/pub/dist/atlases/macaque](https://afni.nimh.nih.gov/pub/dist/atlases/macaque/)    
+**Link**            : [v1](https://afni.nimh.nih.gov/pub/dist/atlases/macaque/), [v2](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_d99v2.html)   
 **Language**        : NIFTI format     
-**Publication**     : [Reveley et al. (2017)](https://doi.org/10.1093/cercor/bhw248)                     
+**Publication**     : [v1: Reveley et al. (2017)](https://doi.org/10.1093/cercor/bhw248), [v2: Saleem et al. (2021)](https://doi.org/10.1016/j.neuroimage.2021.118759)                     
 **Communication**   : [email K. Saleem](mailto:kadharbatcha.saleem.ctr@usuhs.edu), [email D. Glen](mailto:glend@mail.nih.gov), [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)    
-**Restrictions**    : Please cite the above publication. The original cortical and subcortical parcellations on the atlas should not be modified without prior consent from the authors.    
+**Restrictions**    : Please cite the relevant publication listed above. The original cortical and subcortical parcellations on the atlas should not be modified without prior consent from the authors.    
 
 <a name="NMTv1.3"></a>
 ### NMT v1.3 (NIMH Macaque Template - version 1.3)       
