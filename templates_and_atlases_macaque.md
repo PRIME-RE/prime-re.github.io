@@ -50,7 +50,8 @@ window.onclick = function(event) {
 
 ## Overview     
 - [CHARM](templates_and_atlases_macaque.md#CHARM)     
-- [D99 (v1, v2)](templates_and_atlases_macaque.md#D99)     
+- [D99 v1](templates_and_atlases_macaque.md#D99v1)     
+- [D99 v2](templates_and_atlases_macaque.md#D99v2)  
 - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)     
 - [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)
 - [SARM](templates_and_atlases_macaque.md#SARM)
@@ -69,17 +70,29 @@ window.onclick = function(event) {
 **Communication**   : Email to [Dr. Adam Messinger](Adam.Messinger@nih.gov)                                       
 **Restrictions**    : Please cite the above publication                                     
 
-<a name="D99"></a>
-### D99 Template and Atlas (v1, v2)      
+<a name="D99v1"></a>
+### D99 Template and Atlas v1 (NB! surpassed by v2 below)      
 <div class="rw-ui-container" data-title="d99 rating"></div>    
-**Authors**         : [v1] Reveley C, Gruslys A, Ye FQ, Glen D, Samaha J, Russ BE, Saad Z, Seth AK, Leopold DA, & Saleem KS, [v2] Saleem KS, Avram AV, Glen D, Yen CC, Ye FQ, Komlosh M, Basser PJ.     
-**Description**     : Digital version of the Saleem and Logothetis atlas with a newer, higher quality D99 surrogate MRI template. Integrated into AFNI/SUMA software.                                         
+**Authors**         : Reveley C, Gruslys A, Ye FQ, Glen D, Samaha J, Russ BE, Saad Z, Seth AK, Leopold DA, & Saleem KS.     
+**Description**     : Digital version of the Saleem and Logothetis atlas with a newer, higher quality D99 surrogate MRI template. Integrated into AFNI/SUMA software.               
 **Documentation**   : [AFNI site](https://afni.nimh.nih.gov/Macaque)     
-**Link**            : [v1](https://afni.nimh.nih.gov/pub/dist/atlases/macaque/), [v2](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_d99v2.html)   
+**Link**            : [D99 v1](https://afni.nimh.nih.gov/pub/dist/atlases/macaque/)             
 **Language**        : NIFTI format     
-**Publication**     : [v1: Reveley et al. (2017)](https://doi.org/10.1093/cercor/bhw248), [v2: Saleem et al. (2021)](https://doi.org/10.1016/j.neuroimage.2021.118759)                     
+**Publication**     : [Reveley et al. (2017)](https://doi.org/10.1093/cercor/bhw248)        
 **Communication**   : [email K. Saleem](mailto:kadharbatcha.saleem.ctr@usuhs.edu), [email D. Glen](mailto:glend@mail.nih.gov), [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)    
-**Restrictions**    : Please cite the relevant publication listed above. The original cortical and subcortical parcellations on the atlas should not be modified without prior consent from the authors.    
+**Restrictions**    : Please cite the publication above. The original cortical and subcortical parcellations on the atlas should not be modified without prior consent from the authors.    
+  
+<a name="D99v2"></a>
+### D99 Template and Atlas v2      
+<div class="rw-ui-container" data-title="d99v2 rating"></div>    
+**Authors**         : Saleem KS, Avram AV, Glen D, Yen CC, Ye FQ, Komlosh M, Basser PJ.     
+**Description**     : Digital version of the Saleem and Logothetis atlas with a newer, higher quality D99 surrogate MRI template. Integrated into AFNI/SUMA software.             
+**Documentation**   : [AFNI site](https://afni.nimh.nih.gov/Macaque)     
+**Link**            : [D99 v2](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_d99v2.html)   
+**Language**        : NIFTI format     
+**Publication**     : [Saleem et al. (2021)](https://doi.org/10.1016/j.neuroimage.2021.118759)                     
+**Communication**   : [email K. Saleem](mailto:kadharbatcha.saleem.ctr@usuhs.edu), [email D. Glen](mailto:glend@mail.nih.gov), [AFNI message board](https://afni.nimh.nih.gov/afni/community/board/list.php?1)    
+**Restrictions**    : Please cite the publication above. The original cortical and subcortical parcellations on the atlas should not be modified without prior consent from the authors.    
 
 <a name="NMTv1.3"></a>
 ### NMT v1.3 (NIMH Macaque Template - version 1.3)       
