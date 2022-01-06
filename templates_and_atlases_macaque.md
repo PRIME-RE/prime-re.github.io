@@ -87,7 +87,7 @@ window.onclick = function(event) {
 <div class="rw-ui-container" data-title="d99v2 rating"></div>    
 **Authors**         : Saleem KS, Avram AV, Glen D, Yen CC, Ye FQ, Komlosh M, Basser PJ.     
 **Description**     : D99 Atlas v2.0: a macaque template and cortical and subcortical atlas. A comprehensive, MRI-histology based atlas of the Rhesus macaque monkey brain with segmentation of both cortical and subcortical areas in one 3D volume.             
-**Documentation**   : [AFNI site](https://afni.nimh.nih.gov/Macaque)     
+**Documentation**   : [AFNI site](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_d99v2.html)     
 **Link**            : [D99 v2](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_d99v2.html)   
 **Language**        : NIFTI format     
 **Publication**     : [Saleem et al. (2021)](https://doi.org/10.1016/j.neuroimage.2021.118759)                     
