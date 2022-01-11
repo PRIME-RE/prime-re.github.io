@@ -48,7 +48,7 @@ window.onclick = function(event) {
 ### Description
 xxx    
 
-![image](/images/nhpbids.png)
+![image](/images/to_be_uploaded.png)
 
 ### Reference & link
 xxx
