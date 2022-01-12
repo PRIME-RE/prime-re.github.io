@@ -112,7 +112,7 @@ Resources are categorized according to the problem or task they address. You can
 - [Neurovault](data_sharing.md#neurovault) 
 - [Openneuro](data_sharing.md#openneuro)     
 - [PRIME-DE](data_sharing.md#prime-de)       
-- [Structural, diffusion and rs-functional MRI in Macaque Monkeys](data_sharing.md#Structural-diffusion-and-rs-functional-MRI-in-Macaque-Monkeys)
+- [Structural, diffusion and rs-functional MRI in Macaque Monkeys](data_sharing.md#structural-diffusion-and-rs-functional-mri-in-macaque-monkeys)
   
 
 
