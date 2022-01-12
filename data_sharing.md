@@ -50,6 +50,7 @@ window.onclick = function(event) {
 - [Neurovault.org](data_sharing.md#neurovault-org)
 - [Openneuro.org](data_sharing.md#openneuro)      
 - [PRIME-DE](data_sharing.md#prime-de)   
+- [Structural, diffusion and rs-functional MRI in Macaque Monkeys](data_sharing.md#Structural-diffusion-and-rs-functional-MRI-in-Macaque-Monkeys)
 
 
 ## Details
@@ -92,7 +93,17 @@ window.onclick = function(event) {
 **Publication**     : [Milham et al. (2018)](https://doi.org/10.1016/j.neuron.2018.08.039)                   
 **Communication**   : [Email](mailto:Michael.Milham@childmind.org) 
 
-
+### Structural, diffusion and rs-functional MRI in Macaque Monkeys    
+<div class="rw-ui-container" data-title="sdrsfmri rating"></div>    
+**Name**            : Structural, diffusion and rs-functional MRI in Macaque Monkeys                                             
+**Authors**         : Vanessa De Castro, Benoit Cottereau and Jean-Baptiste Durand                                                    
+**Description**     : This dataset contains unprocessed structural, diffusion and rs-functional MRI data acquired in 3 female rhesus macaques. Each monkey underwent multiple sessions. For each session they were lightly anesthetized. The animals were installed in sphinx position with their head restrained by a head-post. Whole-brain images were acquired on a 3 Tesla clinical MR scanner (Philips Achieva).                       
+**Link**            : [openneuro](https://openneuro.org/datasets/ds003989/versions/1.0.0)        
+**Publication**     : [De Castro et al. (2021)](https://doi.org/10.1093/cercor/bhaa301)     
+**Communication**   : [Email De Castro](mailto:vanessa.decastro@cnrs.fr) or [Email Durand](mailto:jbdurand@cnrs.fr)                              
+**Restrictions**    : citation required                                  
+       
+     
 [//]: # (This script is necessary to render the rating widgets)
 [//]: # (Use this code to insert a widget)
 [//]: # (<div class="rw-ui-container" data-title="test rating"></div>)
