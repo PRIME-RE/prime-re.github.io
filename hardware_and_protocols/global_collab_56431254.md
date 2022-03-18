@@ -58,7 +58,7 @@ Hartig,R., Klink, P.C., Polyakova, Z., Dehaqani, M-R.A., Bondar, I., Merchant, H
 ### Information tables     
 The folowing information tables are part of the paper and replicated here as current resource. They can be expended and corrected when additional information becomes available.    
 #### Table 1: Overview of ethical regulations for  conducting neuroscience procedures in NHPs (macaques and marmosets).     
-Table 1A. Local Committees for Animal Welfare Review        
+##### Table 1A. Local Committees for Animal Welfare Review        
   
 |Belgium    |Yes, a local animal ethics committee reviews, and provides approval for all animal protocols, including NHPs. Committee members are comprised of veterinarians, researchers, statisticians, caretakers, medical doctors, legal experts, and ethicists. Some committee members work at a university, while others are not linked to a university.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |Canada     |Yes, in most institutions each protocol is reviewed by one (institutional) or two (facility-based and institutional) committees.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -74,7 +74,7 @@ Table 1A. Local Committees for Animal Welfare Review
 |UK         |Yes, the local animal welfare and ethical review committee (AWERB) at each institution (e.g. universities, contract research organisations, and NHP breeding centre) provides an ethical evaluation of the NHP project applications and a recommendation. If the AWERB does not approve a NHP project application, the application is not forwarded to the next stage. LCs are, at minimum, comprised of a Named Veterinarian Surgeon (NVS), Named Animal Welfare and Care Officer (NACWO), a scientist involved in animal research (NHP research when relevant), Establishment Licence Holder from the institution, a secretary, and public representatives (lay persons). Between 8-12 people usually serve on an AWERB. In the UK, all project licences authorising scientific research involving animals come under the Animal (Scientific) Procedures Act, 1986 and EU Directive 2010/EU/63. The Secretary of State at the UK Home Office provides authorization of the regulated procedures carried out on animals. The project licence is a legally binding document.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |USA        |[Yes, local IACUCs are required by Public Health Service (PHS) regulations and the Animal Welfare Act (U.S. Dept. of Agriculture; USDA). IACUCs must consist of at least 5 members: One veterinarian, one practicing scientist experienced in animal research, one member whose primary concerns are non-scientific and one non-affiliated member (source: https://olaw.nih.gov/resources/tutorial/iacuc.htm).](https://olaw.nih.gov/resources/tutorial/iacuc.htm)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |  
   
-Table 1B. National Committee for Animal Welfare Review     
+##### Table 1B. National Committee for Animal Welfare Review     
 
 |Belgium    |Not applicable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |Canada     |Yes, policies and compliance are inspected by the Canadian Council on Animal Care, this committee also provides guidelines.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -90,7 +90,7 @@ Table 1B. National Committee for Animal Welfare Review
 |UK         |Yes, [Animals in Science Committee (ASC) provides independent advice to the Home Office Inspectors and Secretary of State. The committee consists of up to 12 members with relevant expertise in animal welfare and care, scientists, those with veterinarian training, and lay persons.](https://www.gov.uk/government/organisations/animals-in-science-committee) Each PI responsible for the project license has to participate in an interview with the ASC to answer questions about their application.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |USA        |Not applicable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 
   
-Table 1C. Other committees involved?     
+##### Table 1C. Other committees involved?     
  
 |Belgium    |Not applicable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 |Canada     |Not applicable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
@@ -106,7 +106,7 @@ Table 1C. Other committees involved?
 |UK         |Yes, a subgroup of Home Office Inspectors (HOIs) with NHP expertise linked to Animals in Science Regulation Unit (ASRU) provide advice and can suggest changes or request further justifications for the use of procedures.                                                                                                                                                                                                                                                                                                                                                           |
 |USA        |No, given the considerable expenses involved NHP research is typically funded by a federal agency. As part of the application, a section on vertebrate animals has to be filed, which contains all relevant information on the procedures that the laboratory animals will undergo. The review panel discusses this section along with the application. If the procedures detailed in the application do not meet ethical standards, it will not get funded. Approval by the local IACUC is necessary in order to receive federal support.                                            |  
   
-Table 1D. Implementation of the 3Rs (Replacement, Reduction, Refinement)     
+##### Table 1D. Implementation of the 3Rs (Replacement, Reduction, Refinement)     
 
 |Belgium    |Yes, each project should be in accordance with the National Institute of Health (NIH) Guide for the Care and Use of Laboratory Animals and the European guidelines (Directive 2010/63/EU). Experimenters have to prove adequate training and the 3R's have to be considered in each protocol. The necessity of using NHPs compared to other animal species and humans has to be shown. The number of proposed animals has to be justified. The origin of the animals has to be shown (at least second generation bred by authorized NHP breeders). NHP projects have to follow the recommendations of the Weatherall Report, and animals need to be allowed extensive locomotor behavior, foraging, and social interactions. The intended treatment and care (including housing) before, during and after the procedure, as well as the expertise of the responsible individuals is considered. The nature, frequency and duration of the procedures to which the animal is to be subjected as well as the degree of distress/discomfort that the laboratory animals will (or may) experience. The use (or potential use) of anaesthesia or analgesics and other methods to avoid distress/discomfort and whether a given animal was previously used for a procedure. Additionally, whether, and – if so – at what time, it was decided to proceed with the responsible sacrifice of the laboratory animals involved and the method used on that occasion. The final destination of the animal after the procedure is also considered.|
 |Canada     |Yes, the committees request information on how a specific submission or an ongoing protocol considers the 3Rs. The committees comment and request modifications in cases where accounting for the use of 3Rs is incomplete.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -122,7 +122,7 @@ Table 1D. Implementation of the 3Rs (Replacement, Reduction, Refinement)
 |UK         |Yes, ‘Under the Animals (Scientific Procedures) Act 1986 section 5B(3)(b), in carrying out the evaluation of the programme of work, the Secretary of State must assess the compliance of the programme of work with the principles of replacement, reduction and refinement. These principles are described in section 2A(2) of the Act (source: UK Home Office Project Licence application form).’ In addition, the evaluation includes justification for the species and the numbers of animals used, including appropriate power analysis. Explain refinements to procedures used and actions to be taken, and justify, if necessary, why available refinements may not be used. Discussion on whether reduction and/or replacement techniques are available or not.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |USA        |Yes, local animal research protocols usually contain a question asking about how the PIs’ selection of the model considers the 3Rs and often require a detailed literature research documenting the necessity of the animal model.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  
   
-Table 1E. Project authorization     
+##### Table 1E. Project authorization     
 
 |Belgium    |The Animal Ethics Committee determines whether experiments on animals meet legal requirements (according to the latest National and EU directives). The Animal Ethics Committee has the following responsibilities: 1) evaluating proposed and completed experiments; 2) establishing ethical standards for experiments on animals; 3) providing advice to the laboratory director, experiment coordinators and assistants on the ethical aspects of experiments on animals; 4) providing advice to the supervisory authorities on ethical aspects of experiments on animals.Furhtermore, the Animal Ethics Committee gathers information and/or advice (both within and outside the University) required to perform its duties.                                                                                           |
 |Canada     |Project authorization is contingent upon compliance with regular inspections conducted by the local IACUC officer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -138,7 +138,7 @@ Table 1E. Project authorization
 |UK         |[Regular meetings with the NVS and NACWO are held to ensure project is on course and if any changes have to be implemented. May need protocol and procedure changes to project licence. These changes require approval from AWERB, and sometimes ASC. They also require authorization from HOI and sign off from Home Office Secretary of State. AWERB is also responsible for the retrospective analysis half way through the project (typically at the two-year stage) and at the end of the project. These retrospective reviews (guide here) are then submitted to the Home Office. The regional HOI will undertake regular, unannounced visits and may access any records, if requested.](https://www.health-ni.gov.uk/publications/animal-scientific-procedures-retrospective-assessment-guidance)                   |
 |USA        |By Federal regulation, IACUCs are charged with biannual inspections of animal housing and animal use areas. Post approval monitoring of procedures happens in this context. This is an ongoing issue at some universities – how to do post IACUC protocol approval monitoring of procedures. USDA covered species (all warm-blooded animals except rats, mice and birds) protocols are reviewed every year. All others are reviewed every 3 years.                                                                                                                                                                                                                                                                                                                                                                         |  
   
-Table 1F. Harm/Benefit Analysis (HBA)      
+##### Table 1F. Harm/Benefit Analysis (HBA)      
 
 |Belgium    |Refer to consideration of 3Rs implementation as well as the origin, severity, re-use and group housing of NHPs; harm/benefit analysis also weighs surgical, analgesic, anesthesia, and water regulation procedures.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |Canada     |Harm/Benefit is implicitly considered by the funding agencies, during the peer-review of submitted funding applications. A second stage considering harm/benefit is at the Facility Animal Care Committee and the Institutional Animal Care Committee.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -154,7 +154,7 @@ Table 1F. Harm/Benefit Analysis (HBA)
 |UK         |[The costs to the animal in relation to the perceived benefits are used as a basis for deciding if the project licence can be approved. This analysis is conducted by the AWERB and at the national level by ASRU and the HOIs. ASRU guidance is available here https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/487914/Harm\_Benefit\_Analysis\_\_2\_.pdf. Harm/benefit assessments are also embedded in the retrospective analyses of the project.](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/487914/Harm_Benefit_Analysis__2_.pdf)                                                                                                                                                                                                                   |
 |USA        |The IACUC members discuss the harms and benefits of the research at the time of protocol review. This is always done for protocols involving pain that is difficult to relieve, or for animals expected to become sick, or otherwise impaired as a result of the scientific procedure. For some IACUCs, this is also assessed for any experimental procedure.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |  
   
-Table 1G. Anything else, not covered above?
+##### Table 1G. Anything else, not covered above?
 
 |Belgium    |Not applicable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |Canada     |Not applicable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
@@ -176,83 +176,83 @@ Table 1G. Anything else, not covered above?
   
   
 #### Table 2: Welfare and other regulations regarding accommodation, care and use of NHPs (macaques and marmosets).   
-Table 2A. Use of wild NHPs for research purposes      
+##### Table 2A. Use of wild NHPs for research purposes      
   
   
   
-Table 2B. Inspections (minimum number)     
+##### Table 2B. Inspections (minimum number)     
   
   
   
-Table 2C. Single housing     
+##### Table 2C. Single housing     
   
   
   
-Table 2D. Limits of pain, suffering, and distress     
+##### Table 2D. Limits of pain, suffering, and distress     
  
   
   
-Table 2E. Method of euthanasia    
+##### Table 2E. Method of euthanasia    
   
   
   
-Table 2F. Weaning age macaques (separation from the mother)     
+##### Table 2F. Weaning age macaques (separation from the mother)     
   
   
   
-Table 2G. Weaning age marmosets (separation from the mother)     
+##### Table 2G. Weaning age marmosets (separation from the mother)     
   
   
   
-Table 2H. Cage size for macaques in experiments: minimum volume per adult animal (> 3 years)    
+##### Table 2H. Cage size for macaques in experiments: minimum volume per adult animal (> 3 years)    
   
   
   
-Table 2I. Cage size for macaques in experiments: minimum enclosure height     
+##### Table 2I. Cage size for macaques in experiments: minimum enclosure height     
   
   
   
-Table 2J. Cage size for marmosets in experiments: minimum volume per adult animal (> 5 months)     
+##### Table 2J. Cage size for marmosets in experiments: minimum volume per adult animal (> 5 months)     
   
   
   
-Table 2K. Cage size for marmosets in experiments: minimum enclosure height     
+##### Table 2K. Cage size for marmosets in experiments: minimum enclosure height     
   
   
   
-Table 2L. Double-tiered caging     
+##### Table 2L. Double-tiered caging     
   
   
   
-Table 2M. Grid floor     
+##### Table 2M. Grid floor     
   
   
   
-Table 2N. Physical enrichment     
+##### Table 2N. Physical enrichment     
   
   
   
-Table 2O. Fluid control     
+##### Table 2O. Fluid control     
   
   
   
-Table 2P. Food control     
+##### Table 2P. Food control     
   
   
   
-Table 2Q. Capture     
+##### Table 2Q. Capture     
   
   
   
-Table 2R. Restraint    
+##### Table 2R. Restraint    
   
   
   
-Table 2S. Ongoing training     
+##### Table 2S. Ongoing training     
   
   
   
-Table 2T. Other?     
+##### Table 2T. Other?     
   
   
   
