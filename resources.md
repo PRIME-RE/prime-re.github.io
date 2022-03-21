@@ -60,7 +60,8 @@ Resources are categorized according to the problem or task they address. You can
   - [D99](templates_and_atlases_macaque.md#D99)     
   - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)       
   - [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)       
-  - [SARM](templates_and_atlases_macaque.md#SARM)         
+  - [SARM](templates_and_atlases_macaque.md#SARM)      
+  - [UNC-LPBR 4D](templates_and_atlases_macaque.md#unc-lpbr-4d-cynomolgus-macaque-atlases-from-birth-to-48-months)       
 - [Warps between macaque templates](templates_and_atlases.md#macaque_warps)     
   - [RheMAP](templates_and_atlases/rhemap.md)    
   
