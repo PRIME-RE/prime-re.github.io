@@ -79,6 +79,7 @@ Resources are categorized according to the problem or task they address. You can
 
 ### **[Structural analysis](pipelines_structural.md)**            
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
+- [BETS_formers](pipelines_structural.md#bets_formers-brain-extraction-and-tissue-segmentation-for-macaque-using-transformer-models)       
 - [BrainBox](pipelines_structural.md#brainbox)    
 - [CIVET-macaque](pipelines_structural.md#civet-macaque)     
 - [C-PAC](pipelines_structural.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
