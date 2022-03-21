@@ -47,6 +47,7 @@ window.onclick = function(event) {
 
 ## Overview     
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
+- [BETS_formers](pipelines_structural.md#bets_formers-brain-extraction-and-tissue-segmentation-for-macaque-using-transformer-models)  
 - [BrainBox](pipelines_structural.md#brainbox)
 - [CIVET-macaque](pipelines_structural.md#civet-macaque)   
 - [C-PAC](pipelines_structural.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes)       
@@ -73,7 +74,18 @@ window.onclick = function(event) {
 **Publication**     : [Cox (1996)](https://pubmed.ncbi.nlm.nih.gov/8812068/)<br/>[Jung et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)                                                                   
 **Communication**   : [AFNI message board ](https://afni.nimh.nih.gov/afni/community/board/list.php?1) 
 **Restrictions**    : Please cite the above publications              
-       
+ 
+### BETS_Formers: Brain Extraction and Tissue Segmentation for Macaque using Transformer Models       
+<div class="rw-ui-container" data-title="BETS_formers rating"></div>    
+**Authors**         : Tao Zhong, Xueyang Wu, Yuyu Niu, Gang Li, Yu Zhang                  
+**Description**     : Transformer models were provided for brain extraction and tissue segmentation in macaque T1w images. The models were trained on a large macaque samples from different sites and have been validated on data from different sites and perform well. We hoped these models could help more researchers in this field and thus benefit the neuroscience community in biomedical studies of non-human primates.          
+**Documentation**   : [Github](https://github.com/TaoZhong11/BrainExtraction-TissueSegmentation-Macaque)     
+**Link**            : [Github repo](https://github.com/TaoZhong11/BrainExtraction-TissueSegmentation-Macaque)       
+**Language**        : Python                                                                         
+**Publication**     : [Zhong et al. (2022) Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921010703)                                      
+**Communication**   : [email](mailto:taozh2315@gmail.com)        
+**Restrictions**    : None    
+  
 ### BrainBox       
 <div class="rw-ui-container" data-title="BrainBox rating"></div>    
 **Authors**         : Katja Heuer & Roberto Toro                  
