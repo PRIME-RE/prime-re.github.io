@@ -55,6 +55,7 @@ window.onclick = function(event) {
 - [NMT v1.3](templates_and_atlases_macaque.md#NMTv1.3)     
 - [NMT v2.0](templates_and_atlases_macaque.md#NMTv2.0)
 - [SARM](templates_and_atlases_macaque.md#SARM)
+- [UNC-LPBR 4D](templates_and_atlases_macaque.md#unc-lpbr-4d-cynomolgus-macaque-atlases-from-birth-to-48-months)
 
 ## Details
 
@@ -66,7 +67,7 @@ window.onclick = function(event) {
 **Documentation**   : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_charm.html)        
 **Link**            : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_charm.html#download)      
 **Language**        : Volumetric files are in NIFTI (.nii) format, while surface files are in GIFTI (.gii) format.      
-**Publication**     : [Jung et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)
+**Publication**     : [Jung et al. (2021) Neuroimage](https://doi-org.proxy.library.uu.nl/10.1016/j.neuroimage.2021.117997)
 **Communication**   : Email to [Dr. Adam Messinger](Adam.Messinger@nih.gov)                                       
 **Restrictions**    : Please cite the above publication                                     
 
@@ -114,7 +115,7 @@ window.onclick = function(event) {
 **Documentation**   : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/template_nmtv2.html)     
 **Link**            : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/template_nmtv2.html#download-symmetric-nmt-v2-datasets)       
 **Language**        : Volumetric files are in NIFTI (.nii) format, while surface files are in GIFTI (.gii) format. Scripts for processing single subjects rely on bash shell and AFNI.                        
-**Publication**     : [Jung et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)                     
+**Publication**     : [Jung et al. (2021) Neuroimage](https://doi-org.proxy.library.uu.nl/10.1016/j.neuroimage.2021.117997)                     
 **Communication**   : Email to [Dr. Adam Messinger](Adam.Messinger@nih.gov)             
 **Restrictions**    : Please cite the above publication
 
@@ -126,10 +127,23 @@ window.onclick = function(event) {
 **Documentation**   : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html)        
 **Link**            : [AFNI](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_tempatl/atlas_sarm.html#download)     
 **Language**        : Volumetric files are in NIFTI (.nii) format, while surface files are in GIFTI (.gii) format.        
-**Publication**     : [Hartig et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.09.16.300053v1)      
+**Publication**     : [Hartig et al. (2021) Neuroimage](https://doi-org.proxy.library.uu.nl/10.1016/j.neuroimage.2021.117996)      
 **Communication**   : Email to [Dr. Henry Evrard](mailto:henry.evrard@tuebingen.mpg.de) or [Dr. Adam Messinger](mailto:Adam.Messinger@nih.gov)                                      
 **Restrictions**    : Please cite the above publication                                      
 
+<a name="UNC-LPBR"></a>
+### UNC-LPBR 4D Cynomolgus Macaque Atlases from Birth to 48 Months         
+<div class="rw-ui-container" data-title="UNC-LPBR rating"></div>    
+**Authors**         : Tao Zhong, Jingkuan Wei, Kunhua Wu, Liangjun Chen, Fenqiang Zhao, Yuchen Pei, Ya Wang, Hongjiang Zhang, Zhengwang Wu, Ying Huang, Tengfei Li, Li Wang, Yongchang Chen, Weizhi Ji, Yu Zhang, Gang Li, Yuyu Niu                           
+**Description**     : We construct a comprehensive set of longitudinal brain atlases and associated tissue probability maps (gray matter, white matter, and cerebrospinal fluid) with a totally of 12 time-points from birth to 4 years of age (i.e., 1, 2, 3, 4, 5, 6, 9, 12, 18, 24, 36, and 48 months of age) based on 175 longitudinal structural MRI scans from 39 typically-developing cynomolgus macaques. To facilitate region-based analysis using the atlases, we also provide two popular hierarchy parcellations from NMT v2, i.e., cortical hierarchy maps (6 levels) and subcortical hierarchy maps (6 levels), on these longitudinal macaque brain atlases.                               
+**Documentation**   : [NITRC](https://www.nitrc.org/projects/cyno_4d_atlas/)        
+**Link**            : [NITRC](https://www.nitrc.org/projects/cyno_4d_atlas/)     
+**Language**        : NIFTI (.nii.gz) format        
+**Publication**     : [Zhong et al. (2022) Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921010703)      
+**Communication**   : [Email](mailto:taozh2315@gmail.com)                                      
+**Restrictions**    : None    
+  
+  
 [//]: # (This script is necessary to render the rating widgets)
 [//]: # (Use this code to insert a widget)
 [//]: # (<div class="rw-ui-container" data-title="test rating"></div>)
