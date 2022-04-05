@@ -9,8 +9,8 @@ Several early initiatives are currently considering a large community-driven eff
 ## Preprocessing pipelines
 Preprocessing is a crucial step in non-human neuroimaging analysis. This project has 2 main objects: 1) preprocessing some of the data made available through [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html), and 2) comparing a number of existing pipelines through standardized quality control. You can find the project on the [Discussion Board](https://github.com/PRIME-RE/prime-re.github.io/discussions/65) or [Mattermost](https://mattermost.brainhack.org/brainhack/channels/prime-de-preprocessed).       
 
-## Behavior & environment metadata     
-While the relation between brain structure/function, the environment, and behavior is rather universally recognized, details about the environment and the behavioral context in which neuroimaging studies are performed are often lacking. This project aims to establish a way for such information to be represented in metadata and more broadly shared. Additional information will follow but for now, you can find the project on the [Discussion Board](https://github.com/PRIME-RE/prime-re.github.io/discussions/66).      
+## Genotyping, behavior & environment metadata     
+While the relation between brain structure/function, the environment, and behavior is rather universally recognized, details about the environment and the behavioral context in which neuroimaging studies are performed are often lacking. This project aims to establish a way for such information to be represented in metadata and more broadly shared. It also aims to collect pedigree information for heritability studies and blood/tissue sample for genotyping purposes. Additional information will follow but for now, you can find the project on the [Discussion Board](https://github.com/PRIME-RE/prime-re.github.io/discussions/66).      
 
 
 ## Global Primate Brain Histology Exchange     
