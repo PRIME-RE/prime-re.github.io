@@ -56,4 +56,7 @@ Hartig,R., Klink, P.C., Polyakova, Z., Dehaqani, M-R.A., Bondar, I., Merchant, H
   
   
 ### Information tables     
-The paper contains (and links) extensive information tables that can be expanded and/or corrected when additional information becomes available. This resource can be viewed as a google spreadsheet <a href="https://docs.google.com/spreadsheets/d/1hKLikEDP-x3k0fI97m_TYrXCIhaMzDhSKLTHDPMsRWk/edit?usp=sharing" target="_blank">here</a>. For suggested edits and/or additions, please use one of our [contact options](https://prime-re.github.io/contact).    
+The paper contains (and links) extensive information tables that can be expanded and/or corrected when additional information becomes available. This resource can be viewed as a google spreadsheet <a href="https://docs.google.com/spreadsheets/d/1hKLikEDP-x3k0fI97m_TYrXCIhaMzDhSKLTHDPMsRWk/edit?usp=sharing" target="_blank">here</a>. For suggested edits and/or additions, please use one of our [contact options](https://prime-re.github.io/contact). 
+  
+[![Global Tables](/images/GlobalTables.png)](https://docs.google.com/spreadsheets/d/1hKLikEDP-x3k0fI97m_TYrXCIhaMzDhSKLTHDPMsRWk/edit?usp=sharing)
+  
