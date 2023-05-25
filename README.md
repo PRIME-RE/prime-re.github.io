@@ -1,8 +1,10 @@
+<p align="center"> <a href="https://prime-re.github.io/GCW2023"><img src="https://raw.githubusercontent.com/PRIME-RE/prime-re.github.io/master/images/PRIME-DRE_GCW2023.png"></p>
+     
 # Welcome to PRIME-RE
 
 Welcome to PRIME-RE, the primary exchange platform for resources related to non-human primate neuroimaging data.
 
-<p align="center"> <img height="300" src="https://raw.githubusercontent.com/PRIME-RE/prime-re.github.io/master/images//logo3.png"></p>
+<p align="center"> <img height="300" src="https://raw.githubusercontent.com/PRIME-RE/prime-re.github.io/master/images/logo3.png"></p>
 
 The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE aims to provide an overview of the main difficulties and curate a collection of solutions that currently exist within the broader NHP-MRI community for specific processing steps that are commonly performed on NHP MRI data. Since this is a community effort, we strongly encourage you to contribute your workflows and pipelines. 
 
