@@ -4,8 +4,9 @@ for those interested in one or two more days of sharing ideas, pitching projects
      
 You might make a start with some of the things discussed at the GCW, get help solving issues you've been struggling, build lasting connections, or simply hang out in a stimulating place for a bit.     
 
+You can sign-up for the (free) Brainhack event [here](https://forms.gle/aeG5hg7qSvxjbTZu5).
+
 <p align="center">
   <img width="300" src="https://github.com/PRIME-RE/prime-re.github.io/blob/master/images/brainhack.png?raw=true">
 </p>
 
-You can sign-up for the (free) Brainhack event [here](https://forms.gle/aeG5hg7qSvxjbTZu5).
