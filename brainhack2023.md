@@ -1,10 +1,11 @@
 # PRIME-DRE Brainhack     
 Following the GCW, there will be a short NHP-focused Brainhack on **July 28-29** at [The Neuro](https://www.mcgill.ca/neuro/).
 
-<p align="center"><b><big>
-     Room: <a href="https://www.mcgill.ca/neuro/about/contact/find-us/wayfinding">De Grandpré Communications Centre</a></b></br></br>
-     Friday 28 July: 11.30 - 18.00 </br>       
-     Saturday 29 July: 9.00 - 17.00 </big>
+<p align="center">
+     <b><big><a href="https://www.mcgill.ca/neuro/about/contact/find-us/wayfinding">De Grandpré Communications Centre</a></big></b>
+          </br></br><big>
+          Friday 28 July: 11.30 - 18.00 </br>       
+          Saturday 29 July: 9.00 - 17.00 </big>
 </p>
       
 This will be an excllent opportunity for those interested in one or two more days of sharing ideas, pitching projects and hacking away in an open inclusive environment.
