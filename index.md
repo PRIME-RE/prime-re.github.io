@@ -3,9 +3,6 @@
 [![gcw2023bh](images/gcw2023bh.png)](brainhack2023)  
 (*PRIMatE Data & Resource Exchange)   
 
-
-**IMPORTANT SURVEY** - *The [Society for Neuroscience](https://www.sfn.org/) is engaged in an effort to change the current institutional culture to be more supportive/protective of researchers working with animal models, particularly NHPs. NIH needs specific information and documentation of harassment to justify a need for change. SfN has created a survey to collect information from researchers regarding their experiences and the effects it has had on their professional and personal lives. [This anonymous survey](https://www.surveymonkey.com/r/DBV7F8Q) takes only 5-8 minutes to complete.*
-
 # PRIME-RE
 Welcome to the PRIMatE Resource Exchange (PRIME-RE), a community-driven resource exchange platform for non-human primate neuroimaging. Read more about this initiative in the [accompanying *NeuroImage* publication](https://doi.org/10.1016/j.neuroimage.2020.117519) and please consider citing the paper if this resource has been useful.
 
@@ -16,6 +13,10 @@ Our goal is to accelerate reproducible discovery, minimise redundant efforts and
 
 ### How to contribute ?
 Send new content by using [this issue template](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=new-resource&template=new-resource.md&title=%3CResource+Name%3E). You can also join our communication channel on the Brainhack Community via [PRIME-RE Mattermost-channel](https://mattermost.brainhack.org/brainhack/channels/compmri_resourcehub){:target="_blank"}. If you want to discuss the Primate Data Exchange in general, join on [PRIME-DE Mattermost-channel](https://mattermost.brainhack.org/brainhack/channels/prime-de){:target="_blank"}. Suggest a new feature or pitch an idea for the PRIME-RE platform [here](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Idea&template=new-ideas.md&title=%5BIdea%5D), ask a general question or start a discussion [here](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=QuestionOrDiscussion&template=question-and-discussion.md&title=%5BQuestionOrDiscussion%5D), or check the open Issues and Discussions [here](https://github.com/PRIME-RE/prime-re.github.io/issues).  
+
+Also check out the brand new [PRIME-DRE Brainweb](https://prime-re.github.io/brainweb/).      
+[![PRIME-DRE_Brainweb](images/PRIME-DRE_Brainweb.png)](https://prime-re.github.io/brainweb/)      
+
 
 ### Wiki
 A [wiki](https://github.com/PRIME-RE/prime-re.github.io/wiki/){:target="_blank"} have been set up to share knowledge about NHP MRI acquisition and image processing. Anyone can share knowledge and experience (problems with solutions, fixes, tricks...) after requesting access.
