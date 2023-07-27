@@ -1,6 +1,7 @@
      
-[![gcw2023](images/PRIME-DRE_GCW2023.png)](GCW2023)         
-[>> For info on the Brainhack, check here <<](https://prime-re.github.io/brainhack2023.html)     
+[![gcw2023](images/gcw2023.png)](GCW2023)      
+[![gcw2023bh](images/gcw2023bh.png)](brainhack2023)  
+(*PRIMatE Data & Resource Exchange)   
 
 
 **IMPORTANT SURVEY** - *The [Society for Neuroscience](https://www.sfn.org/) is engaged in an effort to change the current institutional culture to be more supportive/protective of researchers working with animal models, particularly NHPs. NIH needs specific information and documentation of harassment to justify a need for change. SfN has created a survey to collect information from researchers regarding their experiences and the effects it has had on their professional and personal lives. [This anonymous survey](https://www.surveymonkey.com/r/DBV7F8Q) takes only 5-8 minutes to complete.*
