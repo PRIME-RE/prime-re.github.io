@@ -111,6 +111,7 @@ Resources are categorized according to the problem or task they address. You can
 - [Cross-species alignment](pipelines_cross-species.md#cross-species-alignment)          
 
 ### **[Data sharing](data_sharing.md)**       
+- [BigMac dataset](data_sharing.md#the-bigmac-dataset)
 - [Neurovault](data_sharing.md#neurovault) 
 - [Openneuro](data_sharing.md#openneuro)     
 - [PRIME-DE](data_sharing.md#prime-de)       
