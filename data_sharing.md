@@ -46,6 +46,7 @@ window.onclick = function(event) {
 # Data sharing
 
 ## Overview     
+- [BigMac Dataset](templates_and_atlases_chimpanzee.md#bigmac)        
 - [National Chimpanzee Brain Resource](templates_and_atlases_chimpanzee.md#national-chimpanzee-brain-resource)        
 - [Neurovault.org](data_sharing.md#neurovault-org)
 - [Openneuro.org](data_sharing.md#openneuro)      
@@ -53,6 +54,17 @@ window.onclick = function(event) {
 - [Structural, diffusion and rs-functional MRI in Macaque Monkeys](data_sharing.md#structural-diffusion-and-rs-functional-mri-in-macaque-monkeys)
 
 ## Details
+
+### The BigMac dataset	            
+<div class="rw-ui-container" data-title="NCBR rating"></div>    
+**Authors**         : Amy FD Howard, Istvan N Huszar, Adele Smart, Michiel Cottaar, Greg Daubney, Taylor Hanayik, Alexandre A Khrapitchev, Rogier B Mars, Jeroen Mollink, Connor Scott, Nicola R Sibson, Jerome Sallet, Saad Jbabdi, Karla L Miller            
+**Description**     : An open dataset combining in vivo MRI, postmortem MRI and multi-contrast microscopy in a single, rhesus macaque brain. The in vivo data includes functional, structural and diffusion MRI. The postmortem MRI includes structural MRI, a T1 map and an extensive diffusion protocol (two resolutions, multi-shell, ultra-HARDI + spherical tensor encoding). The microscopy includes polarised light imaging and histology acquired throughout the brain. The MRI and microscopy have been coregistered and warpfields are provided.                         
+**Documentation**   : [Documentation](https://open.win.ox.ac.uk/pages/amyh/bigmacdocumentation/ )     
+**Link**            : [Link](https://open.win.ox.ac.uk/DigitalBrainBank/#/datasets/anatomist)    
+**Language**        : bash, matlab, python                    
+**Publication**     : [Publication](https://open.win.ox.ac.uk/DigitalBrainBank/#/datasets/anatomist)                     
+**Communication**   : [Email](mailto:amy.howard@ndcn.ox.ac.uk)               
+**Restrictions**    : Data access requires a data sharing agreement to be signed between institutions. This stipulates the data can only be used for scientific research and that future publications acknowledge the original manuscript and funding body.   
 
 ### National Chimpanzee Brain Resource	            
 <div class="rw-ui-container" data-title="NCBR rating"></div>    
