@@ -4,7 +4,8 @@ Are you looking for other NHP neuroimaging researchers to discuss practical issu
 <br>
 
 
-- [Check out the brand new PRIME-DRE Brainweb](https://prime-re.github.io/brainweb/){:target="_blank"}.  
+- [Check out the brand new PRIME-DRE Brainweb](https://prime-re.github.io/brainweb/){:target="_blank"}.
+- [Start a discussion on the PRIME-RE Discussions site](https://github.com/PRIME-RE/prime-re.github.io/discussions){:target="_blank"}.             
 - [Join the converstation in the PRIME-RE Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/prime-re){:target="_blank"}     
 - [Brainweb, an online neuroscience collaboration platform](https://brain-web.github.io/){:target="_blank"}     
 - [National Chimpanzee Brain Resource](https://www.chimpanzeebrain.org/){:target="_blank"}     
