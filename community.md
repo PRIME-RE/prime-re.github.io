@@ -12,6 +12,14 @@ Are you looking for other NHP neuroimaging researchers to discuss practical issu
 - [National Chimpanzee Brain Resource](https://www.chimpanzeebrain.org/){:target="_blank"}     
 - [The Brainhack Organization](https://brainhack.org/){:target="_blank"}      
 
+# Global Collaboration Workshops
+The PRIME-DRE community aims to meet every two years to discuss progress and future efforts. You can find more info on these meetings here:     
+- [GCW 2019 (Wellcome Trust, London)](https://fcon_1000.projects.nitrc.org/indi/PRIME/Workshop_reg.html)
+- [Brainhack 2019](https://brainhack.org/2019/09/07/compMRI2019.html)     
+- [GCW 2021 (virtual)](GCW2021.md)     
+- [GCW 2023 (The Neuro, Montreal)](GCW2023.md)     
+- [Brainhack 2023](brainhack2023.md)     
+
 
 # Publications
 
