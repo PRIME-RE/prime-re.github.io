@@ -49,12 +49,24 @@ window.onclick = function(event) {
 
 
 ## Overview       
+- [Brain/MINDS Marmoset Reference Atlas Set (BMA)](templates_and_atlases_marmoset.md#brain-minds-marmoset-reference-atlas-set-bma)
 - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)        
 - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)   
 - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
 
 
 ## Details
+
+### Brain/MINDS Marmoset Reference Atlas Set (BMA)    
+<div class="rw-ui-container" data-title="bma rating"></div>    
+**Authors**         : The resource development is lead by the [Connectome Analysis Unit](https://cau.riken.jp/), Integrative Computational Brain Science Collaboration Division, [RIKEN Center for Brain Science](https://www.riken.jp/en/research/labs/cbs/), Japan. Full list of contributors: Alexander Woodward, Tsutomu Hashikawa, Masahide Maeda, Takaaki Kaneko, Keigo Hikishima, Atsushi Iriki, Hideyuki Okano, Yoko Yamaguchi, Rui Gong, Ken Nakae, Junichi Hata, Shin Ishii, Hiroshi Abe, Toshiki Tani, Frederic Papazian, Hiromi Masuko, Takuto Okuno, Tetsuo Yamamori, Noritaka Ichinohe.        	     
+**Description**     : The Brain/MINDS Marmoset Reference Atlas Set (BMA) provide 3D brain atlases for the common marmoset: **BMA 2017**: ex-vivo multi-modal Nissl & MRI 3D atlas. **BMA 2019**: builds on previous work and adds a population average ex-vivo MRI T2WI contrast and cortical flat maps. **BMA 2023**: a population-based brain atlas constructed from N=10 cortical region parcellations. It includes a symmetric standard template space created from 92 MRI T2WI scans.                   
+**Documentation**   : [See website](https://dataportal.brainminds.jp/atlas-package-download-main-page)     
+**Link**            : [Download page](ttps://dataportal.brainminds.jp/atlas-package-download-main-page)    
+**Language**        : n/a          
+**Publication**     : [Woodward et al. (2018)](https://doi.org/10.1038/sdata.2018.9)                     
+**Communication**   : [cau-contact@ml.riken.jp](mailto:cau-contact@ml.riken.jp)    
+**Restrictions**    : This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)     
 
 ### Marmoset Brain Connectivity Atlas            
 <div class="rw-ui-container" data-title="mbca rating"></div>    
