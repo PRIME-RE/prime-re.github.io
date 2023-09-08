@@ -49,7 +49,7 @@ window.onclick = function(event) {
 
 
 ## Overview       
-- [Brain/MINDS Marmoset Reference Atlas Set (BMA)](templates_and_atlases_marmoset.md#brain-minds-marmoset-reference-atlas-set-bma)
+- [Brain/MINDS Marmoset Reference Atlas Set (BMA)](templates_and_atlases_marmoset.md#brainminds-marmoset-reference-atlas-set-bma)
 - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)        
 - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)   
 - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
