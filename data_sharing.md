@@ -47,7 +47,7 @@ window.onclick = function(event) {
 
 ## Overview     
 - [BigMac Dataset](data_sharing.md#the-bigmac-dataset)
-- [Brain/MINDS Data Portal](data_sharing.md#brain-minds-data-portal)     
+- [Brain/MINDS Data Portal](data_sharing.md#brainminds-data-portal)     
 - [National Chimpanzee Brain Resource](data_sharing.md#national-chimpanzee-brain-resource)        
 - [Neurovault.org](data_sharing.md#neurovault-org)
 - [Openneuro.org](data_sharing.md#openneuro)      
