@@ -46,8 +46,9 @@ window.onclick = function(event) {
 # Data sharing
 
 ## Overview     
-- [BigMac Dataset](templates_and_atlases_chimpanzee.md#bigmac)        
-- [National Chimpanzee Brain Resource](templates_and_atlases_chimpanzee.md#national-chimpanzee-brain-resource)        
+- [BigMac Dataset](data_sharing.md#the-bigmac-dataset)
+- [Brain/MINDS Data Portal](data_sharing.md#brain-minds-data-portal)     
+- [National Chimpanzee Brain Resource](data_sharing.md#national-chimpanzee-brain-resource)        
 - [Neurovault.org](data_sharing.md#neurovault-org)
 - [Openneuro.org](data_sharing.md#openneuro)      
 - [PRIME-DE](data_sharing.md#prime-de)   
@@ -56,7 +57,7 @@ window.onclick = function(event) {
 ## Details
 
 ### The BigMac dataset	            
-<div class="rw-ui-container" data-title="NCBR rating"></div>    
+<div class="rw-ui-container" data-title="Bigmac rating"></div>    
 **Authors**         : Amy FD Howard, Istvan N Huszar, Adele Smart, Michiel Cottaar, Greg Daubney, Taylor Hanayik, Alexandre A Khrapitchev, Rogier B Mars, Jeroen Mollink, Connor Scott, Nicola R Sibson, Jerome Sallet, Saad Jbabdi, Karla L Miller            
 **Description**     : An open dataset combining in vivo MRI, postmortem MRI and multi-contrast microscopy in a single, rhesus macaque brain. The in vivo data includes functional, structural and diffusion MRI. The postmortem MRI includes structural MRI, a T1 map and an extensive diffusion protocol (two resolutions, multi-shell, ultra-HARDI + spherical tensor encoding). The microscopy includes polarised light imaging and histology acquired throughout the brain. The MRI and microscopy have been coregistered and warpfields are provided.                         
 **Documentation**   : [Documentation](https://open.win.ox.ac.uk/pages/amyh/bigmacdocumentation/ )     
@@ -65,6 +66,17 @@ window.onclick = function(event) {
 **Publication**     : [Publication](https://open.win.ox.ac.uk/DigitalBrainBank/#/datasets/anatomist)                     
 **Communication**   : [Email](mailto:amy.howard@ndcn.ox.ac.uk)               
 **Restrictions**    : Data access requires a data sharing agreement to be signed between institutions. This stipulates the data can only be used for scientific research and that future publications acknowledge the original manuscript and funding body.   
+
+### Brain/MINDS Data Portal
+<div class="rw-ui-container" data-title="brainmiinds rating"></div>    
+**Authors**         :  [Brain/MINDS project](https://brainminds.jp/en)’s participants            
+**Description**     : The [Brain/MINDS Data Portal](https://dataportal.brainminds.jp/) has been launched for sharing the data and knowledge being produced in the [Brain/MINDS project](https://brainminds.jp/en), Japan’s Brain Mapping Project. The unique appeal of the Brain/MINDS project is its focus on mapping the brain of a small new world monkey, the common marmoset (Callithrix jacchus). This is important because research on the non-human primate brain is essential for understanding the human brain and for developing knowledge-based strategies for the diagnosis and treatment of psychiatric and neurological disorders. The Data Portal aims to provide integrated knowledge for public use and original data for open research and collaboration.                         
+**Documentation**   : [Documentation](https://dataportal.brainminds.jp/about)     
+**Link**            : [Brian/MINDS](https://dataportal.brainminds.jp)    
+**Language**        : Website in English                    
+**Publication**     : [Brain/MINDS related publications](https://brainminds.jp/en/publication)                     
+**Communication**   : [cau-contact@ml.riken.jp](mailto:cau-contact@ml.riken.jp)              
+**Restrictions**    : The conditions for data usage are described separately for each dataset on their respective landing pages.     
 
 ### National Chimpanzee Brain Resource	            
 <div class="rw-ui-container" data-title="NCBR rating"></div>    
