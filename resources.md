@@ -67,6 +67,7 @@ Resources are categorized according to the problem or task they address. You can
   
 [Marmoset](templates_and_atlases.md#marmoset_atlases)       
 - [Details](templates_and_atlases_marmoset.md)    
+  - [Brain/MINDS Marmoset Reference Atlas Set (BMA)](templates_and_atlases_marmoset.md#brain-minds-marmoset-reference-atlas-set-bma)
   - [Marmoset Brain Connectivity Atlas](templates_and_atlases_marmoset.md#marmoset-brain-connectivity-atlas)        
   - [Marmoset Brain Mapping Atlas and Template](templates_and_atlases_marmoset.md#marmoset-brain-mapping-atlas-and-template)        
   - [Nencki-Monash Template](templates_and_atlases_marmoset.md#nencki-monash-template)
@@ -112,6 +113,7 @@ Resources are categorized according to the problem or task they address. You can
 
 ### **[Data sharing](data_sharing.md)**       
 - [BigMac dataset](data_sharing.md#the-bigmac-dataset)
+- [Brain/MINDS Data Portal](data_sharing.md#brain-minds-data-portal)     
 - [Neurovault](data_sharing.md#neurovault) 
 - [Openneuro](data_sharing.md#openneuro)     
 - [PRIME-DE](data_sharing.md#prime-de)       
