@@ -113,7 +113,7 @@ Resources are categorized according to the problem or task they address. You can
 
 ### **[Data sharing](data_sharing.md)**       
 - [BigMac dataset](data_sharing.md#the-bigmac-dataset)
-- [Brain/MINDS Data Portal](data_sharing.md#brain-minds-data-portal)     
+- [Brain/MINDS Data Portal](data_sharing.md#brainminds-data-portal)     
 - [Neurovault](data_sharing.md#neurovault) 
 - [Openneuro](data_sharing.md#openneuro)     
 - [PRIME-DE](data_sharing.md#prime-de)       
