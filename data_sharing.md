@@ -72,7 +72,7 @@ window.onclick = function(event) {
 **Authors**         :  [Brain/MINDS project](https://brainminds.jp/en)’s participants            
 **Description**     : The [Brain/MINDS Data Portal](https://dataportal.brainminds.jp/) has been launched for sharing the data and knowledge being produced in the [Brain/MINDS project](https://brainminds.jp/en), Japan’s Brain Mapping Project. The unique appeal of the Brain/MINDS project is its focus on mapping the brain of a small new world monkey, the common marmoset (Callithrix jacchus). This is important because research on the non-human primate brain is essential for understanding the human brain and for developing knowledge-based strategies for the diagnosis and treatment of psychiatric and neurological disorders. The Data Portal aims to provide integrated knowledge for public use and original data for open research and collaboration.                         
 **Documentation**   : [Documentation](https://dataportal.brainminds.jp/about)     
-**Link**            : [Brian/MINDS](https://dataportal.brainminds.jp)    
+**Link**            : [Brain/MINDS Data Portal](https://dataportal.brainminds.jp)    
 **Language**        : Website in English                    
 **Publication**     : [Brain/MINDS related publications](https://brainminds.jp/en/publication)                     
 **Communication**   : [cau-contact@ml.riken.jp](mailto:cau-contact@ml.riken.jp)              
