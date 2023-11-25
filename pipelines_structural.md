@@ -194,7 +194,7 @@ window.onclick = function(event) {
 **Language**        : JavaScript, HTML, CSS                                                       
 **Publication**     : [Heuer and Toro 2020](https://doi.org/10.21105/joss.02670).                                                                                      
 **Communication**   : [GitHub issues](https://github.com/neuroanatomy/reorient/issues)                                                 
-**Restrictions**    : Developed and tested in Chrome Browser  
+**Restrictions**    : Please cite the [paper](https://doi.org/10.21105/joss.02670) and the Web tool [https://neuroanatomy.github.io/reorient](https://neuroanatomy.github.io/reorient). Developed and tested in Chrome Browser  
 
 ### Thresholdmann     
 <div class="rw-ui-container" data-title="Thresholdmann rating"></div>    
@@ -205,7 +205,7 @@ window.onclick = function(event) {
 **Language**        : JavaScript, HTML, CSS                                                       
 **Publication**     : Work in progress                                                                                       
 **Communication**   : [GitHub issues](https://github.com/neuroanatomy/thresholdmann/issues)                                     
-**Restrictions**    : Developed and tested in Chrome Browser  
+**Restrictions**    : Please cite the Web tool [https://neuroanatomy.github.io/thresholdmann](https://neuroanatomy.github.io/thresholdmann). Developed and tested in Chrome Browser  
 
 ### UNet model for skull stripping and brain masks of anatomical images from PRIME-DE         
 <div class="rw-ui-container" data-title="UNet rating"></div>    
