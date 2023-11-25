@@ -1,13 +1,53 @@
+<!-- This piece of code configures a dropdown button for resource categories. It should be present on every page where you want the button -->
+<head><meta name="viewport" content="width=device-width, initial-scale=1"><style>
+.dropbtn {background-color: #1e6bb8; color: white; padding: 16px; font-size: 1rem; border: none; cursor: pointer; width: 30rem}
+.dropbtn:hover, .dropbtn:focus {background-color: #2980B9;}
+.dropdown {position: relative; display: inline-block;}
+.dropdown-content {display: none; position: absolute; background-color: #f1f1f1; min-width: 100%; overflow: auto; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; text-align: center; font-size: 1rem;}
+.dropdown-content a { color: black; padding: 12px 16px; text-decoration: none; display: block;}
+.dropdown a:hover {background-color: #ddd;}
+.show {display: block;}
+.dropbtn + .dropbtn { margin-left: auto; }
+@media screen and (min-width: 64em) { .dropbtn { max-width: 64rem; width: 40rem; padding: 0.75rem 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .dropbtn { width: 30rem; padding: 0.6rem 0.9rem; font-size: 0.9rem; } }
+@media screen and (max-width: 42em) { .dropbtn { display: block; width: 20rem; padding: 0.75rem; font-size: 0.9rem; }
+.dropbtn + .dropbtn { margin-top: 1rem; margin-left: 0; } }
+</style></head>
+<!------------------------------------------------------------------------>
 
----
+<!-- This is the actual button -->
+<center><div class="dropdown">
+  <button onclick="myFunction()" class="dropbtn">Select Resource Category</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="templates_and_atlases">Templates & atlases</a>
+    <a href="pipelines_general">General analysis</a>
+    <a href="pipelines_structural">Structural analysis</a>
+    <a href="pipelines_fmri">Functional analysis</a>
+    <a href="pipelines_diffusion">Diffusion analysis</a>
+    <a href="pipelines_cross-species">Cross-species analysis</a>
+    <a href="data_sharing">Data sharing</a>
+    <a href="software_packages">Software packages</a>
+    <a href="hardware">Hardware & protocols</a>
+  </div>
+</div></center>
 
-##### [Template/Atlas](templates_and_atlases.md) &nbsp;  - &nbsp;  [General](pipelines_general.md) &nbsp;  - &nbsp;  [Structural](pipelines_structural.md) &nbsp;  - &nbsp;  [fMRI](pipelines_fmri.md) &nbsp;  - &nbsp;  [Diffusion](pipelines_diffusion.md) &nbsp;  - &nbsp;  [Data](data_sharing.md) &nbsp;  - &nbsp; [Software packages](software_packages.md)  &nbsp;  - &nbsp; [Hardware](hardware.md)          
----    
+<!-- This script handles the button dynamics -->
+<script>
+function myFunction() {document.getElementById("myDropdown").classList.toggle("show");}
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) { var dropdowns = document.getElementsByClassName("dropdown-content"); var i;
+    for (i = 0; i < dropdowns.length; i++) {var openDropdown = dropdowns[i]; if (openDropdown.classList.contains('show')) {openDropdown.classList.remove('show'); } } }
+} 
+</script>
 
-# Structural MRI
+
+
+<!-- Start normal content here --> 
+# Structural analysis
 
 ## Overview     
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
+- [BETS_formers](pipelines_structural.md#bets_formers-brain-extraction-and-tissue-segmentation-for-macaque-using-transformer-models)  
 - [BrainBox](pipelines_structural.md#brainbox)
 - [CIVET-macaque](pipelines_structural.md#civet-macaque)   
 - [C-PAC](pipelines_structural.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes)       
@@ -20,8 +60,7 @@
 - [Reorient](pipelines_structural.md#reorient)
 - [Thresholdmann](pipelines_structural.md#thresholdmann)     
 - [UNet model for skull stripping for PRIME-DE](pipelines_structural.md#unet-model-for-skull-stripping-and-brain-masks-of-anatomical-images-from-prime-de)
-
-<br>     
+   
 
 ## Details
 
@@ -29,12 +68,24 @@
 <div class="rw-ui-container" data-title="animal_warper rating"></div>    
 **Authors**         : Daniel Glen, Paul Taylor, Adam Messinger, Benjamin Jung, Jakob Seidlitz                 
 **Description**     : Nonlinearly aligns an MRI dataset to a template. The reverse transformation can be used to produce a skullstripped (brain-only) version of the native scan, segmentation/atlas info in the native space, and surfaces for each atlas region. The computed transformations between the anatomical scan and the template is provided for use with FMRI pipeline tools like afni_proc.py.                                   
-**Documentation**   : [Online doc](https://afni.nimh.nih.gov/pub/dist/doc/program_help/@animal_warper.html)     
+**Documentation**   : [documentation](https://afni.nimh.nih.gov/pub/dist/doc/program_help/@animal_warper.html)<br/>[tutorials](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/nonhuman/macaque_demos/main_toc.html)     
 **Link**            : [AFNI](https://afni.nimh.nih.gov/)    
 **Language**        : tcsh, python, C, AFNI                                                                         
-**Publication**     : TBD                                                                                       
+**Publication**     : [Cox (1996)](https://pubmed.ncbi.nlm.nih.gov/8812068/)<br/>[Jung et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.05.237818v1)                                                                   
 **Communication**   : [AFNI message board ](https://afni.nimh.nih.gov/afni/community/board/list.php?1) 
-
+**Restrictions**    : Please cite the above publications              
+ 
+### BETS_Formers: Brain Extraction and Tissue Segmentation for Macaque using Transformer Models       
+<div class="rw-ui-container" data-title="BETS_formers rating"></div>    
+**Authors**         : Tao Zhong, Xueyang Wu, Yuyu Niu, Gang Li, Yu Zhang                  
+**Description**     : Transformer models were provided for brain extraction and tissue segmentation in macaque T1w images. The models were trained on a large macaque samples from different sites and have been validated on data from different sites and perform well. We hoped these models could help more researchers in this field and thus benefit the neuroscience community in biomedical studies of non-human primates.          
+**Documentation**   : [Github](https://github.com/TaoZhong11/BrainExtraction-TissueSegmentation-Macaque)     
+**Link**            : [Github repo](https://github.com/TaoZhong11/BrainExtraction-TissueSegmentation-Macaque)       
+**Language**        : Python                                                                         
+**Publication**     : [Zhong et al. (2022) Neuroimage](https://www.sciencedirect.com/science/article/pii/S1053811921010703)                                      
+**Communication**   : [email](mailto:taozh2315@gmail.com)        
+**Restrictions**    : None    
+  
 ### BrainBox       
 <div class="rw-ui-container" data-title="BrainBox rating"></div>    
 **Authors**         : Katja Heuer & Roberto Toro                  
@@ -49,17 +100,17 @@
 ### CIVET-macaque       
 <div class="rw-ui-container" data-title="CIVET-macaque rating"></div>    
 **Authors**         : Claude Lepage, Konrad Wagstyl, Ben Jung, Jakob Seidlitz, Caleb Sponheim, Leslie Ungerleider, Xindi Wang, Alan Evans, Adam Messinger                   
-**Description**     : Fully automated structural MRI pipeline using the NIH Macaque Template (NMT).  Performs registration, segmentation, and surface reconstruction of T1-weighted anatomical scans.  Provides quality control images and results.    
+**Description**     : Fully automated structural MRI pipeline using the NIH Macaque Template (NMT). Performs registration, segmentation, and surface reconstruction of T1-weighted anatomical scans. Provides quality control images, white matter, pial and mid cortical surfaces, and surface morphometrics including cortical thickness maps.    
 **Documentation**   : [Github](https://github.com/aces/CIVET_Full_Project)     
-**Link**            : [https://github.com/aces/CIVET_Full_Project](https://github.com/aces/CIVET_Full_Project)    
+**Link**            : [Github](https://github.com/aces/CIVET_Full_Project)    
 **Language**        : C, minc, NIFTI/GIFTI.  Binaries available on GitHub.                                          
-**Publication**     : forthcoming                                                                                       
-**Communication**   : tbd               
-**Restrictions**    : Cite the forthcoming paper          
+**Publication**     : [Lepage et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.04.237149v1)         
+**Communication**   : Email to [Dr. Adam Messinger](mailto:Adam.Messinger@nih.gov) or [Github](https://github.com/aces/CIVET_Full_Project/issues)                     
+**Restrictions**    : Please cite the above publication          
 
 ### C-PAC: The Configurable Pipeline for the Analysis of Connectomes
 <div class="rw-ui-container" data-title="C-PAC rating"></div>    
-**Authors**         : Steven Giavasis, Cameron Craddock, Michael Milham                                                               
+**Authors**         : Steven Giavasis, Cameron Craddock, Michael Milham                                                         
 **Description**     : The Configurable Pipeline for the Analysis of Connectomes (C-PAC) is a configurable, open-source, Nipype-based, automated processing pipeline for resting state functional MRI (R-fMRI) data, for use by both novice and expert users. It is designed and tested for use with human data (all ages), as well as with non-human primate and rodent data.                   
 **Documentation**   : [http://fcp-indi.github.io/](http://fcp-indi.github.io/)                                      
 **Link**            : [Quick-Start](http://fcp-indi.github.io/docs/user/quick.html)               
@@ -160,8 +211,8 @@
 <div class="rw-ui-container" data-title="UNet rating"></div>    
 **Authors**         : Xindi Wang, Ting Xu                                                                             
 **Description**     : The preprocessed brain masks of T1w images for all macaque monkeys from PRIME-DE. A convolutional network - UNet model was used to generate the brain mask for T1w images. The UNet model was initially trained in a large human sample and upgraded with a few macaque data. With a small macaque training sample (N=1-2), the UNet model achieves a decent performance of brain extraction with a minimal processing time (GPU: ~20s, CPU: 2-10 min).                       
-**Documentation**   : [UNet model on PRIME-DE](https://github.com/TingsterX/PRIME-DE/tree/master/BrainExtraction)    
-**Link**            : [UNet model](https://github.com/to-be-release), [code](https://github.com/to-be-release), [preprocessed brain masks](https://github.com/TingsterX/PRIME-DE/tree/master/BrainExtraction)             
+**Documentation**   : [UNet model on PRIME-DE](https://github.com/HumanBrainED/NHP-BrainExtraction)    
+**Link**            : [code](https://github.com/HumanBrainED/NHP-BrainExtraction), [preprocessed brain masks](https://github.com/TingsterX/PRIME-DE/tree/master/BrainExtraction)             
 **Language**        : Python                                                       
 **Publication**     : [In prepartion](https://github.com/to-be-release)                                 
 **Communication**   : [GitHub profile](https://github.com/TingsterX)                                                 

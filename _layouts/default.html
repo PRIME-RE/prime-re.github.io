@@ -26,16 +26,19 @@
 
     <header class="page-header" role="banner">
       <!--<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>-->
-      <h1 class="project-name">{{ "PRIME-RE" }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <!--<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>-->
+      <!--<h1 class="project-name">{{ "PRIME-RE" }}</h1>-->
+      <img img height="300" src="/images/logo_white_header.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      <h2 class="project-tagline">{{ "An open resource exchange platform for non-human primate neuroimaging" }}</h2>
       
       <nav class="main-nav">
         <a href="/" class="btn">Home</a>
         <a href="/resources" class="btn">Resources</a>
-        <a href="https://github.com/PRIME-RE/prime-re.github.io/wiki/" class="btn" target="_blank">Wiki</a>
+        <!--<a href="https://github.com/PRIME-RE/prime-re.github.io/wiki/" class="btn" target="_blank">Wiki</a>-->
+        <a href="/tutorials" class="btn">Tutorials</a>
         <a href="/contribute" class="btn">Contribute</a>    
-        <a href="/testimonials" class="btn">Testimonials</a>    
-        <a href="/tutorials_resources" class="btn">Other</a>
+        <a href="/community" class="btn">Community</a>
+        <a href="https://github.com/PRIME-RE/prime-re.github.io/discussions" class="btn" target="_blank">Discuss</a>
         <a href="/contact" class="btn">Contact</a>
       </nav>
       
@@ -55,7 +58,7 @@
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        <span class="site-footer-credits">PRIME-RE is an initiative of the <a href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html">PRIME-DE consortium</a>. Follow us on <a href="https://twitter.com/PRIMatE_RE"><img src="images/twitter.png" alt="Twitter"></a></span>
+        <span class="site-footer-credits">PRIME-RE is an initiative of the <a href="http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html" target="_blank">PRIME-DE consortium</a>. PRIME-RE on <a href="https://github.com/PRIME-RE/prime-re.github.io" target="_blank"><img src="https://raw.githubusercontent.com/PRIME-RE/prime-re.github.io/master/images/github_icon.png" alt="GitHub"></a>. Follow us on <a href="https://twitter.com/PRIMatE_RE" target="_blank"><img src="https://raw.githubusercontent.com/PRIME-RE/prime-re.github.io/master/images/twitter.png" alt="Twitter"></a></span>
       </footer>
     </main>
   </body>
