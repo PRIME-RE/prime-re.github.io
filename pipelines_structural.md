@@ -189,23 +189,23 @@ window.onclick = function(event) {
 <div class="rw-ui-container" data-title="Reorient rating"></div>    
 **Authors**         : Katja Heuer & Roberto Toro                                                                                     
 **Description**     : A Web tool for reorienting and cropping MRI data               
-**Documentation**   : [Readme in the GitHub repo](https://github.com/neuroanatomy/reorient)                                             
-**Link**            : [GitHub Link](https://neuroanatomy.github.io/reorient)      
+**Documentation**   : [Doc in the GitHub repo](https://neuroanatomy.github.io/reorient/doc.html)                                             
+**Link**            : [Web tool](https://neuroanatomy.github.io/reorient)      
 **Language**        : JavaScript, HTML, CSS                                                       
-**Publication**     : Work in progress                                                                                       
+**Publication**     : [Heuer and Toro 2020](https://doi.org/10.21105/joss.02670).                                                                                      
 **Communication**   : [GitHub issues](https://github.com/neuroanatomy/reorient/issues)                                                 
-**Restrictions**    : Developed and tested in Chrome Browser  
+**Restrictions**    : Please cite the [paper](https://doi.org/10.21105/joss.02670) and the Web tool [https://neuroanatomy.github.io/reorient](https://neuroanatomy.github.io/reorient). Developed and tested in Chrome Browser  
 
 ### Thresholdmann     
 <div class="rw-ui-container" data-title="Thresholdmann rating"></div>    
 **Authors**         : Katja Heuer & Roberto Toro                                                                                     
 **Description**     : A Web tool for interactively creating adaptive thresholds to segment nifti images               
-**Documentation**   : [Readme in the GitHub repo](https://github.com/neuroanatomy/thresholdmann)                                        
-**Link**            : [GitHub Link](https://neuroanatomy.github.io/thresholdmann)      
+**Documentation**   : [Doc in the GitHub repo](https://neuroanatomy.github.io/thresholdmann/doc.html)                                        
+**Link**            : [Web tool](https://neuroanatomy.github.io/thresholdmann)      
 **Language**        : JavaScript, HTML, CSS                                                       
 **Publication**     : Work in progress                                                                                       
 **Communication**   : [GitHub issues](https://github.com/neuroanatomy/thresholdmann/issues)                                     
-**Restrictions**    : Developed and tested in Chrome Browser  
+**Restrictions**    : Please cite the Web tool [https://neuroanatomy.github.io/thresholdmann](https://neuroanatomy.github.io/thresholdmann). Developed and tested in Chrome Browser  
 
 ### UNet model for skull stripping and brain masks of anatomical images from PRIME-DE         
 <div class="rw-ui-container" data-title="UNet rating"></div>    
