@@ -2,6 +2,7 @@
 
 This website is intended to be a meeting place for the NHP neuroimaging community. We hope you can find international colleagues here, discover mutual interests and start new collaborations. Get in contact with people through the following communication channels:
 
+- [Contact the PRIME-DRE steering committee](steeringcommitte.md).    
 - [Contact the people behind PRIME-RE](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Contact&template=contact.md&title=[Contact]:&nbsp;%3Ctopic%3E).    
 - [Suggest a new feature or pitch an idea on PRIME-RE's as a GitHub issue](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=Idea&template=new-ideas.md&title=%5BIdea%5D){:target="_blank"}.    
 - [Start a discussion on the PRIME-RE Discussions site](https://github.com/PRIME-RE/prime-re.github.io/discussions){:target="_blank"}.             
