@@ -1,12 +1,14 @@
 # PRIME-DRE steering committee
 Justine Cléry (McGill)   
-Renee Hartig [co-lead](NKI)    
+Renee Hartig (NKI) [co-lead]   
 Katja Heuer (Inst. Pasteur)   
-Chris Klink [co-lead](NIN)    
+Chris Klink (NIN) [co-lead]   
 Rogier Mars (Oxford)    
 Amir Shmuel (McGill)   
 Alison Weiss (ONPRC)   
 Ting Xu (CMI)    
+
+[Email the Steering Committee](mailto:prime.dre@gmail.com)
 
 # PRIME-DRE senior advisory committee
 Daniel Margulies (CNRS)    
