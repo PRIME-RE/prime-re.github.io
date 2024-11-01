@@ -1,3 +1,7 @@
+[![gcw2024](/images/gcw2024.png)](https://prime-re.github.io/GCW2024)         
+*click the image for more info*
+
+
 # PRIME-RE
 Welcome to the PRIMatE Resource Exchange (PRIME-RE), a community-driven resource exchange platform for non-human primate neuroimaging. Read more about this initiative in the [accompanying *NeuroImage* publication](https://doi.org/10.1016/j.neuroimage.2020.117519) and please consider citing the paper if this resource has been useful.
 
