@@ -11,6 +11,7 @@ Ting Xu (CMI)
 [Email the Steering Committee](mailto:prime.dre@gmail.com)
 
 # PRIME-DRE senior advisory committee
+Sabine Kastner (Princeton)
 Daniel Margulies (CNRS)    
 Michael Milham (CMI)   
 Chris Petkov (Newcastle/Iowa)    
