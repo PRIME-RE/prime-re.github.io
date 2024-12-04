@@ -2,7 +2,7 @@
 
 The PRIME-DRE consortium is a global initiative that tries to tackle challenges in NHP neuroimaging with a collaborative and open approach. This page highlights several new and ongoing initiatives that are open to people joining the effort and making it a success. If you see a project that you are interested in, do not hesitate to contact the people behind it through one of the listed contact options. If no contact options are listed, [send us a message](contact.md) and we will try to get you in contact with the right people.    
 
-If you have an inititative or vacancy you would like to list here fill out this [issue template](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=announcement&template=announcement.md&title=%3CResource+Name%3E) and we will post it for you. This could be a call for **data**, a **job vacancy**, a call for **collaboration**, or something else. If it takes longer than expected for your post to appear, [let us know](contact.md).     
+If you have an inititative or vacancy you would like to list here fill out this [issue template](https://github.com/PRIME-RE/prime-re.github.io/issues/new?assignees=&labels=announcement&template=announcement.md&title=%3CResource+Name%3E) and we will post it for you. This could be a call for **data**, a **job vacancy**, a call for **collaboration**, or something else. If it takes longer than expected for your post to appear, [let us know](contact.md). If you are looking for collaborators, we can also recommend the PRIME-DRE [Brainweb](https://prime-re.github.io/brainweb/).     
 <br>
 
 ## NHP-connectome    
