@@ -16,4 +16,4 @@ Contact details:
 
 Post on NHP-MRI mailing list: Y/N
 
-(If you're posting a call for colaboration, we also suggest you creat a topic on the Brainweb at https://prime-re.github.io/brainweb)
+If you're posting a call for collaboration, we also suggest you create a topic on the Brainweb at https://prime-re.github.io/brainweb or the Discussion forum on this website at https://github.com/PRIME-RE/prime-re.github.io/discussions.
