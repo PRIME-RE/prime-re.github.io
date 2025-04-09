@@ -76,7 +76,8 @@ Resources are categorized according to the problem or task they address. You can
 
 
 ### **[General analysis](pipelines_general.md)**  
-- [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
+- [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes)
+- [MacqD](pipelines_general.md#macqd)      
 - [NeuroElf](pipelines_general.md#neuroelf)   
 
 ### **[Structural analysis](pipelines_structural.md)**            
