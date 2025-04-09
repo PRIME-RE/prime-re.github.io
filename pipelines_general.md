@@ -46,7 +46,8 @@ window.onclick = function(event) {
 # General analysis
 
 ## Overview
-- [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes) 
+- [C-PAC](pipelines_general.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes)
+- [MacqD](pipelines_general.md#macqd) 
 - [NeuroElf](pipelines_general.md#neuroelf) 
      
 
@@ -62,6 +63,17 @@ window.onclick = function(event) {
 **Publication**     : [Craddock et al. (2013)](https://www.frontiersin.org/10.3389/conf.fninf.2013.09.00042/event_abstract)         
 **Communication**   : [C-PAC Forum](https://groups.google.com/forum/#!forum/cpax_forum)                                             
 **Restrictions**    : None      
+
+### MacqD
+<div class="rw-ui-container" data-title="maqd rating"></div>    
+**Authors**         : Genevieve Jiawei Moat, Maxime Gaudet-Trafit, Julian Paul, Jaume Bacardit, Suliann Ben Hamed & Colline Poirier                                                                  
+**Description**     : Deep-learning-based model for automatic detection of socially housed laboratory macaques.                       
+**Documentation**   : [https://github.com/C-Poirier-Lab/MacqD.git](https://github.com/C-Poirier-Lab/MacqD.git)                                      
+**Link**            : [https://github.com/C-Poirier-Lab/MacqD.git](https://github.com/C-Poirier-Lab/MacqD.git)               
+**Language**        : Python: 3.7.13                                                       
+**Publication**     : [Moat GJ et al. (2025)](https://rdcu.be/egK32)         
+**Communication**   : [E-mail Colline](mailto:colline.poirier@ncl.ac.uk)                                             
+**Restrictions**    : citation required  
 
 ### NeuroElf
 <div class="rw-ui-container" data-title="NeuroElf rating"></div>
