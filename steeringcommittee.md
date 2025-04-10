@@ -3,7 +3,6 @@ Justine Cléry (McGill)
 Renee Hartig (NKI) [co-lead]   
 Katja Heuer (Inst. Pasteur)   
 Chris Klink (NIN) [co-lead]   
-Rogier Mars (Oxford)    
 Amir Shmuel (McGill)   
 Alison Weiss (ONPRC)   
 Ting Xu (CMI)    
