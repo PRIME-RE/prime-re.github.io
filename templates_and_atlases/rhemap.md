@@ -18,7 +18,25 @@
 
 ![RheMAP graphic](RheMAP_graphic.png)
 
+## RheMAP-Surf    
+<div class="rw-ui-container" data-title="rhemap-surf rating"></div>        
+![RheMAP-surf logo](RheMAP-surf_logo.png)    
 
+|                     |                                                                                         |
+| :------------------ | :-------------------------------------------------------------------------------------- |
+| **Name**            | RheMAP-Surf                                                                             |    
+| **Authors**         | Zi-Xuan Zhou](https://orcid.org/0000-0002-9894-7934) & [Ting Xu](https://github.com/TingsterX) (Child Mind Institute)       |
+| **Description**     | **Surface transformations** among commonly used rhesus macaque brain templates. Two alternative sets of deformation spheres are provided.         |
+| **Documentation**   | [RheMAP-Surf markdown reports on GitHub](https://github.com/HumanBrainED/RheMAP-Surf)     |
+| **Link**            | Zenodo archive [(dataset, code, and intermediate results)](https://doi.org/10.5281/zenodo.15642802) and GitHub repository [RheMAP-Surf](https://github.com/HumanBrainED/RheMAP-Surf)  |
+| **Language**        | shell, workbench, python |
+| **Publication**     | Zhou, Z.-X., & Xu, T. (2025). RheMAP-Surf: Surface Transformations Among Commonly Used Rhesus Macaque Brain Templates (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15642802|
+| **Communication**   | <zixuan.zhou@childmind.org>, <Ting.Xu@childmind.org>                                    |
+| **Restrictions**    | Please cite the Zenodo archive when you use this in your work.                          |
+    
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15642802.svg)](https://doi.org/10.5281/zenodo.15642802)
+
+![RheMAP-surf graphic](RheMAP-surf_graphic.png)
 
 [//]: # (This script is necessary to render the rating widgets)
 [//]: # (Use this code to insert a widget)
