@@ -86,11 +86,12 @@ Below, we provide a non-exhaustive list of existing templates and atlases. For a
 For a more detailed resource list of macaque templates and atlases see [this list](templates_and_atlases_macaque.md).
 
 <a name="macaque_warps"></a>
-### Warps between macaque templates
-Transforming data (e.g. parcellations, statistical maps) between the various template spaces requires the registration of those templates to one another. The [RheMAP](templates_and_atlases/rhemap.md) package provides pre-calculated warps between a set of common rhesus macaque brain templates. These warps can be directly downloaded from [Zenodo](https://doi.org/10.5281/zenodo.3668510
-). Corresponding code is available on [GitHub](https://github.com/PRIME-RE/RheMAP).     
+### Warps between macaque templates: RheMAP and RheMAP-surf    
+Transforming data (e.g. parcellations, statistical maps) between the various template spaces requires the registration of those templates to one another. The [RheMAP and RheMAP-surf](templates_and_atlases/rhemap.md) packages provide pre-calculated warps between a set of common rhesus macaque brain templates in volume and surface space respectively. These warps can be directly downloaded from [Zenodo](https://doi.org/10.5281/zenodo.3668510
+). Corresponding code is available on GitHub for [RheMAP](https://github.com/PRIME-RE/RheMAP) and [RheMAP-surf](https://github.com/HumanBrainED/RheMAP-Surf).     
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3668510.svg)](https://doi.org/10.5281/zenodo.3668510)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15642802.svg)](https://doi.org/10.5281/zenodo.15642802)
 
 <br>   
 
