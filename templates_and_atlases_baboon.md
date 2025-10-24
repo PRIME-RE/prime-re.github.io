@@ -43,7 +43,7 @@ window.onclick = function(event) {
 
 
 <!-- Start normal content here -->
-# Chimpanzee templates and atlases
+# Baboon templates and atlases
 
 [<< Back to main templates & atlases page](templates_and_atlases.md)
 
