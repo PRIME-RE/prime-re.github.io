@@ -61,7 +61,7 @@ window.onclick = function(event) {
 **Documentation**   : [GitHub](https://github.com/arnaudletroter/BABACOOL)     
 **Link**            : [https://openneuro.org/datasets/ds005424/versions/1.0.1](https://openneuro.org/datasets/ds005424/versions/1.0.1)    
 **Language**        : bash and python, with [ANTs](https://github.com/ANTsX/ANTs) and [FSL](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/)                     
-**Publication**     : Le Troter et al., BaBa21. OpenNeuro Dataset, doi: [doi:10.18112/openneuro.ds005424.v1.0.1](https://doi.org/10.18112/openneuro.ds005424.v1.0.1)                     
+**Publication**     : Le Troter et al., BaBa21. OpenNeuro Dataset, [doi:10.18112/openneuro.ds005424.v1.0.1](https://doi.org/10.18112/openneuro.ds005424.v1.0.1)                     
 **Communication**   : [email](mailto:arnaud.le-troter@univ-amu.fr) or [email](mailto:katherine.BRYANT@univ-amu.fr)           
 **Restrictions**    : CC0 license     
 
