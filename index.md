@@ -1,11 +1,11 @@
-[![GCW2025](images/gcw2025.png)](https://prime-re.github.io/GCW2025/)  
+[![GCW2025](images/gcw2025.png)](https://prime-re.github.io/GCW2025)  
 
 # PRIME-RE
 Welcome to the PRIMatE Resource Exchange (PRIME-RE), a community-driven resource exchange platform for non-human primate neuroimaging. Read more about this initiative in the [accompanying *NeuroImage* publication](https://doi.org/10.1016/j.neuroimage.2020.117519) and please consider citing the paper if this resource has been useful.
 
 The preprocessing and analysis of nonhuman primate (NHP) magnetic resonance imaging (MRI) data presents some unique challenges. Over the years, many laboratories and researchers have created their own custom solutions to many of these problems. PRIME-RE provides an overview of the main difficulties and curates a collection of solutions for specific processing steps that currently exist within the NHP-MRI community. This is a community effort, initiated by members of the [PRIME-DE consortium](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html){:target="_blank"}. We strongly encourage you to [contribute](contribute.md) your workflows and pipelines.     
 
-In 2021, the consortium behind [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html){:target="_blank"} (data) and [PRIME-RE](https://prime-re.github.io/) (resources) rebranded their initiative as PRIME-DRE, the *Primate Data & Resource Exchange*. In 2024, leadership of PRIME-DRE was restructured into a [steering committee and senior advisory committee](steeringcommittee.md) that organized the [2024 online Global Collaboration Workshop](https://prime-re.github.io/GCW2024).      
+In 2021, the consortium behind [PRIME-DE](http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html){:target="_blank"} (data) and [PRIME-RE](https://prime-re.github.io/) (resources) rebranded their initiative as PRIME-DRE, the *Primate Data & Resource Exchange*. In 2024, leadership of PRIME-DRE was restructured into a [steering committee and senior advisory committee](steeringcommittee.md).      
 
 ### Open science
 Our goal is to accelerate reproducible discovery, minimise redundant efforts and maximise efficiency by allowing the community to curate relevant resources, disseminate and encourage open science, and strengthen communication in the research community. We aim at making NHP resources open and [FAIR](https://doi.org/10.1038/sdata.2016.18), and support the adoption of the [Brain Imaging Data Structure (BIDS)](https://doi.org/10.1038/sdata.2016.44){:target="_blank"} and [code development best practices](https://doi.org/10.1038/nn.4550){:target="_blank"}, such as version control, testing, and continuous integration. 
