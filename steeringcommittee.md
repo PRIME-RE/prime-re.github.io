@@ -7,7 +7,7 @@ Amir Shmuel (McGill)
 Alison Weiss (ONPRC)   
 Ting Xu (CMI)    
 
-[Email the Steering Committee](mailto:prime.dre@gmail.com)
+[Email the Steering Committee](mailto:primate.dre@gmail.com)
 
 # PRIME-DRE senior advisory committee
 Sabine Kastner (Princeton)     
