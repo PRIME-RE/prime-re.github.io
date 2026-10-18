@@ -49,6 +49,7 @@ window.onclick = function(event) {
 - [AFNI @animal_warper](pipelines_structural.md#afni-animal_warper)   
 - [BETS_formers](pipelines_structural.md#bets_formers-brain-extraction-and-tissue-segmentation-for-macaque-using-transformer-models)  
 - [BrainBox](pipelines_structural.md#brainbox)
+- [CIVET-chimp](pipelines_structural.md#civet-chimp)   
 - [CIVET-macaque](pipelines_structural.md#civet-macaque)   
 - [C-PAC](pipelines_structural.md#c-pac-the-configurable-pipeline-for-the-analysis-of-connectomes)       
 - [Macapype](pipelines_structural.md#macapype)     
@@ -97,15 +98,26 @@ window.onclick = function(event) {
 **Communication**   : [Mattermost](https://mattermost.brainhack.org/brainhack/channels/brainbox) or [GitHub issues](https://github.com/neuroanatomy/BrainBox/issues)    
 **Restrictions**    : Developed and tested in Chrome Browser         
 
+### CIVET-chimp       
+<div class="rw-ui-container" data-title="CIVET-chimp rating"></div>    
+**Authors**         : Claude Lepage, Erika Nolan, Trisanna Sprung-Much, Gabriel A. Devenyi, Michael Petrides, Alan C. Evans                   
+**Description**     : Extension of CIVET-macaque for chimpanzee (*Pan troglodytes*) T1-weighted MRI, built on a standardized MNI-like volumetric space derived from the National Chimpanzee Brain Resource (NCBR) 3T dataset. Performs registration, brain masking, tissue classification and white, pial and mid-cortical surface extraction, with cortical thickness, curvature and area. Includes a symmetric MNI-NCBR average surface for surface-based registration, the Davi130 and Chimpanzee Brainnetome (CBA) parcellations, and a surface-based transform from the chimpanzee average surface to human MNI152 and fsaverage surfaces for cross-species studies.    
+**Documentation**   : [BIC CIVET-macaque/chimp page](https://www.bic.mni.mcgill.ca/ServicesSoftware/CIVET-macaque)     
+**Link**            : [CBRAIN](https://portal.cbrain.mcgill.ca) (CIVET-macaque/chimp alpha-0.2), [templates & models](http://www.bic.mni.mcgill.ca/users/claude/CIVET_wiki_files/CIVET_chimp-alpha-0.2.tar.gz), [Github](https://github.com/aces/CIVET_Full_Project)    
+**Language**        : C, minc, NIFTI/GIFTI                                          
+**Publication**     : [Lepage et al. (2026) NeuroImage: Reports](https://doi.org/10.1016/j.ynirp.2026.100360)         
+**Communication**   : Email to [Dr. Claude Lepage](mailto:claude@bic.mni.mcgill.ca) or [Github](https://github.com/aces/CIVET_Full_Project/issues)                     
+**Restrictions**    : Please cite the above publication, plus the Davi130 or Brainnetome publications if using those parcellations          
+
 ### CIVET-macaque       
 <div class="rw-ui-container" data-title="CIVET-macaque rating"></div>    
 **Authors**         : Claude Lepage, Konrad Wagstyl, Ben Jung, Jakob Seidlitz, Caleb Sponheim, Leslie Ungerleider, Xindi Wang, Alan Evans, Adam Messinger                   
-**Description**     : Fully automated structural MRI pipeline using the NIH Macaque Template (NMT). Performs registration, segmentation, and surface reconstruction of T1-weighted anatomical scans. Provides quality control images, white matter, pial and mid cortical surfaces, and surface morphometrics including cortical thickness maps.    
-**Documentation**   : [Github](https://github.com/aces/CIVET_Full_Project)     
-**Link**            : [Github](https://github.com/aces/CIVET_Full_Project)    
+**Description**     : Fully automated structural MRI pipeline using the NIMH Macaque Template (NMT). Performs registration, segmentation, and surface reconstruction of T1-weighted anatomical scans. Provides quality control images, white matter, pial and mid cortical surfaces, and surface morphometrics including cortical thickness maps. Includes a macaque average surface for surface-based registration, with surface parcellations from the D99 and CHARM atlases. See also [CIVET-chimp](pipelines_structural.md#civet-chimp).    
+**Documentation**   : [BIC CIVET-macaque/chimp page](https://www.bic.mni.mcgill.ca/ServicesSoftware/CIVET-macaque)     
+**Link**            : [CBRAIN](https://portal.cbrain.mcgill.ca) (CIVET-macaque/chimp alpha-0.2), [templates & models](http://www.bic.mni.mcgill.ca/users/claude/CIVET_wiki_files/CIVET_macaque-alpha-0.2.tar.gz), [Github](https://github.com/aces/CIVET_Full_Project)    
 **Language**        : C, minc, NIFTI/GIFTI.  Binaries available on GitHub.                                          
-**Publication**     : [Lepage et al. (submitted)](https://www.biorxiv.org/content/10.1101/2020.08.04.237149v1)         
-**Communication**   : Email to [Dr. Adam Messinger](mailto:Adam.Messinger@nih.gov) or [Github](https://github.com/aces/CIVET_Full_Project/issues)                     
+**Publication**     : [Lepage et al. (2021) NeuroImage](https://doi.org/10.1016/j.neuroimage.2020.117622)         
+**Communication**   : Email to [Dr. Claude Lepage](mailto:claude@bic.mni.mcgill.ca) or [Dr. Adam Messinger](mailto:Adam.Messinger@nih.gov), or [Github](https://github.com/aces/CIVET_Full_Project/issues)                     
 **Restrictions**    : Please cite the above publication          
 
 ### C-PAC: The Configurable Pipeline for the Analysis of Connectomes
