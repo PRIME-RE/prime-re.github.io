@@ -50,6 +50,7 @@ window.onclick = function(event) {
 
 ## Overview       
 - [Juna.Chimp Templates & Davi130 parcellation](templates_and_atlases_chimpanzee.md#junachimp-templates--davi130-parcellation)        
+- [MNI-NCBR volumetric and surface templates (CIVET-chimp)](templates_and_atlases_chimpanzee.md#mni-ncbr-volumetric-and-surface-templates-civet-chimp)        
 - [National Chimpanzee Brain Resource](templates_and_atlases_chimpanzee.md#national-chimpanzee-brain-resource)        
 
 
@@ -66,6 +67,18 @@ window.onclick = function(event) {
 **Publication**     : [Vickery et al. (2020)](https://elifesciences.org/articles/60136)                     
 **Communication**   : [email](mailto:s.vickery@fz-juelich.de) or [open an issue](issue at https://github.com/viko18/JunaChimp)           
 **Restrictions**    : Please cite our publication if you use this resource.     
+
+<a name="MNINCBR"></a>
+### MNI-NCBR volumetric and surface templates (CIVET-chimp)            
+<div class="rw-ui-container" data-title="MNI-NCBR rating"></div>    
+**Authors**         : Claude Lepage, Erika Nolan, Trisanna Sprung-Much, Gabriel A. Devenyi, Michael Petrides, Alan C. Evans         	     
+**Description**     : Symmetric chimpanzee T1w template (0.4 mm isotropic) with tissue priors and brain mask, built from 75 NCBR 3T subjects in an MNI-like orientation aligned to the AC-PC line. Accompanied by a symmetric MNI-NCBR average cortical surface (white and mid-cortical, 40,962 and 163,842 vertices per hemisphere) from 74 NCBR 3T scans, Davi130 and Chimpanzee Brainnetome (CBA) surface parcellations, and surface transforms to human MNI152 and fsaverage. Distributed as the models used by the [CIVET-chimp](pipelines_structural.md#civet-chimp) pipeline.                   
+**Documentation**   : [BIC CIVET-macaque/chimp page](https://www.bic.mni.mcgill.ca/ServicesSoftware/CIVET-macaque)     
+**Link**            : [CIVET_chimp-alpha-0.2.tar.gz](http://www.bic.mni.mcgill.ca/users/claude/CIVET_wiki_files/CIVET_chimp-alpha-0.2.tar.gz)    
+**Language**        : MINC volumes, MNI obj surfaces (NIFTI/GIFTI output available)                    
+**Publication**     : [Lepage et al. (2026) NeuroImage: Reports](https://doi.org/10.1016/j.ynirp.2026.100360)                     
+**Communication**   : Email to [Dr. Claude Lepage](mailto:claude@bic.mni.mcgill.ca) or [Github](https://github.com/aces/CIVET_Full_Project/issues)           
+**Restrictions**    : Please cite the above publication, plus the Davi130 or Brainnetome publications if using those parcellations.     
 
 <a name="NCBR"></a>
 ### National Chimpanzee Brain Resource	            
