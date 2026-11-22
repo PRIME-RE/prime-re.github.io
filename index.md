@@ -1,3 +1,4 @@
+[![GCW2026](images/GCW2026.png)](GCW2026)
 [![NC](images/NPSCbanner.png)](naturecollection)
 
 # PRIME-RE
